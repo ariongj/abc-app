@@ -1,0 +1,233 @@
+{
+  "_content-ZXgsLMgz.js": {
+    "file": "assets/content-ZXgsLMgz.js",
+    "name": "content"
+  },
+  "_school-IGaSNnTh.js": {
+    "file": "assets/school-IGaSNnTh.js",
+    "name": "school",
+    "imports": [
+      "_content-ZXgsLMgz.js"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-DXvLoz15.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_content-ZXgsLMgz.js"
+    ],
+    "dynamicImports": [
+      "src/AppShell.tsx",
+      "src/admin/AdminPortal.tsx",
+      "src/teacher/TeacherPortal.tsx",
+      "src/pages/AccountPages.tsx",
+      "src/pages/AccountPages.tsx",
+      "src/pages/LegalPages.tsx",
+      "src/pages/LegalPages.tsx"
+    ],
+    "css": [
+      "assets/index-CtMCbov3.css"
+    ],
+    "assets": [
+      "assets/caprasimo-latin-400-normal-u3avbpQ7.woff2",
+      "assets/caprasimo-latin-400-normal-CPOhBPz8.woff",
+      "assets/figtree-latin-ext-400-normal-CXAzuTZb.woff2",
+      "assets/figtree-latin-ext-400-normal-Gbh-3PTk.woff",
+      "assets/figtree-latin-400-normal-g7Dtegnw.woff2",
+      "assets/figtree-latin-400-normal-BD4aNku5.woff",
+      "assets/figtree-latin-ext-600-normal-DJlfifZj.woff2",
+      "assets/figtree-latin-ext-600-normal-CQqsimlV.woff",
+      "assets/figtree-latin-600-normal-Cv_xCTDl.woff2",
+      "assets/figtree-latin-600-normal-BM_oTo4n.woff",
+      "assets/figtree-latin-ext-700-normal-CS4sQkGV.woff2",
+      "assets/figtree-latin-ext-700-normal-BoDi4KL2.woff",
+      "assets/figtree-latin-700-normal-th6qEP7c.woff2",
+      "assets/figtree-latin-700-normal-BCCt2T1q.woff",
+      "assets/figtree-latin-ext-800-normal-DLIuazCv.woff2",
+      "assets/figtree-latin-ext-800-normal-Cp4dEvwL.woff",
+      "assets/figtree-latin-800-normal-30yxI7TZ.woff2",
+      "assets/figtree-latin-800-normal-B7vj2UK8.woff",
+      "assets/figtree-latin-ext-900-normal-7_pmoOkR.woff2",
+      "assets/figtree-latin-ext-900-normal-BfyWW5yK.woff",
+      "assets/figtree-latin-900-normal-BCLx4uqW.woff2",
+      "assets/figtree-latin-900-normal-BAYHxy6Q.woff"
+    ]
+  },
+  "node_modules/@fontsource/caprasimo/files/caprasimo-latin-400-normal.woff": {
+    "file": "assets/caprasimo-latin-400-normal-CPOhBPz8.woff",
+    "src": "node_modules/@fontsource/caprasimo/files/caprasimo-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/caprasimo/files/caprasimo-latin-400-normal.woff2": {
+    "file": "assets/caprasimo-latin-400-normal-u3avbpQ7.woff2",
+    "src": "node_modules/@fontsource/caprasimo/files/caprasimo-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-400-normal.woff": {
+    "file": "assets/figtree-latin-400-normal-BD4aNku5.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-400-normal.woff2": {
+    "file": "assets/figtree-latin-400-normal-g7Dtegnw.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-600-normal.woff": {
+    "file": "assets/figtree-latin-600-normal-BM_oTo4n.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-600-normal.woff2": {
+    "file": "assets/figtree-latin-600-normal-Cv_xCTDl.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-700-normal.woff": {
+    "file": "assets/figtree-latin-700-normal-BCCt2T1q.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-700-normal.woff2": {
+    "file": "assets/figtree-latin-700-normal-th6qEP7c.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-800-normal.woff": {
+    "file": "assets/figtree-latin-800-normal-B7vj2UK8.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-800-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-800-normal.woff2": {
+    "file": "assets/figtree-latin-800-normal-30yxI7TZ.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-800-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-900-normal.woff": {
+    "file": "assets/figtree-latin-900-normal-BAYHxy6Q.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-900-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-900-normal.woff2": {
+    "file": "assets/figtree-latin-900-normal-BCLx4uqW.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-900-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-400-normal.woff": {
+    "file": "assets/figtree-latin-ext-400-normal-Gbh-3PTk.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-400-normal.woff2": {
+    "file": "assets/figtree-latin-ext-400-normal-CXAzuTZb.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-600-normal.woff": {
+    "file": "assets/figtree-latin-ext-600-normal-CQqsimlV.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-600-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-600-normal.woff2": {
+    "file": "assets/figtree-latin-ext-600-normal-DJlfifZj.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-600-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-700-normal.woff": {
+    "file": "assets/figtree-latin-ext-700-normal-BoDi4KL2.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-700-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-700-normal.woff2": {
+    "file": "assets/figtree-latin-ext-700-normal-CS4sQkGV.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-700-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-800-normal.woff": {
+    "file": "assets/figtree-latin-ext-800-normal-Cp4dEvwL.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-800-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-800-normal.woff2": {
+    "file": "assets/figtree-latin-ext-800-normal-DLIuazCv.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-800-normal.woff2"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-900-normal.woff": {
+    "file": "assets/figtree-latin-ext-900-normal-BfyWW5yK.woff",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-900-normal.woff"
+  },
+  "node_modules/@fontsource/figtree/files/figtree-latin-ext-900-normal.woff2": {
+    "file": "assets/figtree-latin-ext-900-normal-7_pmoOkR.woff2",
+    "src": "node_modules/@fontsource/figtree/files/figtree-latin-ext-900-normal.woff2"
+  },
+  "src/AppShell.tsx": {
+    "file": "assets/AppShell-CmnJjZbP.js",
+    "name": "AppShell",
+    "src": "src/AppShell.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-ZXgsLMgz.js",
+      "_school-IGaSNnTh.js"
+    ],
+    "dynamicImports": [
+      "src/data/curriculum.ts",
+      "src/data/books.ts",
+      "src/data/curriculum.ts",
+      "src/data/books.ts"
+    ],
+    "css": [
+      "assets/AppShell-DXppi0CL.css"
+    ]
+  },
+  "src/admin/AdminPortal.tsx": {
+    "file": "assets/AdminPortal-DGrDlA0u.js",
+    "name": "AdminPortal",
+    "src": "src/admin/AdminPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-ZXgsLMgz.js"
+    ],
+    "css": [
+      "assets/AdminPortal-Bnwdht11.css"
+    ]
+  },
+  "src/data/books.ts": {
+    "file": "assets/books-C-Uo9Kig.js",
+    "name": "books",
+    "src": "src/data/books.ts",
+    "isDynamicEntry": true
+  },
+  "src/data/curriculum.ts": {
+    "file": "assets/curriculum-CTgFNPb5.js",
+    "name": "curriculum",
+    "src": "src/data/curriculum.ts",
+    "isDynamicEntry": true
+  },
+  "src/pages/AccountPages.tsx": {
+    "file": "assets/AccountPages-BC68JWOJ.js",
+    "name": "AccountPages",
+    "src": "src/pages/AccountPages.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-ZXgsLMgz.js"
+    ],
+    "css": [
+      "assets/AccountPages-Db2uffNu.css"
+    ]
+  },
+  "src/pages/LegalPages.tsx": {
+    "file": "assets/LegalPages-CpsbN-MP.js",
+    "name": "LegalPages",
+    "src": "src/pages/LegalPages.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_content-ZXgsLMgz.js"
+    ]
+  },
+  "src/teacher/TeacherPortal.tsx": {
+    "file": "assets/TeacherPortal-C4NwK7W5.js",
+    "name": "TeacherPortal",
+    "src": "src/teacher/TeacherPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_school-IGaSNnTh.js",
+      "_content-ZXgsLMgz.js"
+    ],
+    "dynamicImports": [
+      "src/data/curriculum.ts",
+      "src/data/books.ts"
+    ],
+    "css": [
+      "assets/TeacherPortal-cEtR4p1O.css"
+    ]
+  }
+}
