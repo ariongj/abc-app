@@ -1,0 +1,1 @@
+import{al as c,m as l}from"./content-CyUOfMKn.js";const a="place:",n=t=>a+t,s=t=>t.startsWith(a),o=t=>s(t)?l(t.slice(a.length)):void 0;function p(t){const e=o(t);return e?`Eksploro: ${e.name}`:s(t)?"":c(t)}export{o as a,n as p,p as t};

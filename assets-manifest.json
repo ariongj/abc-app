@@ -1,0 +1,513 @@
+{
+  "_assignTarget-BCPEW9dz.js": {
+    "file": "assets/assignTarget-BCPEW9dz.js",
+    "name": "assignTarget",
+    "imports": [
+      "_content-CyUOfMKn.js"
+    ]
+  },
+  "_classChallenge-BS_sMJpc.js": {
+    "file": "assets/classChallenge-BS_sMJpc.js",
+    "name": "classChallenge",
+    "imports": [
+      "_content-CyUOfMKn.js"
+    ]
+  },
+  "_content-CyUOfMKn.js": {
+    "file": "assets/content-CyUOfMKn.js",
+    "name": "content",
+    "imports": [
+      "_motion-W77J4Ig-.js"
+    ]
+  },
+  "_io-CyRCAKaK.js": {
+    "file": "assets/io-CyRCAKaK.js",
+    "name": "io",
+    "assets": [
+      "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+      "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+      "assets/plus-jakarta-sans-latin-400-normal-Dhut76fR.woff2",
+      "assets/plus-jakarta-sans-latin-600-normal-DLTa1BUW.woff2",
+      "assets/plus-jakarta-sans-latin-700-normal-CfpNZvy6.woff2",
+      "assets/plus-jakarta-sans-latin-800-normal-CusIZhrK.woff2"
+    ]
+  },
+  "_motion-W77J4Ig-.js": {
+    "file": "assets/motion-W77J4Ig-.js",
+    "name": "motion"
+  },
+  "_school-DPUb3-iU.js": {
+    "file": "assets/school-DPUb3-iU.js",
+    "name": "school",
+    "imports": [
+      "_io-CyRCAKaK.js",
+      "_content-CyUOfMKn.js"
+    ]
+  },
+  "_schoolAccount-BOJMr_vZ.js": {
+    "file": "assets/schoolAccount-BOJMr_vZ.js",
+    "name": "schoolAccount",
+    "imports": [
+      "_content-CyUOfMKn.js",
+      "_assignTarget-BCPEW9dz.js",
+      "_classChallenge-BS_sMJpc.js"
+    ]
+  },
+  "_teacher-BM1j0qH5.js": {
+    "file": "assets/teacher-BM1j0qH5.js",
+    "name": "teacher",
+    "imports": [
+      "_content-CyUOfMKn.js",
+      "_io-CyRCAKaK.js",
+      "index.html"
+    ],
+    "css": [
+      "assets/teacher-Ds7pECXR.css"
+    ]
+  },
+  "_teacher-Ds7pECXR.css": {
+    "file": "assets/teacher-Ds7pECXR.css",
+    "src": "_teacher-Ds7pECXR.css"
+  },
+  "index.html": {
+    "file": "assets/index-CpR7ZZ86.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_motion-W77J4Ig-.js"
+    ],
+    "dynamicImports": [
+      "src/AppShell.tsx",
+      "src/admin/AdminPortal.tsx",
+      "src/teacher/TeacherPortal.tsx",
+      "src/director/SchoolPortal.tsx",
+      "src/pages/AccountPages.tsx",
+      "src/pages/AccountPages.tsx",
+      "src/pages/LegalPages.tsx",
+      "src/pages/LegalPages.tsx"
+    ],
+    "css": [
+      "assets/index-Dx43YEkB.css"
+    ],
+    "assets": [
+      "assets/abc-logo-horizontal-BQqchq0-.svg",
+      "assets/abc-logo-pyramid-BULJcdAp.svg",
+      "assets/abc-logo-vertical-CA4tO1Jc.svg",
+      "assets/abc-a-block-EBGhCKXa.svg",
+      "assets/abc-intro-hW-vdz-2.mp4",
+      "assets/abc-intro-poster-Cc7LYOkH.webp",
+      "assets/phone-kampi-FziL0QhS.webp",
+      "assets/phone-islands-BOcivtxk.webp",
+      "assets/phone-path-DF2F9gyX.webp",
+      "assets/phone-stars-685d2Rs8.webp",
+      "assets/phone-finish-DCsfGiVY.webp",
+      "assets/desk-teacher-DcQ5yY-7.webp",
+      "assets/phone-teacher-DZ8oySnm.webp",
+      "assets/desk-director-Dg_PpBAv.webp",
+      "assets/phone-director-CAdtdOB1.webp",
+      "assets/fredoka-hebrew-500-normal-DdMTjgiE.woff2",
+      "assets/fredoka-hebrew-500-normal-BtShCMVp.woff",
+      "assets/fredoka-latin-500-normal-B0JifZgm.woff2",
+      "assets/fredoka-latin-500-normal-BL692wg7.woff",
+      "assets/fredoka-hebrew-600-normal-CTBxhdlE.woff2",
+      "assets/fredoka-hebrew-600-normal-BiVDObXj.woff",
+      "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+      "assets/fredoka-latin-600-normal-CcrEjrB4.woff",
+      "assets/fredoka-hebrew-700-normal-DBqnFHCe.woff2",
+      "assets/fredoka-hebrew-700-normal-DiqR04Vd.woff",
+      "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+      "assets/fredoka-latin-700-normal-C8FeHd3X.woff",
+      "assets/plus-jakarta-sans-vietnamese-400-normal-Cg2kxhWu.woff2",
+      "assets/plus-jakarta-sans-vietnamese-400-normal-B8TCSmUq.woff",
+      "assets/plus-jakarta-sans-latin-ext-400-normal-D127hM_v.woff2",
+      "assets/plus-jakarta-sans-latin-ext-400-normal-2ppkqaOR.woff",
+      "assets/plus-jakarta-sans-latin-400-normal-Dhut76fR.woff2",
+      "assets/plus-jakarta-sans-latin-400-normal-BDKaGhyp.woff",
+      "assets/plus-jakarta-sans-vietnamese-600-normal-Y4VTTRme.woff2",
+      "assets/plus-jakarta-sans-vietnamese-600-normal-5YsyKbU1.woff",
+      "assets/plus-jakarta-sans-latin-ext-600-normal-DQgPU_Cg.woff2",
+      "assets/plus-jakarta-sans-latin-ext-600-normal-B0WRRYJ1.woff",
+      "assets/plus-jakarta-sans-latin-600-normal-DLTa1BUW.woff2",
+      "assets/plus-jakarta-sans-latin-600-normal-BR_Ojra4.woff",
+      "assets/plus-jakarta-sans-vietnamese-700-normal-CV6qDkkj.woff2",
+      "assets/plus-jakarta-sans-vietnamese-700-normal-BCh_uG_5.woff",
+      "assets/plus-jakarta-sans-latin-ext-700-normal-BajbvANd.woff2",
+      "assets/plus-jakarta-sans-latin-ext-700-normal-8-d-IyIQ.woff",
+      "assets/plus-jakarta-sans-latin-700-normal-CfpNZvy6.woff2",
+      "assets/plus-jakarta-sans-latin-700-normal-DqEcQeE5.woff",
+      "assets/plus-jakarta-sans-vietnamese-800-normal-CxbopLd3.woff2",
+      "assets/plus-jakarta-sans-vietnamese-800-normal-BkoGl_sr.woff",
+      "assets/plus-jakarta-sans-latin-ext-800-normal-B6BjB2Ju.woff2",
+      "assets/plus-jakarta-sans-latin-ext-800-normal-BPkb-LBK.woff",
+      "assets/plus-jakarta-sans-latin-800-normal-CusIZhrK.woff2",
+      "assets/plus-jakarta-sans-latin-800-normal-BRNHt2w0.woff"
+    ]
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff": {
+    "file": "assets/fredoka-hebrew-500-normal-BtShCMVp.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff2": {
+    "file": "assets/fredoka-hebrew-500-normal-DdMTjgiE.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff": {
+    "file": "assets/fredoka-hebrew-600-normal-BiVDObXj.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff2": {
+    "file": "assets/fredoka-hebrew-600-normal-CTBxhdlE.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff": {
+    "file": "assets/fredoka-hebrew-700-normal-DiqR04Vd.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff2": {
+    "file": "assets/fredoka-hebrew-700-normal-DBqnFHCe.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff": {
+    "file": "assets/fredoka-latin-500-normal-BL692wg7.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff2": {
+    "file": "assets/fredoka-latin-500-normal-B0JifZgm.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff": {
+    "file": "assets/fredoka-latin-600-normal-CcrEjrB4.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff2": {
+    "file": "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff": {
+    "file": "assets/fredoka-latin-700-normal-C8FeHd3X.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff2": {
+    "file": "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-400-normal-BDKaGhyp.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-400-normal-Dhut76fR.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-600-normal-BR_Ojra4.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-600-normal-DLTa1BUW.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-700-normal-DqEcQeE5.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-700-normal-CfpNZvy6.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-800-normal-BRNHt2w0.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-800-normal-CusIZhrK.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-400-normal-2ppkqaOR.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-400-normal-D127hM_v.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-600-normal-B0WRRYJ1.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-600-normal-DQgPU_Cg.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-700-normal-8-d-IyIQ.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-700-normal-BajbvANd.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-800-normal-BPkb-LBK.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-800-normal-B6BjB2Ju.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-400-normal-B8TCSmUq.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-400-normal-Cg2kxhWu.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-600-normal-5YsyKbU1.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-600-normal-Y4VTTRme.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-700-normal-BCh_uG_5.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-700-normal-CV6qDkkj.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-800-normal-BkoGl_sr.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-800-normal-CxbopLd3.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff2"
+  },
+  "src/AppShell.tsx": {
+    "file": "assets/AppShell-BFryhQuR.js",
+    "name": "AppShell",
+    "src": "src/AppShell.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-CyUOfMKn.js",
+      "_assignTarget-BCPEW9dz.js",
+      "_classChallenge-BS_sMJpc.js",
+      "_motion-W77J4Ig-.js",
+      "_io-CyRCAKaK.js",
+      "_school-DPUb3-iU.js"
+    ],
+    "dynamicImports": [
+      "src/data/curriculum.ts",
+      "src/data/books.ts",
+      "src/data/curriculum.ts",
+      "src/data/books.ts"
+    ],
+    "css": [
+      "assets/AppShell-BI9UMecB.css"
+    ]
+  },
+  "src/admin/AdminPortal.tsx": {
+    "file": "assets/AdminPortal-DPOyrict.js",
+    "name": "AdminPortal",
+    "src": "src/admin/AdminPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-CyUOfMKn.js",
+      "_motion-W77J4Ig-.js"
+    ],
+    "css": [
+      "assets/AdminPortal-Bnwdht11.css"
+    ]
+  },
+  "src/brand/abc-a-block.svg": {
+    "file": "assets/abc-a-block-EBGhCKXa.svg",
+    "src": "src/brand/abc-a-block.svg"
+  },
+  "src/brand/abc-intro-poster.webp": {
+    "file": "assets/abc-intro-poster-Cc7LYOkH.webp",
+    "src": "src/brand/abc-intro-poster.webp"
+  },
+  "src/brand/abc-intro.mp4": {
+    "file": "assets/abc-intro-hW-vdz-2.mp4",
+    "src": "src/brand/abc-intro.mp4"
+  },
+  "src/brand/abc-logo-horizontal.svg": {
+    "file": "assets/abc-logo-horizontal-BQqchq0-.svg",
+    "src": "src/brand/abc-logo-horizontal.svg"
+  },
+  "src/brand/abc-logo-pyramid.svg": {
+    "file": "assets/abc-logo-pyramid-BULJcdAp.svg",
+    "src": "src/brand/abc-logo-pyramid.svg"
+  },
+  "src/brand/abc-logo-vertical.svg": {
+    "file": "assets/abc-logo-vertical-CA4tO1Jc.svg",
+    "src": "src/brand/abc-logo-vertical.svg"
+  },
+  "src/data/books.ts": {
+    "file": "assets/books-C-Uo9Kig.js",
+    "name": "books",
+    "src": "src/data/books.ts",
+    "isDynamicEntry": true
+  },
+  "src/data/curriculum.ts": {
+    "file": "assets/curriculum-CTgFNPb5.js",
+    "name": "curriculum",
+    "src": "src/data/curriculum.ts",
+    "isDynamicEntry": true
+  },
+  "src/director/SchoolPortal.tsx": {
+    "file": "assets/SchoolPortal-CqHnRA9P.js",
+    "name": "SchoolPortal",
+    "src": "src/director/SchoolPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-CyUOfMKn.js",
+      "_teacher-BM1j0qH5.js",
+      "_io-CyRCAKaK.js",
+      "_motion-W77J4Ig-.js"
+    ],
+    "dynamicImports": [
+      "src/director/demoApi.ts"
+    ],
+    "css": [
+      "assets/SchoolPortal-D3NluVkv.css"
+    ]
+  },
+  "src/director/demoApi.ts": {
+    "file": "assets/demoApi-BaZ-UwdQ.js",
+    "name": "demoApi",
+    "src": "src/director/demoApi.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_content-CyUOfMKn.js",
+      "_schoolAccount-BOJMr_vZ.js",
+      "_teacher-BM1j0qH5.js",
+      "_motion-W77J4Ig-.js",
+      "_assignTarget-BCPEW9dz.js",
+      "_classChallenge-BS_sMJpc.js",
+      "_io-CyRCAKaK.js",
+      "index.html"
+    ]
+  },
+  "src/landing/shots/desk-director.webp": {
+    "file": "assets/desk-director-Dg_PpBAv.webp",
+    "src": "src/landing/shots/desk-director.webp"
+  },
+  "src/landing/shots/desk-teacher.webp": {
+    "file": "assets/desk-teacher-DcQ5yY-7.webp",
+    "src": "src/landing/shots/desk-teacher.webp"
+  },
+  "src/landing/shots/phone-director.webp": {
+    "file": "assets/phone-director-CAdtdOB1.webp",
+    "src": "src/landing/shots/phone-director.webp"
+  },
+  "src/landing/shots/phone-finish.webp": {
+    "file": "assets/phone-finish-DCsfGiVY.webp",
+    "src": "src/landing/shots/phone-finish.webp"
+  },
+  "src/landing/shots/phone-islands.webp": {
+    "file": "assets/phone-islands-BOcivtxk.webp",
+    "src": "src/landing/shots/phone-islands.webp"
+  },
+  "src/landing/shots/phone-kampi.webp": {
+    "file": "assets/phone-kampi-FziL0QhS.webp",
+    "src": "src/landing/shots/phone-kampi.webp"
+  },
+  "src/landing/shots/phone-path.webp": {
+    "file": "assets/phone-path-DF2F9gyX.webp",
+    "src": "src/landing/shots/phone-path.webp"
+  },
+  "src/landing/shots/phone-stars.webp": {
+    "file": "assets/phone-stars-685d2Rs8.webp",
+    "src": "src/landing/shots/phone-stars.webp"
+  },
+  "src/landing/shots/phone-teacher.webp": {
+    "file": "assets/phone-teacher-DZ8oySnm.webp",
+    "src": "src/landing/shots/phone-teacher.webp"
+  },
+  "src/pages/AccountPages.tsx": {
+    "file": "assets/AccountPages-jAZUkLyQ.js",
+    "name": "AccountPages",
+    "src": "src/pages/AccountPages.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-CyUOfMKn.js",
+      "_motion-W77J4Ig-.js"
+    ],
+    "css": [
+      "assets/AccountPages-Db2uffNu.css"
+    ]
+  },
+  "src/pages/LegalPages.tsx": {
+    "file": "assets/LegalPages-Bd1VESSY.js",
+    "name": "LegalPages",
+    "src": "src/pages/LegalPages.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_motion-W77J4Ig-.js",
+      "_content-CyUOfMKn.js"
+    ]
+  },
+  "src/teacher/ReviewPanel.tsx": {
+    "file": "assets/ReviewPanel-BILg8wXQ.js",
+    "name": "ReviewPanel",
+    "src": "src/teacher/ReviewPanel.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-CyUOfMKn.js",
+      "_motion-W77J4Ig-.js"
+    ],
+    "css": [
+      "assets/ReviewPanel-D_2YPW1x.css"
+    ]
+  },
+  "src/teacher/TeacherPortal.tsx": {
+    "file": "assets/TeacherPortal-Bt2f1Gbx.js",
+    "name": "TeacherPortal",
+    "src": "src/teacher/TeacherPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-CyUOfMKn.js",
+      "_teacher-BM1j0qH5.js",
+      "_io-CyRCAKaK.js",
+      "_school-DPUb3-iU.js",
+      "_classChallenge-BS_sMJpc.js",
+      "_motion-W77J4Ig-.js"
+    ],
+    "dynamicImports": [
+      "src/data/curriculum.ts",
+      "src/data/books.ts",
+      "src/teacher/ReviewPanel.tsx",
+      "src/teacher/demoApi.ts"
+    ]
+  },
+  "src/teacher/demoApi.ts": {
+    "file": "assets/demoApi-gq9-CBb-.js",
+    "name": "demoApi",
+    "src": "src/teacher/demoApi.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_content-CyUOfMKn.js",
+      "_schoolAccount-BOJMr_vZ.js",
+      "_teacher-BM1j0qH5.js",
+      "_motion-W77J4Ig-.js",
+      "_assignTarget-BCPEW9dz.js",
+      "_classChallenge-BS_sMJpc.js",
+      "_io-CyRCAKaK.js",
+      "index.html"
+    ]
+  }
+}
