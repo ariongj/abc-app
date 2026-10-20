@@ -1,0 +1,1115 @@
+{
+  "_AppShell-2XfXtdm1.css": {
+    "file": "assets/AppShell-2XfXtdm1.css",
+    "src": "_AppShell-2XfXtdm1.css"
+  },
+  "_AppShell-sgiXNGk2.js": {
+    "file": "assets/AppShell-sgiXNGk2.js",
+    "name": "AppShell",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-1Iif3FQD.js",
+      "_classChallenge-DkHorPdL.js",
+      "_motion-Dy1Z1l7G.js",
+      "_assignTarget-DWkZood3.js",
+      "_animal-sound-wolf-CZI8te8R.js",
+      "_io-CyRCAKaK.js",
+      "_school-BRQlXZMZ.js"
+    ],
+    "dynamicImports": [
+      "node_modules/@capacitor/app/dist/esm/web.js",
+      "src/data/curriculum.ts",
+      "src/data/books.ts",
+      "src/data/curriculum.ts",
+      "src/data/books.ts",
+      "node_modules/@revenuecat/purchases-capacitor/dist/esm/web.js"
+    ],
+    "css": [
+      "assets/AppShell-2XfXtdm1.css"
+    ],
+    "assets": [
+      "assets/character-voice-bardhi-CcNcQlum.wav",
+      "assets/character-voice-bleta-DjeG2TTz.wav",
+      "assets/character-voice-breshka-DSo30DQT.wav",
+      "assets/character-voice-bretkosa-hgNBc2hV.wav",
+      "assets/character-voice-bufi-7tNYpBP_.wav",
+      "assets/character-voice-cafka-Br2gxoYe.wav",
+      "assets/character-voice-dallendyshja-CEXXX_-i.wav",
+      "assets/character-voice-delfini-EMPihxiF.wav",
+      "assets/character-voice-delja-DNzsDy_8.wav",
+      "assets/character-voice-dhelpra-M9Z2IORl.wav",
+      "assets/character-voice-dhia-ByGVTxi-.wav",
+      "assets/character-voice-flamingoja-Bmw1paRo.wav",
+      "assets/character-voice-flutura-DfClyKYC.wav",
+      "assets/character-voice-gjinkalla-D9jEuhdV.wav",
+      "assets/character-voice-hardhuca-DKRETUtP.wav",
+      "assets/character-voice-iriqi-DpsZh48G.wav",
+      "assets/character-voice-kali-_dogY-UF.wav",
+      "assets/character-voice-kaprolli-CYWvslFb.wav",
+      "assets/character-voice-ketri-BWU614xa.wav",
+      "assets/character-voice-korbi-BQs50iVn.wav",
+      "assets/character-voice-krapi-DaQvcX6I.wav",
+      "assets/character-voice-lakuriqi-Ixzfk5RV.wav",
+      "assets/character-voice-lejleku-Dpo7F6by.wav",
+      "assets/character-voice-lepuri-Np-P82Ll.wav",
+      "assets/character-voice-lira-JeUbfC_m.wav",
+      "assets/character-voice-macja-CeNTnX9G.wav",
+      "assets/character-voice-miu-CxmSBUFq.wav",
+      "assets/character-voice-pelikani-CzUphCdd.wav",
+      "assets/character-voice-pellumbi-Qd3vmXF-.wav",
+      "assets/character-voice-qeni-BCX-huhH.wav",
+      "assets/character-voice-rosa-DqDrOm4v.wav",
+      "assets/character-voice-shqipja-J55O0N8K.wav",
+      "assets/character-voice-ujku-CqWNcM28.wav",
+      "assets/character-voice-vidra-D_TpCp5g.wav",
+      "assets/woodland-heads-v3-DVM6S4rn.webp",
+      "assets/woodland-bodies-v3-DzOkOEGo.webp",
+      "assets/forest-heads-v3-pCpvQdiw.webp",
+      "assets/forest-bodies-v3-CmtPFZ0H.webp",
+      "assets/meadow-heads-v3-CEleRYH3.webp",
+      "assets/meadow-bodies-v3-5YuKHd5O.webp",
+      "assets/garden-heads-v3-B_6bWajq.webp",
+      "assets/garden-bodies-v3-Bz4zDt4C.webp",
+      "assets/mountain-heads-v3-Vbs0tgjx.webp",
+      "assets/mountain-bodies-v3-BsAGQmFS.webp",
+      "assets/river-bodies-v3-BTUWF3dE.webp",
+      "assets/valley-heads-v3-CHEQrkJl.webp",
+      "assets/valley-bodies-v3-Xp6Dwb5D.webp",
+      "assets/coast-heads-v3-TUDf33kX.webp",
+      "assets/coast-bodies-v3-DObJva88.webp",
+      "assets/river-heads-v3-BHdmaaXd.webp",
+      "assets/mascot-bodies-v3-dhiLjdFq.webp",
+      "assets/fox-expressions-v2-CRxfSuG0.webp",
+      "assets/lira-expressions-v2-CI8q_-Tr.webp",
+      "assets/learning-meadow-BT1CfqSI.webp",
+      "assets/story-forest-B38a4pCn.webp",
+      "assets/story-lake-C-o6cCTQ.webp",
+      "assets/story-room-DKR1ZCiw.webp",
+      "assets/story-village-DpWlgryw.webp",
+      "assets/island-numbers-DxftbB3f.webp",
+      "assets/island-art-biu2C_Fg.webp",
+      "assets/island-robots-DB-a5Hsf.webp",
+      "assets/island-nature-6IhD8rsB.webp",
+      "assets/island-school-DTbQw0u4.webp",
+      "assets/island-play-B0vjor2h.webp",
+      "assets/island-explore-Dh8iFp0b.webp"
+    ]
+  },
+  "_animal-sound-wolf-CZI8te8R.js": {
+    "file": "assets/animal-sound-wolf-CZI8te8R.js",
+    "name": "animal-sound-wolf",
+    "assets": [
+      "assets/animal-sound-bat-D-4WRmuP.wav",
+      "assets/animal-sound-bear-BMhUr-iK.wav",
+      "assets/animal-sound-bee-DREt2Tuh.wav",
+      "assets/animal-sound-butterfly-D3ayy5qX.wav",
+      "assets/animal-sound-carp-BrYhIjUW.wav",
+      "assets/animal-sound-cat-duIxARnZ.wav",
+      "assets/animal-sound-cicada-Y2TcxVpL.wav",
+      "assets/animal-sound-crow-PiSYhdnB.wav",
+      "assets/animal-sound-deer-CJq9_zzM.wav",
+      "assets/animal-sound-dog-C55_212P.wav",
+      "assets/animal-sound-dolphin-Dn5xPHEJ.wav",
+      "assets/animal-sound-duck-DtCLLsDx.wav",
+      "assets/animal-sound-eagle-CcAFB1UC.wav",
+      "assets/animal-sound-flamingo-CflJEj6-.wav",
+      "assets/animal-sound-fox-DSI1RE1o.wav",
+      "assets/animal-sound-frog-Cm_uObZ-.wav",
+      "assets/animal-sound-goat-BY-SPpO4.wav",
+      "assets/animal-sound-hedgehog-DCsq0dRs.wav",
+      "assets/animal-sound-heron-BXO1H7tr.wav",
+      "assets/animal-sound-horse-Bx9RwDAO.wav",
+      "assets/animal-sound-lizard-Kef2OjKM.wav",
+      "assets/animal-sound-mouse-DtLQCLy7.wav",
+      "assets/animal-sound-otter-BPqObxCr.wav",
+      "assets/animal-sound-owl-DPld6gqE.wav",
+      "assets/animal-sound-pelican-C2OLuE64.wav",
+      "assets/animal-sound-pigeon-CopqQsaf.wav",
+      "assets/animal-sound-purr-CGvKDExI.wav",
+      "assets/animal-sound-rabbit-C8JHphOf.wav",
+      "assets/animal-sound-sheep-ChfWCbAP.wav",
+      "assets/animal-sound-squirrel-B85EfUIf.wav",
+      "assets/animal-sound-stork-Cggpg1yU.wav",
+      "assets/animal-sound-swallow-Cvjq5vm-.wav",
+      "assets/animal-sound-turtle-DDZcgK7T.wav",
+      "assets/animal-sound-wolf-CCtq756f.wav"
+    ]
+  },
+  "_assignTarget-DWkZood3.js": {
+    "file": "assets/assignTarget-DWkZood3.js",
+    "name": "assignTarget",
+    "imports": [
+      "_content-1Iif3FQD.js"
+    ]
+  },
+  "_classChallenge-DkHorPdL.js": {
+    "file": "assets/classChallenge-DkHorPdL.js",
+    "name": "classChallenge",
+    "imports": [
+      "_content-1Iif3FQD.js"
+    ]
+  },
+  "_content-1Iif3FQD.js": {
+    "file": "assets/content-1Iif3FQD.js",
+    "name": "content",
+    "imports": [
+      "_motion-Dy1Z1l7G.js"
+    ]
+  },
+  "_io-CyRCAKaK.js": {
+    "file": "assets/io-CyRCAKaK.js",
+    "name": "io",
+    "assets": [
+      "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+      "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+      "assets/plus-jakarta-sans-latin-400-normal-Dhut76fR.woff2",
+      "assets/plus-jakarta-sans-latin-600-normal-DLTa1BUW.woff2",
+      "assets/plus-jakarta-sans-latin-700-normal-CfpNZvy6.woff2",
+      "assets/plus-jakarta-sans-latin-800-normal-CusIZhrK.woff2"
+    ]
+  },
+  "_legal-BxBvIzGD.js": {
+    "file": "assets/legal-BxBvIzGD.js",
+    "name": "legal"
+  },
+  "_motion-Dy1Z1l7G.js": {
+    "file": "assets/motion-Dy1Z1l7G.js",
+    "name": "motion"
+  },
+  "_school-BRQlXZMZ.js": {
+    "file": "assets/school-BRQlXZMZ.js",
+    "name": "school",
+    "imports": [
+      "_io-CyRCAKaK.js",
+      "_content-1Iif3FQD.js"
+    ]
+  },
+  "_schoolAccount-DyPARPmf.js": {
+    "file": "assets/schoolAccount-DyPARPmf.js",
+    "name": "schoolAccount",
+    "imports": [
+      "_content-1Iif3FQD.js",
+      "_assignTarget-DWkZood3.js",
+      "_classChallenge-DkHorPdL.js"
+    ]
+  },
+  "_teacher-CJB4gvDC.js": {
+    "file": "assets/teacher-CJB4gvDC.js",
+    "name": "teacher",
+    "imports": [
+      "index.html",
+      "_content-1Iif3FQD.js",
+      "_io-CyRCAKaK.js"
+    ],
+    "css": [
+      "assets/teacher-Ds7pECXR.css"
+    ]
+  },
+  "_teacher-Ds7pECXR.css": {
+    "file": "assets/teacher-Ds7pECXR.css",
+    "src": "_teacher-Ds7pECXR.css"
+  },
+  "index.html": {
+    "file": "assets/index-BAUAO5_5.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "dynamicImports": [
+      "_AppShell-sgiXNGk2.js",
+      "src/admin/AdminPortal.tsx",
+      "src/teacher/TeacherPortal.tsx",
+      "src/director/SchoolPortal.tsx",
+      "src/pages/AccountPages.tsx",
+      "src/pages/AccountPages.tsx",
+      "src/pages/LegalPages.tsx",
+      "src/pages/LegalPages.tsx",
+      "src/pages/DeleteAccountPage.tsx",
+      "src/pages/SupportPage.tsx",
+      "src/pages/AudioCreditsPage.tsx"
+    ],
+    "css": [
+      "assets/index-BpJA8_uw.css"
+    ],
+    "assets": [
+      "assets/abc-logo-horizontal-BQqchq0-.svg",
+      "assets/abc-logo-pyramid-BULJcdAp.svg",
+      "assets/abc-logo-vertical-CA4tO1Jc.svg",
+      "assets/abc-a-block-EBGhCKXa.svg",
+      "assets/abc-intro-hW-vdz-2.mp4",
+      "assets/abc-intro-poster-Cc7LYOkH.webp",
+      "assets/abc-welcome-CjNynMKR.mp4",
+      "assets/abc-welcome-poster-nAFTybpW.webp",
+      "assets/phone-kampi-FziL0QhS.webp",
+      "assets/phone-islands-BOcivtxk.webp",
+      "assets/phone-path-DF2F9gyX.webp",
+      "assets/phone-stars-685d2Rs8.webp",
+      "assets/phone-finish-DCsfGiVY.webp",
+      "assets/desk-teacher-DcQ5yY-7.webp",
+      "assets/phone-teacher-DZ8oySnm.webp",
+      "assets/desk-director-Dg_PpBAv.webp",
+      "assets/phone-director-CAdtdOB1.webp",
+      "assets/tablet-together-VxRnd4zf.webp",
+      "assets/tablet-learn-DwuRN4p3.webp",
+      "assets/fredoka-hebrew-500-normal-DdMTjgiE.woff2",
+      "assets/fredoka-hebrew-500-normal-BtShCMVp.woff",
+      "assets/fredoka-latin-500-normal-B0JifZgm.woff2",
+      "assets/fredoka-latin-500-normal-BL692wg7.woff",
+      "assets/fredoka-hebrew-600-normal-CTBxhdlE.woff2",
+      "assets/fredoka-hebrew-600-normal-BiVDObXj.woff",
+      "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+      "assets/fredoka-latin-600-normal-CcrEjrB4.woff",
+      "assets/fredoka-hebrew-700-normal-DBqnFHCe.woff2",
+      "assets/fredoka-hebrew-700-normal-DiqR04Vd.woff",
+      "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+      "assets/fredoka-latin-700-normal-C8FeHd3X.woff",
+      "assets/plus-jakarta-sans-vietnamese-400-normal-Cg2kxhWu.woff2",
+      "assets/plus-jakarta-sans-vietnamese-400-normal-B8TCSmUq.woff",
+      "assets/plus-jakarta-sans-latin-ext-400-normal-D127hM_v.woff2",
+      "assets/plus-jakarta-sans-latin-ext-400-normal-2ppkqaOR.woff",
+      "assets/plus-jakarta-sans-latin-400-normal-Dhut76fR.woff2",
+      "assets/plus-jakarta-sans-latin-400-normal-BDKaGhyp.woff",
+      "assets/plus-jakarta-sans-vietnamese-600-normal-Y4VTTRme.woff2",
+      "assets/plus-jakarta-sans-vietnamese-600-normal-5YsyKbU1.woff",
+      "assets/plus-jakarta-sans-latin-ext-600-normal-DQgPU_Cg.woff2",
+      "assets/plus-jakarta-sans-latin-ext-600-normal-B0WRRYJ1.woff",
+      "assets/plus-jakarta-sans-latin-600-normal-DLTa1BUW.woff2",
+      "assets/plus-jakarta-sans-latin-600-normal-BR_Ojra4.woff",
+      "assets/plus-jakarta-sans-vietnamese-700-normal-CV6qDkkj.woff2",
+      "assets/plus-jakarta-sans-vietnamese-700-normal-BCh_uG_5.woff",
+      "assets/plus-jakarta-sans-latin-ext-700-normal-BajbvANd.woff2",
+      "assets/plus-jakarta-sans-latin-ext-700-normal-8-d-IyIQ.woff",
+      "assets/plus-jakarta-sans-latin-700-normal-CfpNZvy6.woff2",
+      "assets/plus-jakarta-sans-latin-700-normal-DqEcQeE5.woff",
+      "assets/plus-jakarta-sans-vietnamese-800-normal-CxbopLd3.woff2",
+      "assets/plus-jakarta-sans-vietnamese-800-normal-BkoGl_sr.woff",
+      "assets/plus-jakarta-sans-latin-ext-800-normal-B6BjB2Ju.woff2",
+      "assets/plus-jakarta-sans-latin-ext-800-normal-BPkb-LBK.woff",
+      "assets/plus-jakarta-sans-latin-800-normal-CusIZhrK.woff2",
+      "assets/plus-jakarta-sans-latin-800-normal-BRNHt2w0.woff"
+    ]
+  },
+  "node_modules/@capacitor/app/dist/esm/web.js": {
+    "file": "assets/web-YzrUlmoD.js",
+    "name": "web",
+    "src": "node_modules/@capacitor/app/dist/esm/web.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_motion-Dy1Z1l7G.js"
+    ]
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff": {
+    "file": "assets/fredoka-hebrew-500-normal-BtShCMVp.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff2": {
+    "file": "assets/fredoka-hebrew-500-normal-DdMTjgiE.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff": {
+    "file": "assets/fredoka-hebrew-600-normal-BiVDObXj.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff2": {
+    "file": "assets/fredoka-hebrew-600-normal-CTBxhdlE.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff": {
+    "file": "assets/fredoka-hebrew-700-normal-DiqR04Vd.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff2": {
+    "file": "assets/fredoka-hebrew-700-normal-DBqnFHCe.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff": {
+    "file": "assets/fredoka-latin-500-normal-BL692wg7.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff2": {
+    "file": "assets/fredoka-latin-500-normal-B0JifZgm.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff": {
+    "file": "assets/fredoka-latin-600-normal-CcrEjrB4.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff2": {
+    "file": "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff": {
+    "file": "assets/fredoka-latin-700-normal-C8FeHd3X.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff2": {
+    "file": "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-400-normal-BDKaGhyp.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-400-normal-Dhut76fR.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-600-normal-BR_Ojra4.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-600-normal-DLTa1BUW.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-700-normal-DqEcQeE5.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-700-normal-CfpNZvy6.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-800-normal-BRNHt2w0.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-800-normal-CusIZhrK.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-400-normal-2ppkqaOR.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-400-normal-D127hM_v.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-600-normal-B0WRRYJ1.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-600-normal-DQgPU_Cg.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-700-normal-8-d-IyIQ.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-700-normal-BajbvANd.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-800-normal-BPkb-LBK.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-800-normal-B6BjB2Ju.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-400-normal-B8TCSmUq.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-400-normal-Cg2kxhWu.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-600-normal-5YsyKbU1.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-600-normal-Y4VTTRme.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-700-normal-BCh_uG_5.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-700-normal-CV6qDkkj.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-800-normal-BkoGl_sr.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-800-normal-CxbopLd3.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff2"
+  },
+  "node_modules/@revenuecat/purchases-capacitor/dist/esm/web.js": {
+    "file": "assets/web-BjpPOHel.js",
+    "name": "web",
+    "src": "node_modules/@revenuecat/purchases-capacitor/dist/esm/web.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_AppShell-sgiXNGk2.js",
+      "_motion-Dy1Z1l7G.js",
+      "_content-1Iif3FQD.js",
+      "_classChallenge-DkHorPdL.js",
+      "_assignTarget-DWkZood3.js",
+      "_animal-sound-wolf-CZI8te8R.js",
+      "_io-CyRCAKaK.js",
+      "_school-BRQlXZMZ.js"
+    ]
+  },
+  "src/admin/AdminPortal.tsx": {
+    "file": "assets/AdminPortal-DZj7bjd7.js",
+    "name": "AdminPortal",
+    "src": "src/admin/AdminPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-1Iif3FQD.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "css": [
+      "assets/AdminPortal-Bnwdht11.css"
+    ]
+  },
+  "src/assets/animal-sounds/animal-sound-bat.wav": {
+    "file": "assets/animal-sound-bat-D-4WRmuP.wav",
+    "src": "src/assets/animal-sounds/animal-sound-bat.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-bear.wav": {
+    "file": "assets/animal-sound-bear-BMhUr-iK.wav",
+    "src": "src/assets/animal-sounds/animal-sound-bear.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-bee.wav": {
+    "file": "assets/animal-sound-bee-DREt2Tuh.wav",
+    "src": "src/assets/animal-sounds/animal-sound-bee.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-butterfly.wav": {
+    "file": "assets/animal-sound-butterfly-D3ayy5qX.wav",
+    "src": "src/assets/animal-sounds/animal-sound-butterfly.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-carp.wav": {
+    "file": "assets/animal-sound-carp-BrYhIjUW.wav",
+    "src": "src/assets/animal-sounds/animal-sound-carp.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-cat.wav": {
+    "file": "assets/animal-sound-cat-duIxARnZ.wav",
+    "src": "src/assets/animal-sounds/animal-sound-cat.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-cicada.wav": {
+    "file": "assets/animal-sound-cicada-Y2TcxVpL.wav",
+    "src": "src/assets/animal-sounds/animal-sound-cicada.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-crow.wav": {
+    "file": "assets/animal-sound-crow-PiSYhdnB.wav",
+    "src": "src/assets/animal-sounds/animal-sound-crow.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-deer.wav": {
+    "file": "assets/animal-sound-deer-CJq9_zzM.wav",
+    "src": "src/assets/animal-sounds/animal-sound-deer.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-dog.wav": {
+    "file": "assets/animal-sound-dog-C55_212P.wav",
+    "src": "src/assets/animal-sounds/animal-sound-dog.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-dolphin.wav": {
+    "file": "assets/animal-sound-dolphin-Dn5xPHEJ.wav",
+    "src": "src/assets/animal-sounds/animal-sound-dolphin.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-duck.wav": {
+    "file": "assets/animal-sound-duck-DtCLLsDx.wav",
+    "src": "src/assets/animal-sounds/animal-sound-duck.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-eagle.wav": {
+    "file": "assets/animal-sound-eagle-CcAFB1UC.wav",
+    "src": "src/assets/animal-sounds/animal-sound-eagle.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-flamingo.wav": {
+    "file": "assets/animal-sound-flamingo-CflJEj6-.wav",
+    "src": "src/assets/animal-sounds/animal-sound-flamingo.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-fox.wav": {
+    "file": "assets/animal-sound-fox-DSI1RE1o.wav",
+    "src": "src/assets/animal-sounds/animal-sound-fox.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-frog.wav": {
+    "file": "assets/animal-sound-frog-Cm_uObZ-.wav",
+    "src": "src/assets/animal-sounds/animal-sound-frog.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-goat.wav": {
+    "file": "assets/animal-sound-goat-BY-SPpO4.wav",
+    "src": "src/assets/animal-sounds/animal-sound-goat.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-hedgehog.wav": {
+    "file": "assets/animal-sound-hedgehog-DCsq0dRs.wav",
+    "src": "src/assets/animal-sounds/animal-sound-hedgehog.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-heron.wav": {
+    "file": "assets/animal-sound-heron-BXO1H7tr.wav",
+    "src": "src/assets/animal-sounds/animal-sound-heron.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-horse.wav": {
+    "file": "assets/animal-sound-horse-Bx9RwDAO.wav",
+    "src": "src/assets/animal-sounds/animal-sound-horse.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-lizard.wav": {
+    "file": "assets/animal-sound-lizard-Kef2OjKM.wav",
+    "src": "src/assets/animal-sounds/animal-sound-lizard.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-mouse.wav": {
+    "file": "assets/animal-sound-mouse-DtLQCLy7.wav",
+    "src": "src/assets/animal-sounds/animal-sound-mouse.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-otter.wav": {
+    "file": "assets/animal-sound-otter-BPqObxCr.wav",
+    "src": "src/assets/animal-sounds/animal-sound-otter.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-owl.wav": {
+    "file": "assets/animal-sound-owl-DPld6gqE.wav",
+    "src": "src/assets/animal-sounds/animal-sound-owl.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-pelican.wav": {
+    "file": "assets/animal-sound-pelican-C2OLuE64.wav",
+    "src": "src/assets/animal-sounds/animal-sound-pelican.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-pigeon.wav": {
+    "file": "assets/animal-sound-pigeon-CopqQsaf.wav",
+    "src": "src/assets/animal-sounds/animal-sound-pigeon.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-purr.wav": {
+    "file": "assets/animal-sound-purr-CGvKDExI.wav",
+    "src": "src/assets/animal-sounds/animal-sound-purr.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-rabbit.wav": {
+    "file": "assets/animal-sound-rabbit-C8JHphOf.wav",
+    "src": "src/assets/animal-sounds/animal-sound-rabbit.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-sheep.wav": {
+    "file": "assets/animal-sound-sheep-ChfWCbAP.wav",
+    "src": "src/assets/animal-sounds/animal-sound-sheep.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-squirrel.wav": {
+    "file": "assets/animal-sound-squirrel-B85EfUIf.wav",
+    "src": "src/assets/animal-sounds/animal-sound-squirrel.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-stork.wav": {
+    "file": "assets/animal-sound-stork-Cggpg1yU.wav",
+    "src": "src/assets/animal-sounds/animal-sound-stork.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-swallow.wav": {
+    "file": "assets/animal-sound-swallow-Cvjq5vm-.wav",
+    "src": "src/assets/animal-sounds/animal-sound-swallow.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-turtle.wav": {
+    "file": "assets/animal-sound-turtle-DDZcgK7T.wav",
+    "src": "src/assets/animal-sounds/animal-sound-turtle.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-wolf.wav": {
+    "file": "assets/animal-sound-wolf-CCtq756f.wav",
+    "src": "src/assets/animal-sounds/animal-sound-wolf.wav"
+  },
+  "src/assets/character-voices/character-voice-bardhi.wav": {
+    "file": "assets/character-voice-bardhi-CcNcQlum.wav",
+    "src": "src/assets/character-voices/character-voice-bardhi.wav"
+  },
+  "src/assets/character-voices/character-voice-bleta.wav": {
+    "file": "assets/character-voice-bleta-DjeG2TTz.wav",
+    "src": "src/assets/character-voices/character-voice-bleta.wav"
+  },
+  "src/assets/character-voices/character-voice-breshka.wav": {
+    "file": "assets/character-voice-breshka-DSo30DQT.wav",
+    "src": "src/assets/character-voices/character-voice-breshka.wav"
+  },
+  "src/assets/character-voices/character-voice-bretkosa.wav": {
+    "file": "assets/character-voice-bretkosa-hgNBc2hV.wav",
+    "src": "src/assets/character-voices/character-voice-bretkosa.wav"
+  },
+  "src/assets/character-voices/character-voice-bufi.wav": {
+    "file": "assets/character-voice-bufi-7tNYpBP_.wav",
+    "src": "src/assets/character-voices/character-voice-bufi.wav"
+  },
+  "src/assets/character-voices/character-voice-cafka.wav": {
+    "file": "assets/character-voice-cafka-Br2gxoYe.wav",
+    "src": "src/assets/character-voices/character-voice-cafka.wav"
+  },
+  "src/assets/character-voices/character-voice-dallendyshja.wav": {
+    "file": "assets/character-voice-dallendyshja-CEXXX_-i.wav",
+    "src": "src/assets/character-voices/character-voice-dallendyshja.wav"
+  },
+  "src/assets/character-voices/character-voice-delfini.wav": {
+    "file": "assets/character-voice-delfini-EMPihxiF.wav",
+    "src": "src/assets/character-voices/character-voice-delfini.wav"
+  },
+  "src/assets/character-voices/character-voice-delja.wav": {
+    "file": "assets/character-voice-delja-DNzsDy_8.wav",
+    "src": "src/assets/character-voices/character-voice-delja.wav"
+  },
+  "src/assets/character-voices/character-voice-dhelpra.wav": {
+    "file": "assets/character-voice-dhelpra-M9Z2IORl.wav",
+    "src": "src/assets/character-voices/character-voice-dhelpra.wav"
+  },
+  "src/assets/character-voices/character-voice-dhia.wav": {
+    "file": "assets/character-voice-dhia-ByGVTxi-.wav",
+    "src": "src/assets/character-voices/character-voice-dhia.wav"
+  },
+  "src/assets/character-voices/character-voice-flamingoja.wav": {
+    "file": "assets/character-voice-flamingoja-Bmw1paRo.wav",
+    "src": "src/assets/character-voices/character-voice-flamingoja.wav"
+  },
+  "src/assets/character-voices/character-voice-flutura.wav": {
+    "file": "assets/character-voice-flutura-DfClyKYC.wav",
+    "src": "src/assets/character-voices/character-voice-flutura.wav"
+  },
+  "src/assets/character-voices/character-voice-gjinkalla.wav": {
+    "file": "assets/character-voice-gjinkalla-D9jEuhdV.wav",
+    "src": "src/assets/character-voices/character-voice-gjinkalla.wav"
+  },
+  "src/assets/character-voices/character-voice-hardhuca.wav": {
+    "file": "assets/character-voice-hardhuca-DKRETUtP.wav",
+    "src": "src/assets/character-voices/character-voice-hardhuca.wav"
+  },
+  "src/assets/character-voices/character-voice-iriqi.wav": {
+    "file": "assets/character-voice-iriqi-DpsZh48G.wav",
+    "src": "src/assets/character-voices/character-voice-iriqi.wav"
+  },
+  "src/assets/character-voices/character-voice-kali.wav": {
+    "file": "assets/character-voice-kali-_dogY-UF.wav",
+    "src": "src/assets/character-voices/character-voice-kali.wav"
+  },
+  "src/assets/character-voices/character-voice-kaprolli.wav": {
+    "file": "assets/character-voice-kaprolli-CYWvslFb.wav",
+    "src": "src/assets/character-voices/character-voice-kaprolli.wav"
+  },
+  "src/assets/character-voices/character-voice-ketri.wav": {
+    "file": "assets/character-voice-ketri-BWU614xa.wav",
+    "src": "src/assets/character-voices/character-voice-ketri.wav"
+  },
+  "src/assets/character-voices/character-voice-korbi.wav": {
+    "file": "assets/character-voice-korbi-BQs50iVn.wav",
+    "src": "src/assets/character-voices/character-voice-korbi.wav"
+  },
+  "src/assets/character-voices/character-voice-krapi.wav": {
+    "file": "assets/character-voice-krapi-DaQvcX6I.wav",
+    "src": "src/assets/character-voices/character-voice-krapi.wav"
+  },
+  "src/assets/character-voices/character-voice-lakuriqi.wav": {
+    "file": "assets/character-voice-lakuriqi-Ixzfk5RV.wav",
+    "src": "src/assets/character-voices/character-voice-lakuriqi.wav"
+  },
+  "src/assets/character-voices/character-voice-lejleku.wav": {
+    "file": "assets/character-voice-lejleku-Dpo7F6by.wav",
+    "src": "src/assets/character-voices/character-voice-lejleku.wav"
+  },
+  "src/assets/character-voices/character-voice-lepuri.wav": {
+    "file": "assets/character-voice-lepuri-Np-P82Ll.wav",
+    "src": "src/assets/character-voices/character-voice-lepuri.wav"
+  },
+  "src/assets/character-voices/character-voice-lira.wav": {
+    "file": "assets/character-voice-lira-JeUbfC_m.wav",
+    "src": "src/assets/character-voices/character-voice-lira.wav"
+  },
+  "src/assets/character-voices/character-voice-macja.wav": {
+    "file": "assets/character-voice-macja-CeNTnX9G.wav",
+    "src": "src/assets/character-voices/character-voice-macja.wav"
+  },
+  "src/assets/character-voices/character-voice-miu.wav": {
+    "file": "assets/character-voice-miu-CxmSBUFq.wav",
+    "src": "src/assets/character-voices/character-voice-miu.wav"
+  },
+  "src/assets/character-voices/character-voice-pelikani.wav": {
+    "file": "assets/character-voice-pelikani-CzUphCdd.wav",
+    "src": "src/assets/character-voices/character-voice-pelikani.wav"
+  },
+  "src/assets/character-voices/character-voice-pellumbi.wav": {
+    "file": "assets/character-voice-pellumbi-Qd3vmXF-.wav",
+    "src": "src/assets/character-voices/character-voice-pellumbi.wav"
+  },
+  "src/assets/character-voices/character-voice-qeni.wav": {
+    "file": "assets/character-voice-qeni-BCX-huhH.wav",
+    "src": "src/assets/character-voices/character-voice-qeni.wav"
+  },
+  "src/assets/character-voices/character-voice-rosa.wav": {
+    "file": "assets/character-voice-rosa-DqDrOm4v.wav",
+    "src": "src/assets/character-voices/character-voice-rosa.wav"
+  },
+  "src/assets/character-voices/character-voice-shqipja.wav": {
+    "file": "assets/character-voice-shqipja-J55O0N8K.wav",
+    "src": "src/assets/character-voices/character-voice-shqipja.wav"
+  },
+  "src/assets/character-voices/character-voice-ujku.wav": {
+    "file": "assets/character-voice-ujku-CqWNcM28.wav",
+    "src": "src/assets/character-voices/character-voice-ujku.wav"
+  },
+  "src/assets/character-voices/character-voice-vidra.wav": {
+    "file": "assets/character-voice-vidra-D_TpCp5g.wav",
+    "src": "src/assets/character-voices/character-voice-vidra.wav"
+  },
+  "src/assets/characters/coast-bodies-v3.webp": {
+    "file": "assets/coast-bodies-v3-DObJva88.webp",
+    "src": "src/assets/characters/coast-bodies-v3.webp"
+  },
+  "src/assets/characters/coast-heads-v3.webp": {
+    "file": "assets/coast-heads-v3-TUDf33kX.webp",
+    "src": "src/assets/characters/coast-heads-v3.webp"
+  },
+  "src/assets/characters/forest-bodies-v3.webp": {
+    "file": "assets/forest-bodies-v3-CmtPFZ0H.webp",
+    "src": "src/assets/characters/forest-bodies-v3.webp"
+  },
+  "src/assets/characters/forest-heads-v3.webp": {
+    "file": "assets/forest-heads-v3-pCpvQdiw.webp",
+    "src": "src/assets/characters/forest-heads-v3.webp"
+  },
+  "src/assets/characters/fox-expressions-v2.webp": {
+    "file": "assets/fox-expressions-v2-CRxfSuG0.webp",
+    "src": "src/assets/characters/fox-expressions-v2.webp"
+  },
+  "src/assets/characters/garden-bodies-v3.webp": {
+    "file": "assets/garden-bodies-v3-Bz4zDt4C.webp",
+    "src": "src/assets/characters/garden-bodies-v3.webp"
+  },
+  "src/assets/characters/garden-heads-v3.webp": {
+    "file": "assets/garden-heads-v3-B_6bWajq.webp",
+    "src": "src/assets/characters/garden-heads-v3.webp"
+  },
+  "src/assets/characters/lira-expressions-v2.webp": {
+    "file": "assets/lira-expressions-v2-CI8q_-Tr.webp",
+    "src": "src/assets/characters/lira-expressions-v2.webp"
+  },
+  "src/assets/characters/mascot-bodies-v3.webp": {
+    "file": "assets/mascot-bodies-v3-dhiLjdFq.webp",
+    "src": "src/assets/characters/mascot-bodies-v3.webp"
+  },
+  "src/assets/characters/meadow-bodies-v3.webp": {
+    "file": "assets/meadow-bodies-v3-5YuKHd5O.webp",
+    "src": "src/assets/characters/meadow-bodies-v3.webp"
+  },
+  "src/assets/characters/meadow-heads-v3.webp": {
+    "file": "assets/meadow-heads-v3-CEleRYH3.webp",
+    "src": "src/assets/characters/meadow-heads-v3.webp"
+  },
+  "src/assets/characters/mountain-bodies-v3.webp": {
+    "file": "assets/mountain-bodies-v3-BsAGQmFS.webp",
+    "src": "src/assets/characters/mountain-bodies-v3.webp"
+  },
+  "src/assets/characters/mountain-heads-v3.webp": {
+    "file": "assets/mountain-heads-v3-Vbs0tgjx.webp",
+    "src": "src/assets/characters/mountain-heads-v3.webp"
+  },
+  "src/assets/characters/river-bodies-v3.webp": {
+    "file": "assets/river-bodies-v3-BTUWF3dE.webp",
+    "src": "src/assets/characters/river-bodies-v3.webp"
+  },
+  "src/assets/characters/river-heads-v3.webp": {
+    "file": "assets/river-heads-v3-BHdmaaXd.webp",
+    "src": "src/assets/characters/river-heads-v3.webp"
+  },
+  "src/assets/characters/valley-bodies-v3.webp": {
+    "file": "assets/valley-bodies-v3-Xp6Dwb5D.webp",
+    "src": "src/assets/characters/valley-bodies-v3.webp"
+  },
+  "src/assets/characters/valley-heads-v3.webp": {
+    "file": "assets/valley-heads-v3-CHEQrkJl.webp",
+    "src": "src/assets/characters/valley-heads-v3.webp"
+  },
+  "src/assets/characters/woodland-bodies-v3.webp": {
+    "file": "assets/woodland-bodies-v3-DzOkOEGo.webp",
+    "src": "src/assets/characters/woodland-bodies-v3.webp"
+  },
+  "src/assets/characters/woodland-heads-v3.webp": {
+    "file": "assets/woodland-heads-v3-DVM6S4rn.webp",
+    "src": "src/assets/characters/woodland-heads-v3.webp"
+  },
+  "src/assets/islands/island-art.webp": {
+    "file": "assets/island-art-biu2C_Fg.webp",
+    "src": "src/assets/islands/island-art.webp"
+  },
+  "src/assets/islands/island-explore.webp": {
+    "file": "assets/island-explore-Dh8iFp0b.webp",
+    "src": "src/assets/islands/island-explore.webp"
+  },
+  "src/assets/islands/island-nature.webp": {
+    "file": "assets/island-nature-6IhD8rsB.webp",
+    "src": "src/assets/islands/island-nature.webp"
+  },
+  "src/assets/islands/island-numbers.webp": {
+    "file": "assets/island-numbers-DxftbB3f.webp",
+    "src": "src/assets/islands/island-numbers.webp"
+  },
+  "src/assets/islands/island-play.webp": {
+    "file": "assets/island-play-B0vjor2h.webp",
+    "src": "src/assets/islands/island-play.webp"
+  },
+  "src/assets/islands/island-robots.webp": {
+    "file": "assets/island-robots-DB-a5Hsf.webp",
+    "src": "src/assets/islands/island-robots.webp"
+  },
+  "src/assets/islands/island-school.webp": {
+    "file": "assets/island-school-DTbQw0u4.webp",
+    "src": "src/assets/islands/island-school.webp"
+  },
+  "src/assets/stories/learning-meadow.webp": {
+    "file": "assets/learning-meadow-BT1CfqSI.webp",
+    "src": "src/assets/stories/learning-meadow.webp"
+  },
+  "src/assets/stories/story-forest.webp": {
+    "file": "assets/story-forest-B38a4pCn.webp",
+    "src": "src/assets/stories/story-forest.webp"
+  },
+  "src/assets/stories/story-lake.webp": {
+    "file": "assets/story-lake-C-o6cCTQ.webp",
+    "src": "src/assets/stories/story-lake.webp"
+  },
+  "src/assets/stories/story-room.webp": {
+    "file": "assets/story-room-DKR1ZCiw.webp",
+    "src": "src/assets/stories/story-room.webp"
+  },
+  "src/assets/stories/story-village.webp": {
+    "file": "assets/story-village-DpWlgryw.webp",
+    "src": "src/assets/stories/story-village.webp"
+  },
+  "src/brand/abc-a-block.svg": {
+    "file": "assets/abc-a-block-EBGhCKXa.svg",
+    "src": "src/brand/abc-a-block.svg"
+  },
+  "src/brand/abc-intro-poster.webp": {
+    "file": "assets/abc-intro-poster-Cc7LYOkH.webp",
+    "src": "src/brand/abc-intro-poster.webp"
+  },
+  "src/brand/abc-intro.mp4": {
+    "file": "assets/abc-intro-hW-vdz-2.mp4",
+    "src": "src/brand/abc-intro.mp4"
+  },
+  "src/brand/abc-logo-horizontal.svg": {
+    "file": "assets/abc-logo-horizontal-BQqchq0-.svg",
+    "src": "src/brand/abc-logo-horizontal.svg"
+  },
+  "src/brand/abc-logo-pyramid.svg": {
+    "file": "assets/abc-logo-pyramid-BULJcdAp.svg",
+    "src": "src/brand/abc-logo-pyramid.svg"
+  },
+  "src/brand/abc-logo-vertical.svg": {
+    "file": "assets/abc-logo-vertical-CA4tO1Jc.svg",
+    "src": "src/brand/abc-logo-vertical.svg"
+  },
+  "src/brand/abc-welcome-poster.webp": {
+    "file": "assets/abc-welcome-poster-nAFTybpW.webp",
+    "src": "src/brand/abc-welcome-poster.webp"
+  },
+  "src/brand/abc-welcome.mp4": {
+    "file": "assets/abc-welcome-CjNynMKR.mp4",
+    "src": "src/brand/abc-welcome.mp4"
+  },
+  "src/data/books.ts": {
+    "file": "assets/books-C-Uo9Kig.js",
+    "name": "books",
+    "src": "src/data/books.ts",
+    "isDynamicEntry": true
+  },
+  "src/data/curriculum.ts": {
+    "file": "assets/curriculum-CTgFNPb5.js",
+    "name": "curriculum",
+    "src": "src/data/curriculum.ts",
+    "isDynamicEntry": true
+  },
+  "src/director/SchoolPortal.tsx": {
+    "file": "assets/SchoolPortal-DqucyyTY.js",
+    "name": "SchoolPortal",
+    "src": "src/director/SchoolPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-1Iif3FQD.js",
+      "_teacher-CJB4gvDC.js",
+      "_io-CyRCAKaK.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "dynamicImports": [
+      "src/director/demoApi.ts"
+    ],
+    "css": [
+      "assets/SchoolPortal-D3NluVkv.css"
+    ]
+  },
+  "src/director/demoApi.ts": {
+    "file": "assets/demoApi-Cbg12saf.js",
+    "name": "demoApi",
+    "src": "src/director/demoApi.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_content-1Iif3FQD.js",
+      "_schoolAccount-DyPARPmf.js",
+      "_teacher-CJB4gvDC.js",
+      "_motion-Dy1Z1l7G.js",
+      "_assignTarget-DWkZood3.js",
+      "_classChallenge-DkHorPdL.js",
+      "index.html",
+      "_io-CyRCAKaK.js"
+    ]
+  },
+  "src/landing/shots/desk-director.webp": {
+    "file": "assets/desk-director-Dg_PpBAv.webp",
+    "src": "src/landing/shots/desk-director.webp"
+  },
+  "src/landing/shots/desk-teacher.webp": {
+    "file": "assets/desk-teacher-DcQ5yY-7.webp",
+    "src": "src/landing/shots/desk-teacher.webp"
+  },
+  "src/landing/shots/phone-director.webp": {
+    "file": "assets/phone-director-CAdtdOB1.webp",
+    "src": "src/landing/shots/phone-director.webp"
+  },
+  "src/landing/shots/phone-finish.webp": {
+    "file": "assets/phone-finish-DCsfGiVY.webp",
+    "src": "src/landing/shots/phone-finish.webp"
+  },
+  "src/landing/shots/phone-islands.webp": {
+    "file": "assets/phone-islands-BOcivtxk.webp",
+    "src": "src/landing/shots/phone-islands.webp"
+  },
+  "src/landing/shots/phone-kampi.webp": {
+    "file": "assets/phone-kampi-FziL0QhS.webp",
+    "src": "src/landing/shots/phone-kampi.webp"
+  },
+  "src/landing/shots/phone-path.webp": {
+    "file": "assets/phone-path-DF2F9gyX.webp",
+    "src": "src/landing/shots/phone-path.webp"
+  },
+  "src/landing/shots/phone-stars.webp": {
+    "file": "assets/phone-stars-685d2Rs8.webp",
+    "src": "src/landing/shots/phone-stars.webp"
+  },
+  "src/landing/shots/phone-teacher.webp": {
+    "file": "assets/phone-teacher-DZ8oySnm.webp",
+    "src": "src/landing/shots/phone-teacher.webp"
+  },
+  "src/landing/shots/tablet-learn.webp": {
+    "file": "assets/tablet-learn-DwuRN4p3.webp",
+    "src": "src/landing/shots/tablet-learn.webp"
+  },
+  "src/landing/shots/tablet-together.webp": {
+    "file": "assets/tablet-together-VxRnd4zf.webp",
+    "src": "src/landing/shots/tablet-together.webp"
+  },
+  "src/pages/AccountPages.tsx": {
+    "file": "assets/AccountPages-D2ENDm98.js",
+    "name": "AccountPages",
+    "src": "src/pages/AccountPages.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-1Iif3FQD.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "css": [
+      "assets/AccountPages-Lp8yno2w.css"
+    ]
+  },
+  "src/pages/AudioCreditsPage.tsx": {
+    "file": "assets/AudioCreditsPage-Bb6a2pnd.js",
+    "name": "AudioCreditsPage",
+    "src": "src/pages/AudioCreditsPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_animal-sound-wolf-CZI8te8R.js",
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_content-1Iif3FQD.js",
+      "_motion-Dy1Z1l7G.js"
+    ]
+  },
+  "src/pages/DeleteAccountPage.tsx": {
+    "file": "assets/DeleteAccountPage-BWJr1NID.js",
+    "name": "DeleteAccountPage",
+    "src": "src/pages/DeleteAccountPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_motion-Dy1Z1l7G.js",
+      "_content-1Iif3FQD.js"
+    ]
+  },
+  "src/pages/LegalPages.tsx": {
+    "file": "assets/LegalPages-KJH3IIsQ.js",
+    "name": "LegalPages",
+    "src": "src/pages/LegalPages.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_legal-BxBvIzGD.js",
+      "_motion-Dy1Z1l7G.js",
+      "_content-1Iif3FQD.js"
+    ]
+  },
+  "src/pages/SupportPage.tsx": {
+    "file": "assets/SupportPage-Xij14oW1.js",
+    "name": "SupportPage",
+    "src": "src/pages/SupportPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_legal-BxBvIzGD.js",
+      "_motion-Dy1Z1l7G.js",
+      "_content-1Iif3FQD.js"
+    ]
+  },
+  "src/teacher/ReviewPanel.tsx": {
+    "file": "assets/ReviewPanel-DqbF19ZP.js",
+    "name": "ReviewPanel",
+    "src": "src/teacher/ReviewPanel.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-1Iif3FQD.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "css": [
+      "assets/ReviewPanel-D_2YPW1x.css"
+    ]
+  },
+  "src/teacher/TeacherPortal.tsx": {
+    "file": "assets/TeacherPortal-C3CA11EK.js",
+    "name": "TeacherPortal",
+    "src": "src/teacher/TeacherPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-1Iif3FQD.js",
+      "_teacher-CJB4gvDC.js",
+      "_io-CyRCAKaK.js",
+      "_school-BRQlXZMZ.js",
+      "_classChallenge-DkHorPdL.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "dynamicImports": [
+      "src/data/curriculum.ts",
+      "src/data/books.ts",
+      "src/teacher/ReviewPanel.tsx",
+      "src/teacher/demoApi.ts"
+    ]
+  },
+  "src/teacher/demoApi.ts": {
+    "file": "assets/demoApi-D2Ui4zxE.js",
+    "name": "demoApi",
+    "src": "src/teacher/demoApi.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_content-1Iif3FQD.js",
+      "_schoolAccount-DyPARPmf.js",
+      "_teacher-CJB4gvDC.js",
+      "_motion-Dy1Z1l7G.js",
+      "_assignTarget-DWkZood3.js",
+      "_classChallenge-DkHorPdL.js",
+      "index.html",
+      "_io-CyRCAKaK.js"
+    ]
+  }
+}
