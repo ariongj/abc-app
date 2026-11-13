@@ -1,0 +1,1976 @@
+{
+  "_AppShell-BL_ZVl5o.js": {
+    "file": "assets/AppShell-BL_ZVl5o.js",
+    "name": "AppShell",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-C6nwFnIU.js",
+      "_classChallenge-B2dB5LRF.js",
+      "_motion-Dy1Z1l7G.js",
+      "_io-CyRCAKaK.js",
+      "_school-S3R_pRN7.js",
+      "_assignTarget-D0x883I7.js",
+      "_animal-sound-wolf-CZI8te8R.js"
+    ],
+    "dynamicImports": [
+      "node_modules/@capacitor/app/dist/esm/web.js",
+      "src/data/curriculum.ts",
+      "src/data/books.ts",
+      "src/data/curriculum.ts",
+      "src/data/books.ts",
+      "node_modules/@revenuecat/purchases-capacitor/dist/esm/web.js"
+    ],
+    "css": [
+      "assets/AppShell-DFr8nydW.css"
+    ],
+    "assets": [
+      "assets/character-voice-bardhi-uid3umG8.mp3",
+      "assets/character-voice-bleta-DLJALfx3.mp3",
+      "assets/character-voice-breshka-BGK99k_a.mp3",
+      "assets/character-voice-bretkosa-WMRLRB2k.mp3",
+      "assets/character-voice-bufi-axzzRFQh.mp3",
+      "assets/character-voice-cafka-29KOBrXD.mp3",
+      "assets/character-voice-dallendyshja-BD46RoA9.mp3",
+      "assets/character-voice-delfini-DofMVP6b.mp3",
+      "assets/character-voice-delja-CEQwFG_U.mp3",
+      "assets/character-voice-dhelpra-dHkxapmr.mp3",
+      "assets/character-voice-dhia-DCZhBGDS.mp3",
+      "assets/character-voice-flamingoja-DldiQhWe.mp3",
+      "assets/character-voice-flutura-DJI-lz9y.mp3",
+      "assets/character-voice-gjinkalla-D0D2dSFa.mp3",
+      "assets/character-voice-hardhuca-DcaNzHmw.mp3",
+      "assets/character-voice-iriqi-uDSM4bbX.mp3",
+      "assets/character-voice-kali-D5LWuP9Y.mp3",
+      "assets/character-voice-kaprolli-BgpRNkK4.mp3",
+      "assets/character-voice-ketri-DlccsmdN.mp3",
+      "assets/character-voice-korbi-DwdMEdla.mp3",
+      "assets/character-voice-krapi-WAIqndgq.mp3",
+      "assets/character-voice-lakuriqi-Br9FgvaF.mp3",
+      "assets/character-voice-lejleku-E0mPgAl7.mp3",
+      "assets/character-voice-lepuri-BblRHih5.mp3",
+      "assets/character-voice-lira-J4HTvJef.mp3",
+      "assets/character-voice-macja-BJZrVb2g.mp3",
+      "assets/character-voice-miu-D8ZZynOz.mp3",
+      "assets/character-voice-pelikani-D5TaTDLK.mp3",
+      "assets/character-voice-pellumbi-C8AyGuy2.mp3",
+      "assets/character-voice-qeni-Csc_33Ua.mp3",
+      "assets/character-voice-rosa-Dxivzj0n.mp3",
+      "assets/character-voice-shqipja-BWD-UEG-.mp3",
+      "assets/character-voice-ujku-DPm8XtYX.mp3",
+      "assets/character-voice-vidra-9dyA9Hsk.mp3",
+      "assets/lira-narration-06220a0eac860a269dfffa2f263ea33a9bfd3cb88868b4cbf994c0e644c0f388-CipmRiBO.mp3",
+      "assets/lira-narration-086090331dbe76bbea95e5a2c48a0bbdbe077272d69bbc8042ac6e076145307c-C9FX4GC_.mp3",
+      "assets/lira-narration-0c2c375f9abfc14db74dad8ef10c879ccb753a07479eb750aa7a6fac81b2c8ba-ArO9-_Kr.mp3",
+      "assets/lira-narration-125f0e9e053f3167b25e1a1d1eb8ee5a5ad9b017b88ea2f2a1861fe659483653-D5XsTgra.mp3",
+      "assets/lira-narration-12dc3092e76e4a8b7fe184e636b4a1c89d70f8b6bff57e671027a932edd64300-IRPyOfO9.mp3",
+      "assets/lira-narration-1915a463a48ed7165c7b8b99b9120634d29e604acd710a7fc83108adc9d70600-DK3CwSQh.mp3",
+      "assets/lira-narration-24cc2e37dad7cd8e1290dfa89a0d09d028d538c20ab5ff26d64577e95814ad62-PMLh9AUp.mp3",
+      "assets/lira-narration-2f94a739ffdfa362e7377d0d1fc138b1249059687df608137e80b46245c71c9a-bSq9dIkX.mp3",
+      "assets/lira-narration-2ff9e94510afb075ae769fdb2182aa443b73becf150a702003643c378cc8a0b2-CAoqwtNj.mp3",
+      "assets/lira-narration-3727e6fbe2cdca43ef53fb97d344b19eab610b14ed6fef941c3b1f9809e374e7-CvpOwtMz.mp3",
+      "assets/lira-narration-3cf2a5627e59b3f4bce91f49cf0051850379ce8dda5fb04eb313b1ae551c4202-C75nt-wg.mp3",
+      "assets/lira-narration-3d0870147814a361ac65adc69d099b3158a8e1514494aa1996e763133ea33d45-Bxuz3zXN.mp3",
+      "assets/lira-narration-43c04e0330d72f444e0a997476845efdfdb2bb48001ca755271ffa42e62f2963-D4IhCbSS.mp3",
+      "assets/lira-narration-453fb11428d31dbfdfa77c39d16262393afc0adccccea082a24a59dad06049cc-Dk5Xt1cn.mp3",
+      "assets/lira-narration-45f1665853890ff5c686af797081fa5830cfcbac42e5d38746137087fbc6914d-XcoOvEg6.mp3",
+      "assets/lira-narration-4b8987d4c9e9f2b80e8a9c8b1a597f01dd6d0acf9f2c25debce247804002461c-CyorcATt.mp3",
+      "assets/lira-narration-5ad60b5b1593d2122d0dad3236be549d8aefc38dc4fe7c3b3eb5e073e3ad06a4-CwYVNe4w.mp3",
+      "assets/lira-narration-5c4007ad7337c6e97df6b91c4a0df883e70d477850e56c487596e9dd5b9e6b82-Bmv6x79g.mp3",
+      "assets/lira-narration-615943626fd29d00351b76c5ea007508f7f7142dcada1ad2bc1f5b4526a5eeb0-imuX-K5l.mp3",
+      "assets/lira-narration-6542195e3c2ea2569ec2cf912bc939e6a1437c098db7eb79c3d4ca39142e7fe1-CIJfDOPt.mp3",
+      "assets/lira-narration-68a048cc3b9fb13a9bef1090b3ef242db552e468f0806b7cc038a5b272f9c3d3-DZnF0gI1.mp3",
+      "assets/lira-narration-6ac64e975940279b3e29a43ff6e5ed71382c869f7156c733ebb303331111b498-BaiENUoP.mp3",
+      "assets/lira-narration-6b3e0a9667c121b63df60314f21a76f552c33d56ecf3566b2d7f4ceb3ced4ab8-CCTTp7RZ.mp3",
+      "assets/lira-narration-6da9cd418733a6ed6ed7b79439176b6fa7af50d505a9819034e8a3cf92068056-BYxbvzm6.mp3",
+      "assets/lira-narration-6f7e9d6349240676c2d1f2f4b971b93b8e818a9a401bf429d63420883c286eed-BgB7-3p7.mp3",
+      "assets/lira-narration-72b15b24584fc9a04bf1c03fbc4189a9d56fff16b68efc50929a23dc17ae456c-CpVlqe-i.mp3",
+      "assets/lira-narration-72fc0d5e04221b82a002cc6bd06c8c8ade21fe611de0855622b17ec340ef0a39-BcIbECGa.mp3",
+      "assets/lira-narration-76bc4217c7633c42eaeaf0da3d672513adf8ce90ffd9dc5bb95f794aec866f9f-DwGAKZq3.mp3",
+      "assets/lira-narration-7ccbf6b99a253e11534e0a0d9159031740fd03a8fcabc237259fcc1a41880f0c-Cq0dvI-x.mp3",
+      "assets/lira-narration-7cd73a2152bbc52dcf33a6f12f259bf2b01c1c78bb4645f421e32014e6f68684-BG3Q6cSm.mp3",
+      "assets/lira-narration-7cf177cb2c048c2a3498ba631f871f45112c24501c4ca21b3a97cf7e80a20f51-CG2FYjd4.mp3",
+      "assets/lira-narration-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99-D9pyjqFS.mp3",
+      "assets/lira-narration-8e0d543734c3079e2a2fabd4b85c7e4961f759411709d517c124ed111933537e-BJTh-R4W.mp3",
+      "assets/lira-narration-8f0b3105080cd534fd9c115f219a0afb65b23b36e174866a3fdbfd7273ef0d1d-Dn8oeHYV.mp3",
+      "assets/lira-narration-8f18a22ee72ee986639a140aa90222c4d2587d42ddde9eea5e1c94bf887a337f-DqkF434L.mp3",
+      "assets/lira-narration-909fef4169fa320730fa2307330e258599ba53a71df7c25c2cf9d69cd692c203-BXGCvXtU.mp3",
+      "assets/lira-narration-9940f1c8afcd7ffe649fec3b52b77d0bcbaf0876222639213d07755927f9f3d7-CXxQossu.mp3",
+      "assets/lira-narration-9af1610cdad0334178389f0b0aa44f4e1c293a63b4a1feeba2a5181a2ab3924a-t4IfaHJ7.mp3",
+      "assets/lira-narration-9bbd74016f4b1756305235624cf85fdd84eeaeeebdd981c1494f0752d57c7fdf-DU08UcI5.mp3",
+      "assets/lira-narration-9dea89890b7c33667e2a1be259c05e38d65092c8d9cdc096a86656e6580574b5-BcgDqmFF.mp3",
+      "assets/lira-narration-a1425e1767c8b66fb2b65a04a584fc4687fe45a1125965602ccc60eb9189111e-B-F9OuKn.mp3",
+      "assets/lira-narration-aadc0014cf17f0aca7ac49ddd17b0246fd7659093dfc006b397f707fa8f138ef-CGblXX2y.mp3",
+      "assets/lira-narration-b1e89d6e50f49c55013ff1611b590fbccb48e1789374d00dbf8a70eba46c1627-Df6b8j4i.mp3",
+      "assets/lira-narration-b204ca550c218176c951e585ba6acbc33a63ae5cf4cb3284b4e751dfb88c842b-D73_LHQ5.mp3",
+      "assets/lira-narration-b46aa03fb739524159e445260b651971d487f517ce871ad609589428e9ea457c-B7A3lBBL.mp3",
+      "assets/lira-narration-b601689fe6b6deb37f4280ddfb28d01bb579ca2d6086f9b090eced8a242a705a-N_5vuv6z.mp3",
+      "assets/lira-narration-b64bfe6866d690d7527e651393fb77bca174508bdc59f33bfb3838592e1870f0-CMR_lON8.mp3",
+      "assets/lira-narration-c178ef9a2021c2b07daeda6815c57b90a33653fd6c768f8a9b9578750bab681a-iNZMPC3b.mp3",
+      "assets/lira-narration-c62ff53baa84e09aa7da47ea86cf7770d0edfefed4ffb0922efa39c08858e3a0-BYYtX_cZ.mp3",
+      "assets/lira-narration-d270d8304a19106b601499817045db273a537701c9f86c45eea0c1ba640929a3-CXr1zHUI.mp3",
+      "assets/lira-narration-d45217a40701dec3265162cfbac54d8610a265711728897f5f4f13c581a14eb7--2_yH8z9.mp3",
+      "assets/lira-narration-d8e0d355d2a788c4aadfd171950b90509b195e4c11534dbd50cb0fa50341ad45-DopoGvJP.mp3",
+      "assets/lira-narration-da19a9f66971764cc1ef807a49392c34d48d55493210869c2fe529a966aaa836-D3vv-jUX.mp3",
+      "assets/lira-narration-e0ff29f65f0fb06461d20f730b1b2418430ddbbdb228330f126e32660ba60918-rcZm14jv.mp3",
+      "assets/lira-narration-e67abc86a0aa121934bba970f90e482e77a7b53b1194832817c6c81658a38985-B0DdasDK.mp3",
+      "assets/lira-narration-ec8f22d8358777a2508f1d145df27f0bf5a9b813526fca77e3ef3934b8829738-DaFRSZMD.mp3",
+      "assets/lira-narration-eda3acf227afbb60e8a52d6657ac66c9f56e7412e9450546d3b8bbae4c2f21c6-DEsK7xhT.mp3",
+      "assets/lira-narration-edac19050590702c79bee4e6d1cb17ceba8f854714bf6179ca697921a9022337-DhN6EYcn.mp3",
+      "assets/lira-narration-ee6303d4786186dfe7a4a9fbd581eb13cb60dbe830e526e12c37c888172e7615-ChMZwcos.mp3",
+      "assets/lira-narration-f017f3d7b48787df646b4af18e1a3cfd658410f512449dd6d96ba8279255610f-DjrEPfLz.mp3",
+      "assets/lira-narration-f20255f8fd19d52cb9ea9f6443664ce31e2437a4d156677f48f56353cbfdb5d5-t0SXABfo.mp3",
+      "assets/lira-narration-f5c7e39a74868140747ef11fceeb48ca835ae8cce783ee5fa303cf510d8f3a64-BdgTChfu.mp3",
+      "assets/lira-narration-f64fb0b06492dac20253eb19d2d581953085407ef853fa6d742b85135740b448-VlXDOjoI.mp3",
+      "assets/lira-narration-fc107d2e8f879a83c16948d274a97ab12c2bdfbc56e91ccf8873df7054f594dc-DVVOGYi7.mp3",
+      "assets/book-narration-bleta-10707ad7577fe85e65ec67b5d3b5a27dac637cfae158b286b5ca6f63fed6356f-CCGCUjQU.mp3",
+      "assets/book-narration-bleta-177e4b19a62453af946f33b6d0df95b3f626835b3fd6587aa02c7f6d40456f7d-DtYyOSVJ.mp3",
+      "assets/book-narration-bleta-2150c300453d88f599df3b152a07b28241b435df66d944c8bb5813e9495d00ec-r_znHDk_.mp3",
+      "assets/book-narration-bleta-23f95aafd55834660e98cf487ab8a69860c6e72cf7b988945dedc2264bd9bf4e-CHou5b6f.mp3",
+      "assets/book-narration-bleta-6ee8137d730001b9a2dcc96e1648a22312da28c8519414dae100a992e529f8e8-BhOT1fDz.mp3",
+      "assets/book-narration-bleta-71f9af0b473d8f61c8ffae469ab3572c87a728f8e3a6d28a92b496c732c98b25-D16ZdqTw.mp3",
+      "assets/book-narration-bleta-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99-CEIuIfwM.mp3",
+      "assets/book-narration-bleta-9c857b849e0069600856c718dff3b243e632531eab52770b141cb8cfbc55a146-CBTEBo7s.mp3",
+      "assets/book-narration-bleta-a6f7bf7745853e3b55222250dcf8ba26d7b14a8f4d3312f958cbca56ffb737c5-CY2Vm42W.mp3",
+      "assets/book-narration-bleta-b0363d4bc0931e644b4b1780f5245949e62b3f157bacf4e2a2e7d99c73378b86-CysxMTpp.mp3",
+      "assets/book-narration-bleta-e05015ab55f3533f8b533befe0bd0db525e64a2968e00fdf178672702fd49b48-Bujmb9hz.mp3",
+      "assets/book-narration-bleta-f138990301f9ed9106c6b9518e0cf82de8ca215a9b66aae51e04d5a67b627098-Cjw6Q26T.mp3",
+      "assets/book-narration-bleta-fd1312f8fa19b7c7e7a7f97e32ef3dcaadf9686ddd32d90ae28669c20d317acd-PlcVYIWO.mp3",
+      "assets/book-narration-bleta-feca08d5a7de188f773dc77f59bdbe35a0c5f899634b44011d150a65467491c4-DLvV6Tz8.mp3",
+      "assets/book-narration-bufi-0961012ed9241132c22bc6dda788e69ee703d96c1749147c76d4f74548d2b7c0-CbVugrmk.mp3",
+      "assets/book-narration-bufi-1e2ce0a2544ce12a6acda0200977986f2b12a0923d2148dbfedfb6082a51e67f-BeRaexbp.mp3",
+      "assets/book-narration-bufi-1e8bbc70537f36f4ea661fe9feccf42a70b305ee903033b97897d059aee9af39-gwvzZBjL.mp3",
+      "assets/book-narration-bufi-53038beb8ea9c45578f5008bf907e11a0ff19d269cc7fb21ac159e651f60c7cf-CVf2TdjE.mp3",
+      "assets/book-narration-bufi-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99-D1TB8R4q.mp3",
+      "assets/book-narration-bufi-8a603729437d60eb00f1cc2d5ae0039f9ac0c480de7cef65d9659bd70b6f8246-DklkAqM6.mp3",
+      "assets/book-narration-bufi-abd0a0ead0d762238cd1fe1d69137bbe8b3f01aafe9a09c2b89c0b964541d798-B8raY7LE.mp3",
+      "assets/book-narration-bufi-b0e93b064427de5a6b7b5ac021857e25bcbedb8ab31cce1e20c23767695415d1-euvHI3xl.mp3",
+      "assets/book-narration-bufi-b59cf33bb5912a6841f4fe0208bdc209b58bd5632563bd9c9e1f00cc8e8782f9-PJawkmzB.mp3",
+      "assets/book-narration-bufi-bb510fadde272c513ce2a0e5e4f3c09bd43d94998e98948dacbc86a7a247446d-B0O23Lgn.mp3",
+      "assets/book-narration-bufi-bfd9d573c304ff08ea0b9f2a21d1b9962b87b8f74de69ffcc818109de19d11bb-C9QXLfPw.mp3",
+      "assets/book-narration-bufi-c9751476777ac0a5eaeaede087198d3948ed66a631938d5e7a55c45c3db1c045-BkkBJmKu.mp3",
+      "assets/book-narration-bufi-d5cf60ae1ffb72b3475b2dff9ab4344ded3845c3156885adfc73168a585f74df-dK-bfQun.mp3",
+      "assets/book-narration-bufi-d83540f7c343fe1d3992b285d9e82872f28dc65223dc542e417a9ddfdb8440ca-DetP_IxT.mp3",
+      "assets/book-narration-bufi-ea3e7a559107fa51d19115c1e7d1db12f5eaf65e5defab63afd70d8742568bc3-BkhVLya0.mp3",
+      "assets/book-narration-lira-0382d8e72821aeadcb714d396a0203a6d55e99931623d05cfb3d44fce5926afb-lEM84iSy.mp3",
+      "assets/book-narration-lira-0719e01dcf5170c954590a8196d3475011138fe2178ab800174c3e4750b23b71-D4OK_rYV.mp3",
+      "assets/book-narration-lira-0d65447201b84d23d49c2c60bee6e59f3275f8431065b8cb3e1908ea880c6333-DjgN7DSl.mp3",
+      "assets/book-narration-lira-13d6ad82a4322f5ff00a3aef3cf6b84b74365f0c3ee7efc0d5d436020fc75928-C6TUfdKC.mp3",
+      "assets/book-narration-lira-172997cff3f41ad70acdc6a961d56580cb3ab22a5064ba651cf3c07fcb420872-Cy7IIacn.mp3",
+      "assets/book-narration-lira-17881c53b4650c9b64fa754c3433fa6bf25240ab5b148306756ce351554c483d-Bbfk2hWG.mp3",
+      "assets/book-narration-lira-1edc4f766ef844687c06b7f525ac219cf580133e58bf679a012e6953bd192b8e-BdhPq-bi.mp3",
+      "assets/book-narration-lira-24048c30a49088d1d484fecb9924707bd07f2d95a6891370d43906d5a6bd245b-DT7zgpkI.mp3",
+      "assets/book-narration-lira-2444f6e0f77bb90a3425cd55e9efc542bc0846048c9e0e4a5e56e3f3c62fef85-Cvs_RjRI.mp3",
+      "assets/book-narration-lira-285611c01dcae0587cb13b16206b8b79d08af1c13c7ac186ff15b28d7e021b9f-BBb4F79q.mp3",
+      "assets/book-narration-lira-29dbdc9de03027af2cd17506eb28d7cb59022b110c466e2161392612d7f5efb5-U4S3ZQrt.mp3",
+      "assets/book-narration-lira-31fff695752a534e37ed4590755d52c35219a3e240a56323d24b9cf513b48b0d-CPbOC2Ex.mp3",
+      "assets/book-narration-lira-38a91fb9917edc8dca4a38b315165fd7683116cdc2e7190b47e44b57102a5638-Ev6jJmaB.mp3",
+      "assets/book-narration-lira-38f0c0dcaa4d8ea8e16bb75b17a2baaea08a9173f448b5b0445886f3684260c1-J-_vkz56.mp3",
+      "assets/book-narration-lira-39787cdc2ada9f4d849442958d083a02ec534bf00d79adcf80202128b4211377-Buz2Fkp2.mp3",
+      "assets/book-narration-lira-3a21b6a0c3990fbf9d2dd021217d0bd37ddf068a593832ff96bb7345198342aa-BrgwFlFX.mp3",
+      "assets/book-narration-lira-3c6fda51e5b8038d1eaa2d194906087d88bda3a05636c5bfbc4d202ae6e8810e-CnAt77JS.mp3",
+      "assets/book-narration-lira-3d030760e7c8e0d9074e1deea9b468c5723377b840757beeaa29ded10f91eb4b-HvOYAIDP.mp3",
+      "assets/book-narration-lira-3d70fe19ec6b3684363c42cc0277f17ddcb062159518696e2ca7b99f41ddb954-pott4wg6.mp3",
+      "assets/book-narration-lira-3fae8732bcdb49b82d5d826f079ed3548ba8c9062b84aae5a391c3bede1eb7d3-BIu-_on4.mp3",
+      "assets/book-narration-lira-473931eb8137e0de60a861609821ffe088e646999e9d0031144321ca2cdd2d5e-BhouM5gl.mp3",
+      "assets/book-narration-lira-4db5b657ab25a5b5ab1137091cff4cbf25ef9dbb0e7ad9858d6aeffe67fde0be-C-Q9SDhN.mp3",
+      "assets/book-narration-lira-4e9b77b7601784065e346f62612575069ecfdea068f1cc9b1f071d6123bd60fb-CQRka1vM.mp3",
+      "assets/book-narration-lira-510a0ae7f93ad3869ccbc7b8f3d6bd98bee3ca28b1669c4adcfd54b4fad2c509-B6-aSXrp.mp3",
+      "assets/book-narration-lira-570dac5702ea4d5cf5200b131c9eca0e05b5c039de68cb5ec56c3a83c81b15fe-Dg_4gnbf.mp3",
+      "assets/book-narration-lira-5a9a22758e5be499a73d851c5dfc37480bdc184082690f586e8d6a9410289cc2-B2cIHdBq.mp3",
+      "assets/book-narration-lira-5f7da96a2ae83bb99eb49dac897a702cf058a92666b939d5aef444ef054fd937-BCilWV0H.mp3",
+      "assets/book-narration-lira-6080fe98583d48fec238fceed39b7e8287f1823f1f7983280d4c154c86779265-BV74vol6.mp3",
+      "assets/book-narration-lira-60d28e516d99befe3d3d21ee95dd083f3d0c0366073831c401061b5544a9a984-BmmrlaFj.mp3",
+      "assets/book-narration-lira-6d718b1650e4242001eab3f8476ee3c4bc3ccc474719c2bcaf028bfcb8e77ccc-BPWsUtX_.mp3",
+      "assets/book-narration-lira-6e76924b6fc2339c858860d480704a10dba53124c8e738afd62a379bbb450161-DJ8_n67B.mp3",
+      "assets/book-narration-lira-721acf935bb5f0ade92fd991e03b94152c69d2e2bbc3ab004a820523dabe12a5-N5MYuJX6.mp3",
+      "assets/book-narration-lira-726a4865e6fb7372aa377aad1463169935ff281569d518626c244a8e0ea92945-BGnzESK1.mp3",
+      "assets/book-narration-lira-7315f59bffc040cc8355837576a876a13e25ff189a4e72cd3371e8ec5819c82f-Hvj7kUEQ.mp3",
+      "assets/book-narration-lira-745044773eca2ad537116589e786d40b42c952df089358e30d826c034251b1f5-964-fXFr.mp3",
+      "assets/book-narration-lira-75439530265edabb64ef5251f3cf4dda0bcf605adde84e629f0ffac3f11595e6-oGDasKkH.mp3",
+      "assets/book-narration-lira-76d6e855d20fbf359d1d45756fcb1f263c713ba68ff3171d8d0273c7978d54af-G4hFLDFb.mp3",
+      "assets/book-narration-lira-783e7fc41472a57d196a011ce57ec339ffe1561be969654c672cbbd4b0d8e590-lWTBvnzW.mp3",
+      "assets/book-narration-lira-7fa072bd1400a35dd6cb4b506521b6a3e2e71fe7f7f2461d8d7d757d073d3298-BWlF5Cj7.mp3",
+      "assets/book-narration-lira-80a10e415a8d315e2a6591960a2f29d421dad437c68a4b46d1ccdcf5a81cb526-f9vLMZhO.mp3",
+      "assets/book-narration-lira-811ddf74c68d288809d9483ba22c90e88a556526ddce14d1a0ea728444b5dcf2-Dyn2JweU.mp3",
+      "assets/book-narration-lira-84e93f4a0111140b6f5a1a93964e43864d34343235240b72e40de22fc22f2e28-CFlG22db.mp3",
+      "assets/book-narration-lira-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99-CGLJCrLc.mp3",
+      "assets/book-narration-lira-911bb7d233a01e381a8223fdbee254c0ee52d201dd1409e829d93e065e102543-BPfQfGcW.mp3",
+      "assets/book-narration-lira-93bb17bec3abd67a9cf621336666b67c8196247696b90d188665f845902c2c39-DjaT1Bms.mp3",
+      "assets/book-narration-lira-959f44307d2020ce72e8bca13033748bddc461fee99e5ee98d830287ff976e06-DKp5ZRQP.mp3",
+      "assets/book-narration-lira-973c9b7de3e536c2f04dd7aff39762fc5b17942e593ede0543eecf4aa1d5894d-FRQRnhFz.mp3",
+      "assets/book-narration-lira-99a5f9cab53ed18582ac8ae9ad39f2be35170427ed67969b02fedbb4a5b3ad4a-BQl-gwyr.mp3",
+      "assets/book-narration-lira-9a11c3607441f9a7ab7e18632a100c59795cf6576d9c2edf27670a0d0e7922d0-CZgnb4oV.mp3",
+      "assets/book-narration-lira-9dc8623107fb6488dac6b691fe0bd8fae2af4d10003858da870f053b520069c7-y7iTFCXo.mp3",
+      "assets/book-narration-lira-9ed44ccedd4e0edf957b4540e3565122f8be4fc70c33b454b284f15c595d388f-DSOOnYUu.mp3",
+      "assets/book-narration-lira-a13494d1df840d0a35eab5d563cf244ab2871e06de25b92a30a0bec19f04653f-BFmQ_VWN.mp3",
+      "assets/book-narration-lira-a918d6b0976378a079454d1d825264f19f504fa716a81f7de1718a7de8facbed-D3KwJYe_.mp3",
+      "assets/book-narration-lira-b82a2110eb95599b19517500cd9af7ca560f91c0dd1b6fbc9a16589f5e4eef39-DFFxU5ff.mp3",
+      "assets/book-narration-lira-b8832c1f8d5c04e20a57ddc051c7ca4af8d75096db236669be78f2585896895b-BfrSGMuM.mp3",
+      "assets/book-narration-lira-b8a64a76c3578b2f65ef0fce1bb48f5365d2d7dbe6cc761f1a3604a9ee484336-DOZpJ1eX.mp3",
+      "assets/book-narration-lira-c9751476777ac0a5eaeaede087198d3948ed66a631938d5e7a55c45c3db1c045-BFbxOOo9.mp3",
+      "assets/book-narration-lira-cb795b2d8d08239f6fa06ddc08daa1b0975c4014c478bd0f1dc7b2134c2fe58c-BUO-H_lY.mp3",
+      "assets/book-narration-lira-cf76c1af5fe89bb30701c71712d307d928632d933ae017b99d1a794941a7cd68-BL7kBSsS.mp3",
+      "assets/book-narration-lira-d05470e8c2e4488e997fa1d96ad532480a8d8f4980f957061d7d47df80e38495-QtWNEKVD.mp3",
+      "assets/book-narration-lira-d45ba58e712bca52a3abe5dfad2eda12ab308fc6b9b5cf4696bc3444593d9e61-DFdD7Rza.mp3",
+      "assets/book-narration-lira-d54ae3e61fbd6e94d47f9838c045fb4104df1416a3d8459e8bff7de0287f5e91-ClbX0QZW.mp3",
+      "assets/book-narration-lira-d792f5eafa6ef29d001f9a039585955cc7de89f4c3011903cb19c3dcbb72cb86-CEQhHDRY.mp3",
+      "assets/book-narration-lira-d8be590eb7061c720ddf75e5153e26e46739e68ba7ff404452a784f57b083cae-8-SuyG4y.mp3",
+      "assets/book-narration-lira-da5d6086960040fc5b2376efc1c4b533f83f98210e141acfeb11eb87d54fb9d0-B1l8LaE0.mp3",
+      "assets/book-narration-lira-daad7e16016d540954ef8e48377430441d62516c91cb2ae9d0cb736864223154-fc5wFUG9.mp3",
+      "assets/book-narration-lira-dd18a94793141a221536a660e8b0be69d70d12432d45f824504fb113763dbd32-gKUwYUDE.mp3",
+      "assets/book-narration-lira-e128fcf887155299b56c7f12c4fdbec3bdad5701cac88fd12d28c0e4cdacbbdc-WtVgBswv.mp3",
+      "assets/book-narration-lira-e16838b8cf7f4f8884c7ea94db26a9e78e30114b41a113aeec88950a745136ca-BJVZ2B73.mp3",
+      "assets/book-narration-lira-e24ac7e2434dc855babf6de026d8a637f0f4d66c15c67d6139689501997865af-CnFl8Adg.mp3",
+      "assets/book-narration-lira-e341a20bbdb425f13e4f32e9d218f4b60fd4dc63a3dfa85c5b562fcdea3c0c9a-D1KkMmWB.mp3",
+      "assets/book-narration-lira-e599a712bc0b4963e230792ed8deb42f440fbc0fd1c9c3118886d993a78468ac-_A6WQ4_T.mp3",
+      "assets/book-narration-lira-e6b23946f64093a6ab8de38597ad6e3dd1d7e2a1e55cb39ef5ad0a16790801d6-BVH1DBDp.mp3",
+      "assets/book-narration-lira-e968cc578d3e856c7c9e550aadb8bebd14e5f7901d29a73bba5b26c2e34e7bcf-XXZ3_DNe.mp3",
+      "assets/book-narration-lira-ea9b3a4a160d55abafa8963794ab4fa74d5d0d4346bf02db7ebf5799f57c33b9-Q6ufpPsW.mp3",
+      "assets/book-narration-lira-ec0919e9e15946a74cfe7711c21aacfba92cd91b5d5ec5843617515e7f723454-nQukC7My.mp3",
+      "assets/book-narration-lira-ef0e2681e5c6bd4cc758c25ac40f9d0c07c91f656c226039b5e876f52e2af801-Csn_in5F.mp3",
+      "assets/book-narration-lira-ef4ca113207f66fe9389cc0bc1796d129381c2ecfb2d19bd696145ddbe5a84bb-CDd1d7L7.mp3",
+      "assets/book-narration-lira-f38d3bb517bed2f405bfe884f16244d0f3a81125d2251430347f9d1f1764d704-WEVNEjzx.mp3",
+      "assets/book-narration-lira-fb19264d9b15332f069b455680878f585677eef537a6d5ca9dde2a1ca858c10f-C0y37fAN.mp3",
+      "assets/book-narration-lira-fbcc4e1da22f64228b6e1b9125ac09bf49e799ef59346b0a4b13af89e2ce60fc-DSglWvi1.mp3",
+      "assets/woodland-heads-v3-DVM6S4rn.webp",
+      "assets/woodland-bodies-v3-DzOkOEGo.webp",
+      "assets/forest-heads-v3-pCpvQdiw.webp",
+      "assets/forest-bodies-v3-CmtPFZ0H.webp",
+      "assets/meadow-heads-v3-CEleRYH3.webp",
+      "assets/meadow-bodies-v3-5YuKHd5O.webp",
+      "assets/garden-heads-v3-B_6bWajq.webp",
+      "assets/garden-bodies-v3-Bz4zDt4C.webp",
+      "assets/mountain-heads-v3-Vbs0tgjx.webp",
+      "assets/mountain-bodies-v3-BsAGQmFS.webp",
+      "assets/river-bodies-v3-BTUWF3dE.webp",
+      "assets/valley-heads-v3-CHEQrkJl.webp",
+      "assets/valley-bodies-v3-Xp6Dwb5D.webp",
+      "assets/coast-heads-v3-TUDf33kX.webp",
+      "assets/coast-bodies-v3-DObJva88.webp",
+      "assets/river-heads-v3-BHdmaaXd.webp",
+      "assets/mascot-bodies-v3-dhiLjdFq.webp",
+      "assets/fox-expressions-v2-CRxfSuG0.webp",
+      "assets/lira-expressions-v2-CI8q_-Tr.webp",
+      "assets/learning-meadow-BT1CfqSI.webp",
+      "assets/story-forest-B38a4pCn.webp",
+      "assets/story-lake-C-o6cCTQ.webp",
+      "assets/story-room-DKR1ZCiw.webp",
+      "assets/story-village-DpWlgryw.webp",
+      "assets/island-numbers-DxftbB3f.webp",
+      "assets/island-art-biu2C_Fg.webp",
+      "assets/island-robots-DB-a5Hsf.webp",
+      "assets/island-nature-6IhD8rsB.webp",
+      "assets/island-school-DTbQw0u4.webp",
+      "assets/island-play-B0vjor2h.webp",
+      "assets/island-explore-Dh8iFp0b.webp"
+    ]
+  },
+  "_AppShell-DFr8nydW.css": {
+    "file": "assets/AppShell-DFr8nydW.css",
+    "src": "_AppShell-DFr8nydW.css"
+  },
+  "_animal-sound-wolf-CZI8te8R.js": {
+    "file": "assets/animal-sound-wolf-CZI8te8R.js",
+    "name": "animal-sound-wolf",
+    "assets": [
+      "assets/animal-sound-bat-D-4WRmuP.wav",
+      "assets/animal-sound-bear-BMhUr-iK.wav",
+      "assets/animal-sound-bee-DREt2Tuh.wav",
+      "assets/animal-sound-butterfly-D3ayy5qX.wav",
+      "assets/animal-sound-carp-BrYhIjUW.wav",
+      "assets/animal-sound-cat-duIxARnZ.wav",
+      "assets/animal-sound-cicada-Y2TcxVpL.wav",
+      "assets/animal-sound-crow-PiSYhdnB.wav",
+      "assets/animal-sound-deer-CJq9_zzM.wav",
+      "assets/animal-sound-dog-C55_212P.wav",
+      "assets/animal-sound-dolphin-Dn5xPHEJ.wav",
+      "assets/animal-sound-duck-DtCLLsDx.wav",
+      "assets/animal-sound-eagle-CcAFB1UC.wav",
+      "assets/animal-sound-flamingo-CflJEj6-.wav",
+      "assets/animal-sound-fox-DSI1RE1o.wav",
+      "assets/animal-sound-frog-Cm_uObZ-.wav",
+      "assets/animal-sound-goat-BY-SPpO4.wav",
+      "assets/animal-sound-hedgehog-DCsq0dRs.wav",
+      "assets/animal-sound-heron-BXO1H7tr.wav",
+      "assets/animal-sound-horse-Bx9RwDAO.wav",
+      "assets/animal-sound-lizard-Kef2OjKM.wav",
+      "assets/animal-sound-mouse-DtLQCLy7.wav",
+      "assets/animal-sound-otter-BPqObxCr.wav",
+      "assets/animal-sound-owl-DPld6gqE.wav",
+      "assets/animal-sound-pelican-C2OLuE64.wav",
+      "assets/animal-sound-pigeon-CopqQsaf.wav",
+      "assets/animal-sound-purr-CGvKDExI.wav",
+      "assets/animal-sound-rabbit-C8JHphOf.wav",
+      "assets/animal-sound-sheep-ChfWCbAP.wav",
+      "assets/animal-sound-squirrel-B85EfUIf.wav",
+      "assets/animal-sound-stork-Cggpg1yU.wav",
+      "assets/animal-sound-swallow-Cvjq5vm-.wav",
+      "assets/animal-sound-turtle-DDZcgK7T.wav",
+      "assets/animal-sound-wolf-CCtq756f.wav"
+    ]
+  },
+  "_assignTarget-D0x883I7.js": {
+    "file": "assets/assignTarget-D0x883I7.js",
+    "name": "assignTarget",
+    "imports": [
+      "_content-C6nwFnIU.js"
+    ]
+  },
+  "_classChallenge-B2dB5LRF.js": {
+    "file": "assets/classChallenge-B2dB5LRF.js",
+    "name": "classChallenge",
+    "imports": [
+      "_content-C6nwFnIU.js"
+    ]
+  },
+  "_content-C6nwFnIU.js": {
+    "file": "assets/content-C6nwFnIU.js",
+    "name": "content",
+    "imports": [
+      "_motion-Dy1Z1l7G.js"
+    ]
+  },
+  "_demoApi-Bu2Y4oqd.js": {
+    "file": "assets/demoApi-Bu2Y4oqd.js",
+    "name": "demoApi",
+    "isDynamicEntry": true,
+    "imports": [
+      "_content-C6nwFnIU.js",
+      "_assignTarget-D0x883I7.js",
+      "_classChallenge-B2dB5LRF.js",
+      "_teacher-Db_T2BnD.js"
+    ]
+  },
+  "_io-CyRCAKaK.js": {
+    "file": "assets/io-CyRCAKaK.js",
+    "name": "io",
+    "assets": [
+      "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+      "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+      "assets/plus-jakarta-sans-latin-400-normal-Dhut76fR.woff2",
+      "assets/plus-jakarta-sans-latin-600-normal-DLTa1BUW.woff2",
+      "assets/plus-jakarta-sans-latin-700-normal-CfpNZvy6.woff2",
+      "assets/plus-jakarta-sans-latin-800-normal-CusIZhrK.woff2"
+    ]
+  },
+  "_legal-BxBvIzGD.js": {
+    "file": "assets/legal-BxBvIzGD.js",
+    "name": "legal"
+  },
+  "_motion-Dy1Z1l7G.js": {
+    "file": "assets/motion-Dy1Z1l7G.js",
+    "name": "motion"
+  },
+  "_school-S3R_pRN7.js": {
+    "file": "assets/school-S3R_pRN7.js",
+    "name": "school",
+    "imports": [
+      "_io-CyRCAKaK.js",
+      "_content-C6nwFnIU.js"
+    ]
+  },
+  "_teacher-Db_T2BnD.js": {
+    "file": "assets/teacher-Db_T2BnD.js",
+    "name": "teacher",
+    "imports": [
+      "index.html",
+      "_content-C6nwFnIU.js",
+      "_io-CyRCAKaK.js"
+    ],
+    "css": [
+      "assets/teacher-Ds7pECXR.css"
+    ]
+  },
+  "_teacher-Ds7pECXR.css": {
+    "file": "assets/teacher-Ds7pECXR.css",
+    "src": "_teacher-Ds7pECXR.css"
+  },
+  "index.html": {
+    "file": "assets/index-BG4p0Twm.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "dynamicImports": [
+      "_AppShell-BL_ZVl5o.js",
+      "src/admin/AdminPortal.tsx",
+      "src/teacher/TeacherPortal.tsx",
+      "src/director/SchoolPortal.tsx",
+      "src/pages/AccountPages.tsx",
+      "src/pages/AccountPages.tsx",
+      "src/pages/LegalPages.tsx",
+      "src/pages/LegalPages.tsx",
+      "src/pages/DeleteAccountPage.tsx",
+      "src/pages/SupportPage.tsx",
+      "src/pages/AudioCreditsPage.tsx"
+    ],
+    "css": [
+      "assets/index--3kZaGx0.css"
+    ],
+    "assets": [
+      "assets/abc-logo-horizontal-BQqchq0-.svg",
+      "assets/abc-logo-pyramid-BULJcdAp.svg",
+      "assets/abc-logo-vertical-CA4tO1Jc.svg",
+      "assets/abc-a-block-EBGhCKXa.svg",
+      "assets/abc-intro-hW-vdz-2.mp4",
+      "assets/abc-intro-poster-Cc7LYOkH.webp",
+      "assets/abc-welcome-CjNynMKR.mp4",
+      "assets/abc-welcome-poster-nAFTybpW.webp",
+      "assets/phone-kampi-CfxLWhQk.webp",
+      "assets/phone-abc-BgA-pxBJ.webp",
+      "assets/phone-islands-D5BHFqmy.webp",
+      "assets/phone-path-Dqz9GUvq.webp",
+      "assets/phone-stars-685d2Rs8.webp",
+      "assets/phone-finish-DCsfGiVY.webp",
+      "assets/desk-teacher-DcQ5yY-7.webp",
+      "assets/phone-teacher-DZ8oySnm.webp",
+      "assets/desk-director-Dg_PpBAv.webp",
+      "assets/phone-director-CAdtdOB1.webp",
+      "assets/tablet-together-VxRnd4zf.webp",
+      "assets/tablet-learn-DwuRN4p3.webp",
+      "assets/fredoka-hebrew-500-normal-DdMTjgiE.woff2",
+      "assets/fredoka-hebrew-500-normal-BtShCMVp.woff",
+      "assets/fredoka-latin-500-normal-B0JifZgm.woff2",
+      "assets/fredoka-latin-500-normal-BL692wg7.woff",
+      "assets/fredoka-hebrew-600-normal-CTBxhdlE.woff2",
+      "assets/fredoka-hebrew-600-normal-BiVDObXj.woff",
+      "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+      "assets/fredoka-latin-600-normal-CcrEjrB4.woff",
+      "assets/fredoka-hebrew-700-normal-DBqnFHCe.woff2",
+      "assets/fredoka-hebrew-700-normal-DiqR04Vd.woff",
+      "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+      "assets/fredoka-latin-700-normal-C8FeHd3X.woff",
+      "assets/plus-jakarta-sans-vietnamese-400-normal-Cg2kxhWu.woff2",
+      "assets/plus-jakarta-sans-vietnamese-400-normal-B8TCSmUq.woff",
+      "assets/plus-jakarta-sans-latin-ext-400-normal-D127hM_v.woff2",
+      "assets/plus-jakarta-sans-latin-ext-400-normal-2ppkqaOR.woff",
+      "assets/plus-jakarta-sans-latin-400-normal-Dhut76fR.woff2",
+      "assets/plus-jakarta-sans-latin-400-normal-BDKaGhyp.woff",
+      "assets/plus-jakarta-sans-vietnamese-600-normal-Y4VTTRme.woff2",
+      "assets/plus-jakarta-sans-vietnamese-600-normal-5YsyKbU1.woff",
+      "assets/plus-jakarta-sans-latin-ext-600-normal-DQgPU_Cg.woff2",
+      "assets/plus-jakarta-sans-latin-ext-600-normal-B0WRRYJ1.woff",
+      "assets/plus-jakarta-sans-latin-600-normal-DLTa1BUW.woff2",
+      "assets/plus-jakarta-sans-latin-600-normal-BR_Ojra4.woff",
+      "assets/plus-jakarta-sans-vietnamese-700-normal-CV6qDkkj.woff2",
+      "assets/plus-jakarta-sans-vietnamese-700-normal-BCh_uG_5.woff",
+      "assets/plus-jakarta-sans-latin-ext-700-normal-BajbvANd.woff2",
+      "assets/plus-jakarta-sans-latin-ext-700-normal-8-d-IyIQ.woff",
+      "assets/plus-jakarta-sans-latin-700-normal-CfpNZvy6.woff2",
+      "assets/plus-jakarta-sans-latin-700-normal-DqEcQeE5.woff",
+      "assets/plus-jakarta-sans-vietnamese-800-normal-CxbopLd3.woff2",
+      "assets/plus-jakarta-sans-vietnamese-800-normal-BkoGl_sr.woff",
+      "assets/plus-jakarta-sans-latin-ext-800-normal-B6BjB2Ju.woff2",
+      "assets/plus-jakarta-sans-latin-ext-800-normal-BPkb-LBK.woff",
+      "assets/plus-jakarta-sans-latin-800-normal-CusIZhrK.woff2",
+      "assets/plus-jakarta-sans-latin-800-normal-BRNHt2w0.woff"
+    ]
+  },
+  "node_modules/@capacitor/app/dist/esm/web.js": {
+    "file": "assets/web-AErk-SDi.js",
+    "name": "web",
+    "src": "node_modules/@capacitor/app/dist/esm/web.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_motion-Dy1Z1l7G.js"
+    ]
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff": {
+    "file": "assets/fredoka-hebrew-500-normal-BtShCMVp.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff2": {
+    "file": "assets/fredoka-hebrew-500-normal-DdMTjgiE.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-500-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff": {
+    "file": "assets/fredoka-hebrew-600-normal-BiVDObXj.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff2": {
+    "file": "assets/fredoka-hebrew-600-normal-CTBxhdlE.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-600-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff": {
+    "file": "assets/fredoka-hebrew-700-normal-DiqR04Vd.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff2": {
+    "file": "assets/fredoka-hebrew-700-normal-DBqnFHCe.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-hebrew-700-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff": {
+    "file": "assets/fredoka-latin-500-normal-BL692wg7.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff2": {
+    "file": "assets/fredoka-latin-500-normal-B0JifZgm.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-500-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff": {
+    "file": "assets/fredoka-latin-600-normal-CcrEjrB4.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff2": {
+    "file": "assets/fredoka-latin-600-normal-C4zohCW5.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff": {
+    "file": "assets/fredoka-latin-700-normal-C8FeHd3X.woff",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff2": {
+    "file": "assets/fredoka-latin-700-normal-BOIZVyIN.woff2",
+    "src": "node_modules/@fontsource/fredoka/files/fredoka-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-400-normal-BDKaGhyp.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-400-normal-Dhut76fR.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-400-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-600-normal-BR_Ojra4.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-600-normal-DLTa1BUW.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-600-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-700-normal-DqEcQeE5.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-700-normal-CfpNZvy6.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-800-normal-BRNHt2w0.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-800-normal-CusIZhrK.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-800-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-400-normal-2ppkqaOR.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-400-normal-D127hM_v.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-400-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-600-normal-B0WRRYJ1.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-600-normal-DQgPU_Cg.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-600-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-700-normal-8-d-IyIQ.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-700-normal-BajbvANd.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff": {
+    "file": "assets/plus-jakarta-sans-latin-ext-800-normal-BPkb-LBK.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-latin-ext-800-normal-B6BjB2Ju.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-latin-ext-800-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-400-normal-B8TCSmUq.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-400-normal-Cg2kxhWu.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-400-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-600-normal-5YsyKbU1.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-600-normal-Y4VTTRme.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-600-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-700-normal-BCh_uG_5.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-700-normal-CV6qDkkj.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-700-normal.woff2"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff": {
+    "file": "assets/plus-jakarta-sans-vietnamese-800-normal-BkoGl_sr.woff",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff"
+  },
+  "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff2": {
+    "file": "assets/plus-jakarta-sans-vietnamese-800-normal-CxbopLd3.woff2",
+    "src": "node_modules/@fontsource/plus-jakarta-sans/files/plus-jakarta-sans-vietnamese-800-normal.woff2"
+  },
+  "node_modules/@revenuecat/purchases-capacitor/dist/esm/web.js": {
+    "file": "assets/web-BlozsQez.js",
+    "name": "web",
+    "src": "node_modules/@revenuecat/purchases-capacitor/dist/esm/web.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_AppShell-BL_ZVl5o.js",
+      "_motion-Dy1Z1l7G.js",
+      "_content-C6nwFnIU.js",
+      "_classChallenge-B2dB5LRF.js",
+      "_io-CyRCAKaK.js",
+      "_school-S3R_pRN7.js",
+      "_assignTarget-D0x883I7.js",
+      "_animal-sound-wolf-CZI8te8R.js"
+    ]
+  },
+  "src/admin/AdminPortal.tsx": {
+    "file": "assets/AdminPortal-D9NSJRKt.js",
+    "name": "AdminPortal",
+    "src": "src/admin/AdminPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-C6nwFnIU.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "css": [
+      "assets/AdminPortal-Bnwdht11.css"
+    ]
+  },
+  "src/assets/animal-sounds/animal-sound-bat.wav": {
+    "file": "assets/animal-sound-bat-D-4WRmuP.wav",
+    "src": "src/assets/animal-sounds/animal-sound-bat.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-bear.wav": {
+    "file": "assets/animal-sound-bear-BMhUr-iK.wav",
+    "src": "src/assets/animal-sounds/animal-sound-bear.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-bee.wav": {
+    "file": "assets/animal-sound-bee-DREt2Tuh.wav",
+    "src": "src/assets/animal-sounds/animal-sound-bee.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-butterfly.wav": {
+    "file": "assets/animal-sound-butterfly-D3ayy5qX.wav",
+    "src": "src/assets/animal-sounds/animal-sound-butterfly.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-carp.wav": {
+    "file": "assets/animal-sound-carp-BrYhIjUW.wav",
+    "src": "src/assets/animal-sounds/animal-sound-carp.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-cat.wav": {
+    "file": "assets/animal-sound-cat-duIxARnZ.wav",
+    "src": "src/assets/animal-sounds/animal-sound-cat.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-cicada.wav": {
+    "file": "assets/animal-sound-cicada-Y2TcxVpL.wav",
+    "src": "src/assets/animal-sounds/animal-sound-cicada.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-crow.wav": {
+    "file": "assets/animal-sound-crow-PiSYhdnB.wav",
+    "src": "src/assets/animal-sounds/animal-sound-crow.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-deer.wav": {
+    "file": "assets/animal-sound-deer-CJq9_zzM.wav",
+    "src": "src/assets/animal-sounds/animal-sound-deer.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-dog.wav": {
+    "file": "assets/animal-sound-dog-C55_212P.wav",
+    "src": "src/assets/animal-sounds/animal-sound-dog.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-dolphin.wav": {
+    "file": "assets/animal-sound-dolphin-Dn5xPHEJ.wav",
+    "src": "src/assets/animal-sounds/animal-sound-dolphin.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-duck.wav": {
+    "file": "assets/animal-sound-duck-DtCLLsDx.wav",
+    "src": "src/assets/animal-sounds/animal-sound-duck.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-eagle.wav": {
+    "file": "assets/animal-sound-eagle-CcAFB1UC.wav",
+    "src": "src/assets/animal-sounds/animal-sound-eagle.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-flamingo.wav": {
+    "file": "assets/animal-sound-flamingo-CflJEj6-.wav",
+    "src": "src/assets/animal-sounds/animal-sound-flamingo.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-fox.wav": {
+    "file": "assets/animal-sound-fox-DSI1RE1o.wav",
+    "src": "src/assets/animal-sounds/animal-sound-fox.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-frog.wav": {
+    "file": "assets/animal-sound-frog-Cm_uObZ-.wav",
+    "src": "src/assets/animal-sounds/animal-sound-frog.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-goat.wav": {
+    "file": "assets/animal-sound-goat-BY-SPpO4.wav",
+    "src": "src/assets/animal-sounds/animal-sound-goat.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-hedgehog.wav": {
+    "file": "assets/animal-sound-hedgehog-DCsq0dRs.wav",
+    "src": "src/assets/animal-sounds/animal-sound-hedgehog.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-heron.wav": {
+    "file": "assets/animal-sound-heron-BXO1H7tr.wav",
+    "src": "src/assets/animal-sounds/animal-sound-heron.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-horse.wav": {
+    "file": "assets/animal-sound-horse-Bx9RwDAO.wav",
+    "src": "src/assets/animal-sounds/animal-sound-horse.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-lizard.wav": {
+    "file": "assets/animal-sound-lizard-Kef2OjKM.wav",
+    "src": "src/assets/animal-sounds/animal-sound-lizard.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-mouse.wav": {
+    "file": "assets/animal-sound-mouse-DtLQCLy7.wav",
+    "src": "src/assets/animal-sounds/animal-sound-mouse.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-otter.wav": {
+    "file": "assets/animal-sound-otter-BPqObxCr.wav",
+    "src": "src/assets/animal-sounds/animal-sound-otter.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-owl.wav": {
+    "file": "assets/animal-sound-owl-DPld6gqE.wav",
+    "src": "src/assets/animal-sounds/animal-sound-owl.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-pelican.wav": {
+    "file": "assets/animal-sound-pelican-C2OLuE64.wav",
+    "src": "src/assets/animal-sounds/animal-sound-pelican.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-pigeon.wav": {
+    "file": "assets/animal-sound-pigeon-CopqQsaf.wav",
+    "src": "src/assets/animal-sounds/animal-sound-pigeon.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-purr.wav": {
+    "file": "assets/animal-sound-purr-CGvKDExI.wav",
+    "src": "src/assets/animal-sounds/animal-sound-purr.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-rabbit.wav": {
+    "file": "assets/animal-sound-rabbit-C8JHphOf.wav",
+    "src": "src/assets/animal-sounds/animal-sound-rabbit.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-sheep.wav": {
+    "file": "assets/animal-sound-sheep-ChfWCbAP.wav",
+    "src": "src/assets/animal-sounds/animal-sound-sheep.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-squirrel.wav": {
+    "file": "assets/animal-sound-squirrel-B85EfUIf.wav",
+    "src": "src/assets/animal-sounds/animal-sound-squirrel.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-stork.wav": {
+    "file": "assets/animal-sound-stork-Cggpg1yU.wav",
+    "src": "src/assets/animal-sounds/animal-sound-stork.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-swallow.wav": {
+    "file": "assets/animal-sound-swallow-Cvjq5vm-.wav",
+    "src": "src/assets/animal-sounds/animal-sound-swallow.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-turtle.wav": {
+    "file": "assets/animal-sound-turtle-DDZcgK7T.wav",
+    "src": "src/assets/animal-sounds/animal-sound-turtle.wav"
+  },
+  "src/assets/animal-sounds/animal-sound-wolf.wav": {
+    "file": "assets/animal-sound-wolf-CCtq756f.wav",
+    "src": "src/assets/animal-sounds/animal-sound-wolf.wav"
+  },
+  "src/assets/book-narration/book-narration-bleta-10707ad7577fe85e65ec67b5d3b5a27dac637cfae158b286b5ca6f63fed6356f.mp3": {
+    "file": "assets/book-narration-bleta-10707ad7577fe85e65ec67b5d3b5a27dac637cfae158b286b5ca6f63fed6356f-CCGCUjQU.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-10707ad7577fe85e65ec67b5d3b5a27dac637cfae158b286b5ca6f63fed6356f.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-177e4b19a62453af946f33b6d0df95b3f626835b3fd6587aa02c7f6d40456f7d.mp3": {
+    "file": "assets/book-narration-bleta-177e4b19a62453af946f33b6d0df95b3f626835b3fd6587aa02c7f6d40456f7d-DtYyOSVJ.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-177e4b19a62453af946f33b6d0df95b3f626835b3fd6587aa02c7f6d40456f7d.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-2150c300453d88f599df3b152a07b28241b435df66d944c8bb5813e9495d00ec.mp3": {
+    "file": "assets/book-narration-bleta-2150c300453d88f599df3b152a07b28241b435df66d944c8bb5813e9495d00ec-r_znHDk_.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-2150c300453d88f599df3b152a07b28241b435df66d944c8bb5813e9495d00ec.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-23f95aafd55834660e98cf487ab8a69860c6e72cf7b988945dedc2264bd9bf4e.mp3": {
+    "file": "assets/book-narration-bleta-23f95aafd55834660e98cf487ab8a69860c6e72cf7b988945dedc2264bd9bf4e-CHou5b6f.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-23f95aafd55834660e98cf487ab8a69860c6e72cf7b988945dedc2264bd9bf4e.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-6ee8137d730001b9a2dcc96e1648a22312da28c8519414dae100a992e529f8e8.mp3": {
+    "file": "assets/book-narration-bleta-6ee8137d730001b9a2dcc96e1648a22312da28c8519414dae100a992e529f8e8-BhOT1fDz.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-6ee8137d730001b9a2dcc96e1648a22312da28c8519414dae100a992e529f8e8.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-71f9af0b473d8f61c8ffae469ab3572c87a728f8e3a6d28a92b496c732c98b25.mp3": {
+    "file": "assets/book-narration-bleta-71f9af0b473d8f61c8ffae469ab3572c87a728f8e3a6d28a92b496c732c98b25-D16ZdqTw.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-71f9af0b473d8f61c8ffae469ab3572c87a728f8e3a6d28a92b496c732c98b25.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99.mp3": {
+    "file": "assets/book-narration-bleta-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99-CEIuIfwM.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-9c857b849e0069600856c718dff3b243e632531eab52770b141cb8cfbc55a146.mp3": {
+    "file": "assets/book-narration-bleta-9c857b849e0069600856c718dff3b243e632531eab52770b141cb8cfbc55a146-CBTEBo7s.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-9c857b849e0069600856c718dff3b243e632531eab52770b141cb8cfbc55a146.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-a6f7bf7745853e3b55222250dcf8ba26d7b14a8f4d3312f958cbca56ffb737c5.mp3": {
+    "file": "assets/book-narration-bleta-a6f7bf7745853e3b55222250dcf8ba26d7b14a8f4d3312f958cbca56ffb737c5-CY2Vm42W.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-a6f7bf7745853e3b55222250dcf8ba26d7b14a8f4d3312f958cbca56ffb737c5.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-b0363d4bc0931e644b4b1780f5245949e62b3f157bacf4e2a2e7d99c73378b86.mp3": {
+    "file": "assets/book-narration-bleta-b0363d4bc0931e644b4b1780f5245949e62b3f157bacf4e2a2e7d99c73378b86-CysxMTpp.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-b0363d4bc0931e644b4b1780f5245949e62b3f157bacf4e2a2e7d99c73378b86.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-e05015ab55f3533f8b533befe0bd0db525e64a2968e00fdf178672702fd49b48.mp3": {
+    "file": "assets/book-narration-bleta-e05015ab55f3533f8b533befe0bd0db525e64a2968e00fdf178672702fd49b48-Bujmb9hz.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-e05015ab55f3533f8b533befe0bd0db525e64a2968e00fdf178672702fd49b48.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-f138990301f9ed9106c6b9518e0cf82de8ca215a9b66aae51e04d5a67b627098.mp3": {
+    "file": "assets/book-narration-bleta-f138990301f9ed9106c6b9518e0cf82de8ca215a9b66aae51e04d5a67b627098-Cjw6Q26T.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-f138990301f9ed9106c6b9518e0cf82de8ca215a9b66aae51e04d5a67b627098.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-fd1312f8fa19b7c7e7a7f97e32ef3dcaadf9686ddd32d90ae28669c20d317acd.mp3": {
+    "file": "assets/book-narration-bleta-fd1312f8fa19b7c7e7a7f97e32ef3dcaadf9686ddd32d90ae28669c20d317acd-PlcVYIWO.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-fd1312f8fa19b7c7e7a7f97e32ef3dcaadf9686ddd32d90ae28669c20d317acd.mp3"
+  },
+  "src/assets/book-narration/book-narration-bleta-feca08d5a7de188f773dc77f59bdbe35a0c5f899634b44011d150a65467491c4.mp3": {
+    "file": "assets/book-narration-bleta-feca08d5a7de188f773dc77f59bdbe35a0c5f899634b44011d150a65467491c4-DLvV6Tz8.mp3",
+    "src": "src/assets/book-narration/book-narration-bleta-feca08d5a7de188f773dc77f59bdbe35a0c5f899634b44011d150a65467491c4.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-0961012ed9241132c22bc6dda788e69ee703d96c1749147c76d4f74548d2b7c0.mp3": {
+    "file": "assets/book-narration-bufi-0961012ed9241132c22bc6dda788e69ee703d96c1749147c76d4f74548d2b7c0-CbVugrmk.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-0961012ed9241132c22bc6dda788e69ee703d96c1749147c76d4f74548d2b7c0.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-1e2ce0a2544ce12a6acda0200977986f2b12a0923d2148dbfedfb6082a51e67f.mp3": {
+    "file": "assets/book-narration-bufi-1e2ce0a2544ce12a6acda0200977986f2b12a0923d2148dbfedfb6082a51e67f-BeRaexbp.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-1e2ce0a2544ce12a6acda0200977986f2b12a0923d2148dbfedfb6082a51e67f.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-1e8bbc70537f36f4ea661fe9feccf42a70b305ee903033b97897d059aee9af39.mp3": {
+    "file": "assets/book-narration-bufi-1e8bbc70537f36f4ea661fe9feccf42a70b305ee903033b97897d059aee9af39-gwvzZBjL.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-1e8bbc70537f36f4ea661fe9feccf42a70b305ee903033b97897d059aee9af39.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-53038beb8ea9c45578f5008bf907e11a0ff19d269cc7fb21ac159e651f60c7cf.mp3": {
+    "file": "assets/book-narration-bufi-53038beb8ea9c45578f5008bf907e11a0ff19d269cc7fb21ac159e651f60c7cf-CVf2TdjE.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-53038beb8ea9c45578f5008bf907e11a0ff19d269cc7fb21ac159e651f60c7cf.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99.mp3": {
+    "file": "assets/book-narration-bufi-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99-D1TB8R4q.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-8a603729437d60eb00f1cc2d5ae0039f9ac0c480de7cef65d9659bd70b6f8246.mp3": {
+    "file": "assets/book-narration-bufi-8a603729437d60eb00f1cc2d5ae0039f9ac0c480de7cef65d9659bd70b6f8246-DklkAqM6.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-8a603729437d60eb00f1cc2d5ae0039f9ac0c480de7cef65d9659bd70b6f8246.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-abd0a0ead0d762238cd1fe1d69137bbe8b3f01aafe9a09c2b89c0b964541d798.mp3": {
+    "file": "assets/book-narration-bufi-abd0a0ead0d762238cd1fe1d69137bbe8b3f01aafe9a09c2b89c0b964541d798-B8raY7LE.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-abd0a0ead0d762238cd1fe1d69137bbe8b3f01aafe9a09c2b89c0b964541d798.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-b0e93b064427de5a6b7b5ac021857e25bcbedb8ab31cce1e20c23767695415d1.mp3": {
+    "file": "assets/book-narration-bufi-b0e93b064427de5a6b7b5ac021857e25bcbedb8ab31cce1e20c23767695415d1-euvHI3xl.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-b0e93b064427de5a6b7b5ac021857e25bcbedb8ab31cce1e20c23767695415d1.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-b59cf33bb5912a6841f4fe0208bdc209b58bd5632563bd9c9e1f00cc8e8782f9.mp3": {
+    "file": "assets/book-narration-bufi-b59cf33bb5912a6841f4fe0208bdc209b58bd5632563bd9c9e1f00cc8e8782f9-PJawkmzB.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-b59cf33bb5912a6841f4fe0208bdc209b58bd5632563bd9c9e1f00cc8e8782f9.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-bb510fadde272c513ce2a0e5e4f3c09bd43d94998e98948dacbc86a7a247446d.mp3": {
+    "file": "assets/book-narration-bufi-bb510fadde272c513ce2a0e5e4f3c09bd43d94998e98948dacbc86a7a247446d-B0O23Lgn.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-bb510fadde272c513ce2a0e5e4f3c09bd43d94998e98948dacbc86a7a247446d.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-bfd9d573c304ff08ea0b9f2a21d1b9962b87b8f74de69ffcc818109de19d11bb.mp3": {
+    "file": "assets/book-narration-bufi-bfd9d573c304ff08ea0b9f2a21d1b9962b87b8f74de69ffcc818109de19d11bb-C9QXLfPw.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-bfd9d573c304ff08ea0b9f2a21d1b9962b87b8f74de69ffcc818109de19d11bb.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-c9751476777ac0a5eaeaede087198d3948ed66a631938d5e7a55c45c3db1c045.mp3": {
+    "file": "assets/book-narration-bufi-c9751476777ac0a5eaeaede087198d3948ed66a631938d5e7a55c45c3db1c045-BkkBJmKu.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-c9751476777ac0a5eaeaede087198d3948ed66a631938d5e7a55c45c3db1c045.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-d5cf60ae1ffb72b3475b2dff9ab4344ded3845c3156885adfc73168a585f74df.mp3": {
+    "file": "assets/book-narration-bufi-d5cf60ae1ffb72b3475b2dff9ab4344ded3845c3156885adfc73168a585f74df-dK-bfQun.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-d5cf60ae1ffb72b3475b2dff9ab4344ded3845c3156885adfc73168a585f74df.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-d83540f7c343fe1d3992b285d9e82872f28dc65223dc542e417a9ddfdb8440ca.mp3": {
+    "file": "assets/book-narration-bufi-d83540f7c343fe1d3992b285d9e82872f28dc65223dc542e417a9ddfdb8440ca-DetP_IxT.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-d83540f7c343fe1d3992b285d9e82872f28dc65223dc542e417a9ddfdb8440ca.mp3"
+  },
+  "src/assets/book-narration/book-narration-bufi-ea3e7a559107fa51d19115c1e7d1db12f5eaf65e5defab63afd70d8742568bc3.mp3": {
+    "file": "assets/book-narration-bufi-ea3e7a559107fa51d19115c1e7d1db12f5eaf65e5defab63afd70d8742568bc3-BkhVLya0.mp3",
+    "src": "src/assets/book-narration/book-narration-bufi-ea3e7a559107fa51d19115c1e7d1db12f5eaf65e5defab63afd70d8742568bc3.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-0382d8e72821aeadcb714d396a0203a6d55e99931623d05cfb3d44fce5926afb.mp3": {
+    "file": "assets/book-narration-lira-0382d8e72821aeadcb714d396a0203a6d55e99931623d05cfb3d44fce5926afb-lEM84iSy.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-0382d8e72821aeadcb714d396a0203a6d55e99931623d05cfb3d44fce5926afb.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-0719e01dcf5170c954590a8196d3475011138fe2178ab800174c3e4750b23b71.mp3": {
+    "file": "assets/book-narration-lira-0719e01dcf5170c954590a8196d3475011138fe2178ab800174c3e4750b23b71-D4OK_rYV.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-0719e01dcf5170c954590a8196d3475011138fe2178ab800174c3e4750b23b71.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-0d65447201b84d23d49c2c60bee6e59f3275f8431065b8cb3e1908ea880c6333.mp3": {
+    "file": "assets/book-narration-lira-0d65447201b84d23d49c2c60bee6e59f3275f8431065b8cb3e1908ea880c6333-DjgN7DSl.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-0d65447201b84d23d49c2c60bee6e59f3275f8431065b8cb3e1908ea880c6333.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-13d6ad82a4322f5ff00a3aef3cf6b84b74365f0c3ee7efc0d5d436020fc75928.mp3": {
+    "file": "assets/book-narration-lira-13d6ad82a4322f5ff00a3aef3cf6b84b74365f0c3ee7efc0d5d436020fc75928-C6TUfdKC.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-13d6ad82a4322f5ff00a3aef3cf6b84b74365f0c3ee7efc0d5d436020fc75928.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-172997cff3f41ad70acdc6a961d56580cb3ab22a5064ba651cf3c07fcb420872.mp3": {
+    "file": "assets/book-narration-lira-172997cff3f41ad70acdc6a961d56580cb3ab22a5064ba651cf3c07fcb420872-Cy7IIacn.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-172997cff3f41ad70acdc6a961d56580cb3ab22a5064ba651cf3c07fcb420872.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-17881c53b4650c9b64fa754c3433fa6bf25240ab5b148306756ce351554c483d.mp3": {
+    "file": "assets/book-narration-lira-17881c53b4650c9b64fa754c3433fa6bf25240ab5b148306756ce351554c483d-Bbfk2hWG.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-17881c53b4650c9b64fa754c3433fa6bf25240ab5b148306756ce351554c483d.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-1edc4f766ef844687c06b7f525ac219cf580133e58bf679a012e6953bd192b8e.mp3": {
+    "file": "assets/book-narration-lira-1edc4f766ef844687c06b7f525ac219cf580133e58bf679a012e6953bd192b8e-BdhPq-bi.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-1edc4f766ef844687c06b7f525ac219cf580133e58bf679a012e6953bd192b8e.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-24048c30a49088d1d484fecb9924707bd07f2d95a6891370d43906d5a6bd245b.mp3": {
+    "file": "assets/book-narration-lira-24048c30a49088d1d484fecb9924707bd07f2d95a6891370d43906d5a6bd245b-DT7zgpkI.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-24048c30a49088d1d484fecb9924707bd07f2d95a6891370d43906d5a6bd245b.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-2444f6e0f77bb90a3425cd55e9efc542bc0846048c9e0e4a5e56e3f3c62fef85.mp3": {
+    "file": "assets/book-narration-lira-2444f6e0f77bb90a3425cd55e9efc542bc0846048c9e0e4a5e56e3f3c62fef85-Cvs_RjRI.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-2444f6e0f77bb90a3425cd55e9efc542bc0846048c9e0e4a5e56e3f3c62fef85.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-285611c01dcae0587cb13b16206b8b79d08af1c13c7ac186ff15b28d7e021b9f.mp3": {
+    "file": "assets/book-narration-lira-285611c01dcae0587cb13b16206b8b79d08af1c13c7ac186ff15b28d7e021b9f-BBb4F79q.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-285611c01dcae0587cb13b16206b8b79d08af1c13c7ac186ff15b28d7e021b9f.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-29dbdc9de03027af2cd17506eb28d7cb59022b110c466e2161392612d7f5efb5.mp3": {
+    "file": "assets/book-narration-lira-29dbdc9de03027af2cd17506eb28d7cb59022b110c466e2161392612d7f5efb5-U4S3ZQrt.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-29dbdc9de03027af2cd17506eb28d7cb59022b110c466e2161392612d7f5efb5.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-31fff695752a534e37ed4590755d52c35219a3e240a56323d24b9cf513b48b0d.mp3": {
+    "file": "assets/book-narration-lira-31fff695752a534e37ed4590755d52c35219a3e240a56323d24b9cf513b48b0d-CPbOC2Ex.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-31fff695752a534e37ed4590755d52c35219a3e240a56323d24b9cf513b48b0d.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-38a91fb9917edc8dca4a38b315165fd7683116cdc2e7190b47e44b57102a5638.mp3": {
+    "file": "assets/book-narration-lira-38a91fb9917edc8dca4a38b315165fd7683116cdc2e7190b47e44b57102a5638-Ev6jJmaB.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-38a91fb9917edc8dca4a38b315165fd7683116cdc2e7190b47e44b57102a5638.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-38f0c0dcaa4d8ea8e16bb75b17a2baaea08a9173f448b5b0445886f3684260c1.mp3": {
+    "file": "assets/book-narration-lira-38f0c0dcaa4d8ea8e16bb75b17a2baaea08a9173f448b5b0445886f3684260c1-J-_vkz56.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-38f0c0dcaa4d8ea8e16bb75b17a2baaea08a9173f448b5b0445886f3684260c1.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-39787cdc2ada9f4d849442958d083a02ec534bf00d79adcf80202128b4211377.mp3": {
+    "file": "assets/book-narration-lira-39787cdc2ada9f4d849442958d083a02ec534bf00d79adcf80202128b4211377-Buz2Fkp2.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-39787cdc2ada9f4d849442958d083a02ec534bf00d79adcf80202128b4211377.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-3a21b6a0c3990fbf9d2dd021217d0bd37ddf068a593832ff96bb7345198342aa.mp3": {
+    "file": "assets/book-narration-lira-3a21b6a0c3990fbf9d2dd021217d0bd37ddf068a593832ff96bb7345198342aa-BrgwFlFX.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-3a21b6a0c3990fbf9d2dd021217d0bd37ddf068a593832ff96bb7345198342aa.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-3c6fda51e5b8038d1eaa2d194906087d88bda3a05636c5bfbc4d202ae6e8810e.mp3": {
+    "file": "assets/book-narration-lira-3c6fda51e5b8038d1eaa2d194906087d88bda3a05636c5bfbc4d202ae6e8810e-CnAt77JS.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-3c6fda51e5b8038d1eaa2d194906087d88bda3a05636c5bfbc4d202ae6e8810e.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-3d030760e7c8e0d9074e1deea9b468c5723377b840757beeaa29ded10f91eb4b.mp3": {
+    "file": "assets/book-narration-lira-3d030760e7c8e0d9074e1deea9b468c5723377b840757beeaa29ded10f91eb4b-HvOYAIDP.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-3d030760e7c8e0d9074e1deea9b468c5723377b840757beeaa29ded10f91eb4b.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-3d70fe19ec6b3684363c42cc0277f17ddcb062159518696e2ca7b99f41ddb954.mp3": {
+    "file": "assets/book-narration-lira-3d70fe19ec6b3684363c42cc0277f17ddcb062159518696e2ca7b99f41ddb954-pott4wg6.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-3d70fe19ec6b3684363c42cc0277f17ddcb062159518696e2ca7b99f41ddb954.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-3fae8732bcdb49b82d5d826f079ed3548ba8c9062b84aae5a391c3bede1eb7d3.mp3": {
+    "file": "assets/book-narration-lira-3fae8732bcdb49b82d5d826f079ed3548ba8c9062b84aae5a391c3bede1eb7d3-BIu-_on4.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-3fae8732bcdb49b82d5d826f079ed3548ba8c9062b84aae5a391c3bede1eb7d3.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-473931eb8137e0de60a861609821ffe088e646999e9d0031144321ca2cdd2d5e.mp3": {
+    "file": "assets/book-narration-lira-473931eb8137e0de60a861609821ffe088e646999e9d0031144321ca2cdd2d5e-BhouM5gl.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-473931eb8137e0de60a861609821ffe088e646999e9d0031144321ca2cdd2d5e.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-4db5b657ab25a5b5ab1137091cff4cbf25ef9dbb0e7ad9858d6aeffe67fde0be.mp3": {
+    "file": "assets/book-narration-lira-4db5b657ab25a5b5ab1137091cff4cbf25ef9dbb0e7ad9858d6aeffe67fde0be-C-Q9SDhN.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-4db5b657ab25a5b5ab1137091cff4cbf25ef9dbb0e7ad9858d6aeffe67fde0be.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-4e9b77b7601784065e346f62612575069ecfdea068f1cc9b1f071d6123bd60fb.mp3": {
+    "file": "assets/book-narration-lira-4e9b77b7601784065e346f62612575069ecfdea068f1cc9b1f071d6123bd60fb-CQRka1vM.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-4e9b77b7601784065e346f62612575069ecfdea068f1cc9b1f071d6123bd60fb.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-510a0ae7f93ad3869ccbc7b8f3d6bd98bee3ca28b1669c4adcfd54b4fad2c509.mp3": {
+    "file": "assets/book-narration-lira-510a0ae7f93ad3869ccbc7b8f3d6bd98bee3ca28b1669c4adcfd54b4fad2c509-B6-aSXrp.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-510a0ae7f93ad3869ccbc7b8f3d6bd98bee3ca28b1669c4adcfd54b4fad2c509.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-570dac5702ea4d5cf5200b131c9eca0e05b5c039de68cb5ec56c3a83c81b15fe.mp3": {
+    "file": "assets/book-narration-lira-570dac5702ea4d5cf5200b131c9eca0e05b5c039de68cb5ec56c3a83c81b15fe-Dg_4gnbf.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-570dac5702ea4d5cf5200b131c9eca0e05b5c039de68cb5ec56c3a83c81b15fe.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-5a9a22758e5be499a73d851c5dfc37480bdc184082690f586e8d6a9410289cc2.mp3": {
+    "file": "assets/book-narration-lira-5a9a22758e5be499a73d851c5dfc37480bdc184082690f586e8d6a9410289cc2-B2cIHdBq.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-5a9a22758e5be499a73d851c5dfc37480bdc184082690f586e8d6a9410289cc2.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-5f7da96a2ae83bb99eb49dac897a702cf058a92666b939d5aef444ef054fd937.mp3": {
+    "file": "assets/book-narration-lira-5f7da96a2ae83bb99eb49dac897a702cf058a92666b939d5aef444ef054fd937-BCilWV0H.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-5f7da96a2ae83bb99eb49dac897a702cf058a92666b939d5aef444ef054fd937.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-6080fe98583d48fec238fceed39b7e8287f1823f1f7983280d4c154c86779265.mp3": {
+    "file": "assets/book-narration-lira-6080fe98583d48fec238fceed39b7e8287f1823f1f7983280d4c154c86779265-BV74vol6.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-6080fe98583d48fec238fceed39b7e8287f1823f1f7983280d4c154c86779265.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-60d28e516d99befe3d3d21ee95dd083f3d0c0366073831c401061b5544a9a984.mp3": {
+    "file": "assets/book-narration-lira-60d28e516d99befe3d3d21ee95dd083f3d0c0366073831c401061b5544a9a984-BmmrlaFj.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-60d28e516d99befe3d3d21ee95dd083f3d0c0366073831c401061b5544a9a984.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-6d718b1650e4242001eab3f8476ee3c4bc3ccc474719c2bcaf028bfcb8e77ccc.mp3": {
+    "file": "assets/book-narration-lira-6d718b1650e4242001eab3f8476ee3c4bc3ccc474719c2bcaf028bfcb8e77ccc-BPWsUtX_.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-6d718b1650e4242001eab3f8476ee3c4bc3ccc474719c2bcaf028bfcb8e77ccc.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-6e76924b6fc2339c858860d480704a10dba53124c8e738afd62a379bbb450161.mp3": {
+    "file": "assets/book-narration-lira-6e76924b6fc2339c858860d480704a10dba53124c8e738afd62a379bbb450161-DJ8_n67B.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-6e76924b6fc2339c858860d480704a10dba53124c8e738afd62a379bbb450161.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-721acf935bb5f0ade92fd991e03b94152c69d2e2bbc3ab004a820523dabe12a5.mp3": {
+    "file": "assets/book-narration-lira-721acf935bb5f0ade92fd991e03b94152c69d2e2bbc3ab004a820523dabe12a5-N5MYuJX6.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-721acf935bb5f0ade92fd991e03b94152c69d2e2bbc3ab004a820523dabe12a5.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-726a4865e6fb7372aa377aad1463169935ff281569d518626c244a8e0ea92945.mp3": {
+    "file": "assets/book-narration-lira-726a4865e6fb7372aa377aad1463169935ff281569d518626c244a8e0ea92945-BGnzESK1.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-726a4865e6fb7372aa377aad1463169935ff281569d518626c244a8e0ea92945.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-7315f59bffc040cc8355837576a876a13e25ff189a4e72cd3371e8ec5819c82f.mp3": {
+    "file": "assets/book-narration-lira-7315f59bffc040cc8355837576a876a13e25ff189a4e72cd3371e8ec5819c82f-Hvj7kUEQ.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-7315f59bffc040cc8355837576a876a13e25ff189a4e72cd3371e8ec5819c82f.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-745044773eca2ad537116589e786d40b42c952df089358e30d826c034251b1f5.mp3": {
+    "file": "assets/book-narration-lira-745044773eca2ad537116589e786d40b42c952df089358e30d826c034251b1f5-964-fXFr.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-745044773eca2ad537116589e786d40b42c952df089358e30d826c034251b1f5.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-75439530265edabb64ef5251f3cf4dda0bcf605adde84e629f0ffac3f11595e6.mp3": {
+    "file": "assets/book-narration-lira-75439530265edabb64ef5251f3cf4dda0bcf605adde84e629f0ffac3f11595e6-oGDasKkH.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-75439530265edabb64ef5251f3cf4dda0bcf605adde84e629f0ffac3f11595e6.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-76d6e855d20fbf359d1d45756fcb1f263c713ba68ff3171d8d0273c7978d54af.mp3": {
+    "file": "assets/book-narration-lira-76d6e855d20fbf359d1d45756fcb1f263c713ba68ff3171d8d0273c7978d54af-G4hFLDFb.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-76d6e855d20fbf359d1d45756fcb1f263c713ba68ff3171d8d0273c7978d54af.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-783e7fc41472a57d196a011ce57ec339ffe1561be969654c672cbbd4b0d8e590.mp3": {
+    "file": "assets/book-narration-lira-783e7fc41472a57d196a011ce57ec339ffe1561be969654c672cbbd4b0d8e590-lWTBvnzW.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-783e7fc41472a57d196a011ce57ec339ffe1561be969654c672cbbd4b0d8e590.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-7fa072bd1400a35dd6cb4b506521b6a3e2e71fe7f7f2461d8d7d757d073d3298.mp3": {
+    "file": "assets/book-narration-lira-7fa072bd1400a35dd6cb4b506521b6a3e2e71fe7f7f2461d8d7d757d073d3298-BWlF5Cj7.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-7fa072bd1400a35dd6cb4b506521b6a3e2e71fe7f7f2461d8d7d757d073d3298.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-80a10e415a8d315e2a6591960a2f29d421dad437c68a4b46d1ccdcf5a81cb526.mp3": {
+    "file": "assets/book-narration-lira-80a10e415a8d315e2a6591960a2f29d421dad437c68a4b46d1ccdcf5a81cb526-f9vLMZhO.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-80a10e415a8d315e2a6591960a2f29d421dad437c68a4b46d1ccdcf5a81cb526.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-811ddf74c68d288809d9483ba22c90e88a556526ddce14d1a0ea728444b5dcf2.mp3": {
+    "file": "assets/book-narration-lira-811ddf74c68d288809d9483ba22c90e88a556526ddce14d1a0ea728444b5dcf2-Dyn2JweU.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-811ddf74c68d288809d9483ba22c90e88a556526ddce14d1a0ea728444b5dcf2.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-84e93f4a0111140b6f5a1a93964e43864d34343235240b72e40de22fc22f2e28.mp3": {
+    "file": "assets/book-narration-lira-84e93f4a0111140b6f5a1a93964e43864d34343235240b72e40de22fc22f2e28-CFlG22db.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-84e93f4a0111140b6f5a1a93964e43864d34343235240b72e40de22fc22f2e28.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99.mp3": {
+    "file": "assets/book-narration-lira-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99-CGLJCrLc.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-911bb7d233a01e381a8223fdbee254c0ee52d201dd1409e829d93e065e102543.mp3": {
+    "file": "assets/book-narration-lira-911bb7d233a01e381a8223fdbee254c0ee52d201dd1409e829d93e065e102543-BPfQfGcW.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-911bb7d233a01e381a8223fdbee254c0ee52d201dd1409e829d93e065e102543.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-93bb17bec3abd67a9cf621336666b67c8196247696b90d188665f845902c2c39.mp3": {
+    "file": "assets/book-narration-lira-93bb17bec3abd67a9cf621336666b67c8196247696b90d188665f845902c2c39-DjaT1Bms.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-93bb17bec3abd67a9cf621336666b67c8196247696b90d188665f845902c2c39.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-959f44307d2020ce72e8bca13033748bddc461fee99e5ee98d830287ff976e06.mp3": {
+    "file": "assets/book-narration-lira-959f44307d2020ce72e8bca13033748bddc461fee99e5ee98d830287ff976e06-DKp5ZRQP.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-959f44307d2020ce72e8bca13033748bddc461fee99e5ee98d830287ff976e06.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-973c9b7de3e536c2f04dd7aff39762fc5b17942e593ede0543eecf4aa1d5894d.mp3": {
+    "file": "assets/book-narration-lira-973c9b7de3e536c2f04dd7aff39762fc5b17942e593ede0543eecf4aa1d5894d-FRQRnhFz.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-973c9b7de3e536c2f04dd7aff39762fc5b17942e593ede0543eecf4aa1d5894d.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-99a5f9cab53ed18582ac8ae9ad39f2be35170427ed67969b02fedbb4a5b3ad4a.mp3": {
+    "file": "assets/book-narration-lira-99a5f9cab53ed18582ac8ae9ad39f2be35170427ed67969b02fedbb4a5b3ad4a-BQl-gwyr.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-99a5f9cab53ed18582ac8ae9ad39f2be35170427ed67969b02fedbb4a5b3ad4a.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-9a11c3607441f9a7ab7e18632a100c59795cf6576d9c2edf27670a0d0e7922d0.mp3": {
+    "file": "assets/book-narration-lira-9a11c3607441f9a7ab7e18632a100c59795cf6576d9c2edf27670a0d0e7922d0-CZgnb4oV.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-9a11c3607441f9a7ab7e18632a100c59795cf6576d9c2edf27670a0d0e7922d0.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-9dc8623107fb6488dac6b691fe0bd8fae2af4d10003858da870f053b520069c7.mp3": {
+    "file": "assets/book-narration-lira-9dc8623107fb6488dac6b691fe0bd8fae2af4d10003858da870f053b520069c7-y7iTFCXo.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-9dc8623107fb6488dac6b691fe0bd8fae2af4d10003858da870f053b520069c7.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-9ed44ccedd4e0edf957b4540e3565122f8be4fc70c33b454b284f15c595d388f.mp3": {
+    "file": "assets/book-narration-lira-9ed44ccedd4e0edf957b4540e3565122f8be4fc70c33b454b284f15c595d388f-DSOOnYUu.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-9ed44ccedd4e0edf957b4540e3565122f8be4fc70c33b454b284f15c595d388f.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-a13494d1df840d0a35eab5d563cf244ab2871e06de25b92a30a0bec19f04653f.mp3": {
+    "file": "assets/book-narration-lira-a13494d1df840d0a35eab5d563cf244ab2871e06de25b92a30a0bec19f04653f-BFmQ_VWN.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-a13494d1df840d0a35eab5d563cf244ab2871e06de25b92a30a0bec19f04653f.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-a918d6b0976378a079454d1d825264f19f504fa716a81f7de1718a7de8facbed.mp3": {
+    "file": "assets/book-narration-lira-a918d6b0976378a079454d1d825264f19f504fa716a81f7de1718a7de8facbed-D3KwJYe_.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-a918d6b0976378a079454d1d825264f19f504fa716a81f7de1718a7de8facbed.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-b82a2110eb95599b19517500cd9af7ca560f91c0dd1b6fbc9a16589f5e4eef39.mp3": {
+    "file": "assets/book-narration-lira-b82a2110eb95599b19517500cd9af7ca560f91c0dd1b6fbc9a16589f5e4eef39-DFFxU5ff.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-b82a2110eb95599b19517500cd9af7ca560f91c0dd1b6fbc9a16589f5e4eef39.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-b8832c1f8d5c04e20a57ddc051c7ca4af8d75096db236669be78f2585896895b.mp3": {
+    "file": "assets/book-narration-lira-b8832c1f8d5c04e20a57ddc051c7ca4af8d75096db236669be78f2585896895b-BfrSGMuM.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-b8832c1f8d5c04e20a57ddc051c7ca4af8d75096db236669be78f2585896895b.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-b8a64a76c3578b2f65ef0fce1bb48f5365d2d7dbe6cc761f1a3604a9ee484336.mp3": {
+    "file": "assets/book-narration-lira-b8a64a76c3578b2f65ef0fce1bb48f5365d2d7dbe6cc761f1a3604a9ee484336-DOZpJ1eX.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-b8a64a76c3578b2f65ef0fce1bb48f5365d2d7dbe6cc761f1a3604a9ee484336.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-c9751476777ac0a5eaeaede087198d3948ed66a631938d5e7a55c45c3db1c045.mp3": {
+    "file": "assets/book-narration-lira-c9751476777ac0a5eaeaede087198d3948ed66a631938d5e7a55c45c3db1c045-BFbxOOo9.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-c9751476777ac0a5eaeaede087198d3948ed66a631938d5e7a55c45c3db1c045.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-cb795b2d8d08239f6fa06ddc08daa1b0975c4014c478bd0f1dc7b2134c2fe58c.mp3": {
+    "file": "assets/book-narration-lira-cb795b2d8d08239f6fa06ddc08daa1b0975c4014c478bd0f1dc7b2134c2fe58c-BUO-H_lY.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-cb795b2d8d08239f6fa06ddc08daa1b0975c4014c478bd0f1dc7b2134c2fe58c.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-cf76c1af5fe89bb30701c71712d307d928632d933ae017b99d1a794941a7cd68.mp3": {
+    "file": "assets/book-narration-lira-cf76c1af5fe89bb30701c71712d307d928632d933ae017b99d1a794941a7cd68-BL7kBSsS.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-cf76c1af5fe89bb30701c71712d307d928632d933ae017b99d1a794941a7cd68.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-d05470e8c2e4488e997fa1d96ad532480a8d8f4980f957061d7d47df80e38495.mp3": {
+    "file": "assets/book-narration-lira-d05470e8c2e4488e997fa1d96ad532480a8d8f4980f957061d7d47df80e38495-QtWNEKVD.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-d05470e8c2e4488e997fa1d96ad532480a8d8f4980f957061d7d47df80e38495.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-d45ba58e712bca52a3abe5dfad2eda12ab308fc6b9b5cf4696bc3444593d9e61.mp3": {
+    "file": "assets/book-narration-lira-d45ba58e712bca52a3abe5dfad2eda12ab308fc6b9b5cf4696bc3444593d9e61-DFdD7Rza.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-d45ba58e712bca52a3abe5dfad2eda12ab308fc6b9b5cf4696bc3444593d9e61.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-d54ae3e61fbd6e94d47f9838c045fb4104df1416a3d8459e8bff7de0287f5e91.mp3": {
+    "file": "assets/book-narration-lira-d54ae3e61fbd6e94d47f9838c045fb4104df1416a3d8459e8bff7de0287f5e91-ClbX0QZW.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-d54ae3e61fbd6e94d47f9838c045fb4104df1416a3d8459e8bff7de0287f5e91.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-d792f5eafa6ef29d001f9a039585955cc7de89f4c3011903cb19c3dcbb72cb86.mp3": {
+    "file": "assets/book-narration-lira-d792f5eafa6ef29d001f9a039585955cc7de89f4c3011903cb19c3dcbb72cb86-CEQhHDRY.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-d792f5eafa6ef29d001f9a039585955cc7de89f4c3011903cb19c3dcbb72cb86.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-d8be590eb7061c720ddf75e5153e26e46739e68ba7ff404452a784f57b083cae.mp3": {
+    "file": "assets/book-narration-lira-d8be590eb7061c720ddf75e5153e26e46739e68ba7ff404452a784f57b083cae-8-SuyG4y.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-d8be590eb7061c720ddf75e5153e26e46739e68ba7ff404452a784f57b083cae.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-da5d6086960040fc5b2376efc1c4b533f83f98210e141acfeb11eb87d54fb9d0.mp3": {
+    "file": "assets/book-narration-lira-da5d6086960040fc5b2376efc1c4b533f83f98210e141acfeb11eb87d54fb9d0-B1l8LaE0.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-da5d6086960040fc5b2376efc1c4b533f83f98210e141acfeb11eb87d54fb9d0.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-daad7e16016d540954ef8e48377430441d62516c91cb2ae9d0cb736864223154.mp3": {
+    "file": "assets/book-narration-lira-daad7e16016d540954ef8e48377430441d62516c91cb2ae9d0cb736864223154-fc5wFUG9.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-daad7e16016d540954ef8e48377430441d62516c91cb2ae9d0cb736864223154.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-dd18a94793141a221536a660e8b0be69d70d12432d45f824504fb113763dbd32.mp3": {
+    "file": "assets/book-narration-lira-dd18a94793141a221536a660e8b0be69d70d12432d45f824504fb113763dbd32-gKUwYUDE.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-dd18a94793141a221536a660e8b0be69d70d12432d45f824504fb113763dbd32.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-e128fcf887155299b56c7f12c4fdbec3bdad5701cac88fd12d28c0e4cdacbbdc.mp3": {
+    "file": "assets/book-narration-lira-e128fcf887155299b56c7f12c4fdbec3bdad5701cac88fd12d28c0e4cdacbbdc-WtVgBswv.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-e128fcf887155299b56c7f12c4fdbec3bdad5701cac88fd12d28c0e4cdacbbdc.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-e16838b8cf7f4f8884c7ea94db26a9e78e30114b41a113aeec88950a745136ca.mp3": {
+    "file": "assets/book-narration-lira-e16838b8cf7f4f8884c7ea94db26a9e78e30114b41a113aeec88950a745136ca-BJVZ2B73.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-e16838b8cf7f4f8884c7ea94db26a9e78e30114b41a113aeec88950a745136ca.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-e24ac7e2434dc855babf6de026d8a637f0f4d66c15c67d6139689501997865af.mp3": {
+    "file": "assets/book-narration-lira-e24ac7e2434dc855babf6de026d8a637f0f4d66c15c67d6139689501997865af-CnFl8Adg.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-e24ac7e2434dc855babf6de026d8a637f0f4d66c15c67d6139689501997865af.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-e341a20bbdb425f13e4f32e9d218f4b60fd4dc63a3dfa85c5b562fcdea3c0c9a.mp3": {
+    "file": "assets/book-narration-lira-e341a20bbdb425f13e4f32e9d218f4b60fd4dc63a3dfa85c5b562fcdea3c0c9a-D1KkMmWB.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-e341a20bbdb425f13e4f32e9d218f4b60fd4dc63a3dfa85c5b562fcdea3c0c9a.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-e599a712bc0b4963e230792ed8deb42f440fbc0fd1c9c3118886d993a78468ac.mp3": {
+    "file": "assets/book-narration-lira-e599a712bc0b4963e230792ed8deb42f440fbc0fd1c9c3118886d993a78468ac-_A6WQ4_T.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-e599a712bc0b4963e230792ed8deb42f440fbc0fd1c9c3118886d993a78468ac.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-e6b23946f64093a6ab8de38597ad6e3dd1d7e2a1e55cb39ef5ad0a16790801d6.mp3": {
+    "file": "assets/book-narration-lira-e6b23946f64093a6ab8de38597ad6e3dd1d7e2a1e55cb39ef5ad0a16790801d6-BVH1DBDp.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-e6b23946f64093a6ab8de38597ad6e3dd1d7e2a1e55cb39ef5ad0a16790801d6.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-e968cc578d3e856c7c9e550aadb8bebd14e5f7901d29a73bba5b26c2e34e7bcf.mp3": {
+    "file": "assets/book-narration-lira-e968cc578d3e856c7c9e550aadb8bebd14e5f7901d29a73bba5b26c2e34e7bcf-XXZ3_DNe.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-e968cc578d3e856c7c9e550aadb8bebd14e5f7901d29a73bba5b26c2e34e7bcf.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-ea9b3a4a160d55abafa8963794ab4fa74d5d0d4346bf02db7ebf5799f57c33b9.mp3": {
+    "file": "assets/book-narration-lira-ea9b3a4a160d55abafa8963794ab4fa74d5d0d4346bf02db7ebf5799f57c33b9-Q6ufpPsW.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-ea9b3a4a160d55abafa8963794ab4fa74d5d0d4346bf02db7ebf5799f57c33b9.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-ec0919e9e15946a74cfe7711c21aacfba92cd91b5d5ec5843617515e7f723454.mp3": {
+    "file": "assets/book-narration-lira-ec0919e9e15946a74cfe7711c21aacfba92cd91b5d5ec5843617515e7f723454-nQukC7My.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-ec0919e9e15946a74cfe7711c21aacfba92cd91b5d5ec5843617515e7f723454.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-ef0e2681e5c6bd4cc758c25ac40f9d0c07c91f656c226039b5e876f52e2af801.mp3": {
+    "file": "assets/book-narration-lira-ef0e2681e5c6bd4cc758c25ac40f9d0c07c91f656c226039b5e876f52e2af801-Csn_in5F.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-ef0e2681e5c6bd4cc758c25ac40f9d0c07c91f656c226039b5e876f52e2af801.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-ef4ca113207f66fe9389cc0bc1796d129381c2ecfb2d19bd696145ddbe5a84bb.mp3": {
+    "file": "assets/book-narration-lira-ef4ca113207f66fe9389cc0bc1796d129381c2ecfb2d19bd696145ddbe5a84bb-CDd1d7L7.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-ef4ca113207f66fe9389cc0bc1796d129381c2ecfb2d19bd696145ddbe5a84bb.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-f38d3bb517bed2f405bfe884f16244d0f3a81125d2251430347f9d1f1764d704.mp3": {
+    "file": "assets/book-narration-lira-f38d3bb517bed2f405bfe884f16244d0f3a81125d2251430347f9d1f1764d704-WEVNEjzx.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-f38d3bb517bed2f405bfe884f16244d0f3a81125d2251430347f9d1f1764d704.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-fb19264d9b15332f069b455680878f585677eef537a6d5ca9dde2a1ca858c10f.mp3": {
+    "file": "assets/book-narration-lira-fb19264d9b15332f069b455680878f585677eef537a6d5ca9dde2a1ca858c10f-C0y37fAN.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-fb19264d9b15332f069b455680878f585677eef537a6d5ca9dde2a1ca858c10f.mp3"
+  },
+  "src/assets/book-narration/book-narration-lira-fbcc4e1da22f64228b6e1b9125ac09bf49e799ef59346b0a4b13af89e2ce60fc.mp3": {
+    "file": "assets/book-narration-lira-fbcc4e1da22f64228b6e1b9125ac09bf49e799ef59346b0a4b13af89e2ce60fc-DSglWvi1.mp3",
+    "src": "src/assets/book-narration/book-narration-lira-fbcc4e1da22f64228b6e1b9125ac09bf49e799ef59346b0a4b13af89e2ce60fc.mp3"
+  },
+  "src/assets/character-voices/character-voice-bardhi.mp3": {
+    "file": "assets/character-voice-bardhi-uid3umG8.mp3",
+    "src": "src/assets/character-voices/character-voice-bardhi.mp3"
+  },
+  "src/assets/character-voices/character-voice-bleta.mp3": {
+    "file": "assets/character-voice-bleta-DLJALfx3.mp3",
+    "src": "src/assets/character-voices/character-voice-bleta.mp3"
+  },
+  "src/assets/character-voices/character-voice-breshka.mp3": {
+    "file": "assets/character-voice-breshka-BGK99k_a.mp3",
+    "src": "src/assets/character-voices/character-voice-breshka.mp3"
+  },
+  "src/assets/character-voices/character-voice-bretkosa.mp3": {
+    "file": "assets/character-voice-bretkosa-WMRLRB2k.mp3",
+    "src": "src/assets/character-voices/character-voice-bretkosa.mp3"
+  },
+  "src/assets/character-voices/character-voice-bufi.mp3": {
+    "file": "assets/character-voice-bufi-axzzRFQh.mp3",
+    "src": "src/assets/character-voices/character-voice-bufi.mp3"
+  },
+  "src/assets/character-voices/character-voice-cafka.mp3": {
+    "file": "assets/character-voice-cafka-29KOBrXD.mp3",
+    "src": "src/assets/character-voices/character-voice-cafka.mp3"
+  },
+  "src/assets/character-voices/character-voice-dallendyshja.mp3": {
+    "file": "assets/character-voice-dallendyshja-BD46RoA9.mp3",
+    "src": "src/assets/character-voices/character-voice-dallendyshja.mp3"
+  },
+  "src/assets/character-voices/character-voice-delfini.mp3": {
+    "file": "assets/character-voice-delfini-DofMVP6b.mp3",
+    "src": "src/assets/character-voices/character-voice-delfini.mp3"
+  },
+  "src/assets/character-voices/character-voice-delja.mp3": {
+    "file": "assets/character-voice-delja-CEQwFG_U.mp3",
+    "src": "src/assets/character-voices/character-voice-delja.mp3"
+  },
+  "src/assets/character-voices/character-voice-dhelpra.mp3": {
+    "file": "assets/character-voice-dhelpra-dHkxapmr.mp3",
+    "src": "src/assets/character-voices/character-voice-dhelpra.mp3"
+  },
+  "src/assets/character-voices/character-voice-dhia.mp3": {
+    "file": "assets/character-voice-dhia-DCZhBGDS.mp3",
+    "src": "src/assets/character-voices/character-voice-dhia.mp3"
+  },
+  "src/assets/character-voices/character-voice-flamingoja.mp3": {
+    "file": "assets/character-voice-flamingoja-DldiQhWe.mp3",
+    "src": "src/assets/character-voices/character-voice-flamingoja.mp3"
+  },
+  "src/assets/character-voices/character-voice-flutura.mp3": {
+    "file": "assets/character-voice-flutura-DJI-lz9y.mp3",
+    "src": "src/assets/character-voices/character-voice-flutura.mp3"
+  },
+  "src/assets/character-voices/character-voice-gjinkalla.mp3": {
+    "file": "assets/character-voice-gjinkalla-D0D2dSFa.mp3",
+    "src": "src/assets/character-voices/character-voice-gjinkalla.mp3"
+  },
+  "src/assets/character-voices/character-voice-hardhuca.mp3": {
+    "file": "assets/character-voice-hardhuca-DcaNzHmw.mp3",
+    "src": "src/assets/character-voices/character-voice-hardhuca.mp3"
+  },
+  "src/assets/character-voices/character-voice-iriqi.mp3": {
+    "file": "assets/character-voice-iriqi-uDSM4bbX.mp3",
+    "src": "src/assets/character-voices/character-voice-iriqi.mp3"
+  },
+  "src/assets/character-voices/character-voice-kali.mp3": {
+    "file": "assets/character-voice-kali-D5LWuP9Y.mp3",
+    "src": "src/assets/character-voices/character-voice-kali.mp3"
+  },
+  "src/assets/character-voices/character-voice-kaprolli.mp3": {
+    "file": "assets/character-voice-kaprolli-BgpRNkK4.mp3",
+    "src": "src/assets/character-voices/character-voice-kaprolli.mp3"
+  },
+  "src/assets/character-voices/character-voice-ketri.mp3": {
+    "file": "assets/character-voice-ketri-DlccsmdN.mp3",
+    "src": "src/assets/character-voices/character-voice-ketri.mp3"
+  },
+  "src/assets/character-voices/character-voice-korbi.mp3": {
+    "file": "assets/character-voice-korbi-DwdMEdla.mp3",
+    "src": "src/assets/character-voices/character-voice-korbi.mp3"
+  },
+  "src/assets/character-voices/character-voice-krapi.mp3": {
+    "file": "assets/character-voice-krapi-WAIqndgq.mp3",
+    "src": "src/assets/character-voices/character-voice-krapi.mp3"
+  },
+  "src/assets/character-voices/character-voice-lakuriqi.mp3": {
+    "file": "assets/character-voice-lakuriqi-Br9FgvaF.mp3",
+    "src": "src/assets/character-voices/character-voice-lakuriqi.mp3"
+  },
+  "src/assets/character-voices/character-voice-lejleku.mp3": {
+    "file": "assets/character-voice-lejleku-E0mPgAl7.mp3",
+    "src": "src/assets/character-voices/character-voice-lejleku.mp3"
+  },
+  "src/assets/character-voices/character-voice-lepuri.mp3": {
+    "file": "assets/character-voice-lepuri-BblRHih5.mp3",
+    "src": "src/assets/character-voices/character-voice-lepuri.mp3"
+  },
+  "src/assets/character-voices/character-voice-lira.mp3": {
+    "file": "assets/character-voice-lira-J4HTvJef.mp3",
+    "src": "src/assets/character-voices/character-voice-lira.mp3"
+  },
+  "src/assets/character-voices/character-voice-macja.mp3": {
+    "file": "assets/character-voice-macja-BJZrVb2g.mp3",
+    "src": "src/assets/character-voices/character-voice-macja.mp3"
+  },
+  "src/assets/character-voices/character-voice-miu.mp3": {
+    "file": "assets/character-voice-miu-D8ZZynOz.mp3",
+    "src": "src/assets/character-voices/character-voice-miu.mp3"
+  },
+  "src/assets/character-voices/character-voice-pelikani.mp3": {
+    "file": "assets/character-voice-pelikani-D5TaTDLK.mp3",
+    "src": "src/assets/character-voices/character-voice-pelikani.mp3"
+  },
+  "src/assets/character-voices/character-voice-pellumbi.mp3": {
+    "file": "assets/character-voice-pellumbi-C8AyGuy2.mp3",
+    "src": "src/assets/character-voices/character-voice-pellumbi.mp3"
+  },
+  "src/assets/character-voices/character-voice-qeni.mp3": {
+    "file": "assets/character-voice-qeni-Csc_33Ua.mp3",
+    "src": "src/assets/character-voices/character-voice-qeni.mp3"
+  },
+  "src/assets/character-voices/character-voice-rosa.mp3": {
+    "file": "assets/character-voice-rosa-Dxivzj0n.mp3",
+    "src": "src/assets/character-voices/character-voice-rosa.mp3"
+  },
+  "src/assets/character-voices/character-voice-shqipja.mp3": {
+    "file": "assets/character-voice-shqipja-BWD-UEG-.mp3",
+    "src": "src/assets/character-voices/character-voice-shqipja.mp3"
+  },
+  "src/assets/character-voices/character-voice-ujku.mp3": {
+    "file": "assets/character-voice-ujku-DPm8XtYX.mp3",
+    "src": "src/assets/character-voices/character-voice-ujku.mp3"
+  },
+  "src/assets/character-voices/character-voice-vidra.mp3": {
+    "file": "assets/character-voice-vidra-9dyA9Hsk.mp3",
+    "src": "src/assets/character-voices/character-voice-vidra.mp3"
+  },
+  "src/assets/characters/coast-bodies-v3.webp": {
+    "file": "assets/coast-bodies-v3-DObJva88.webp",
+    "src": "src/assets/characters/coast-bodies-v3.webp"
+  },
+  "src/assets/characters/coast-heads-v3.webp": {
+    "file": "assets/coast-heads-v3-TUDf33kX.webp",
+    "src": "src/assets/characters/coast-heads-v3.webp"
+  },
+  "src/assets/characters/forest-bodies-v3.webp": {
+    "file": "assets/forest-bodies-v3-CmtPFZ0H.webp",
+    "src": "src/assets/characters/forest-bodies-v3.webp"
+  },
+  "src/assets/characters/forest-heads-v3.webp": {
+    "file": "assets/forest-heads-v3-pCpvQdiw.webp",
+    "src": "src/assets/characters/forest-heads-v3.webp"
+  },
+  "src/assets/characters/fox-expressions-v2.webp": {
+    "file": "assets/fox-expressions-v2-CRxfSuG0.webp",
+    "src": "src/assets/characters/fox-expressions-v2.webp"
+  },
+  "src/assets/characters/garden-bodies-v3.webp": {
+    "file": "assets/garden-bodies-v3-Bz4zDt4C.webp",
+    "src": "src/assets/characters/garden-bodies-v3.webp"
+  },
+  "src/assets/characters/garden-heads-v3.webp": {
+    "file": "assets/garden-heads-v3-B_6bWajq.webp",
+    "src": "src/assets/characters/garden-heads-v3.webp"
+  },
+  "src/assets/characters/lira-expressions-v2.webp": {
+    "file": "assets/lira-expressions-v2-CI8q_-Tr.webp",
+    "src": "src/assets/characters/lira-expressions-v2.webp"
+  },
+  "src/assets/characters/mascot-bodies-v3.webp": {
+    "file": "assets/mascot-bodies-v3-dhiLjdFq.webp",
+    "src": "src/assets/characters/mascot-bodies-v3.webp"
+  },
+  "src/assets/characters/meadow-bodies-v3.webp": {
+    "file": "assets/meadow-bodies-v3-5YuKHd5O.webp",
+    "src": "src/assets/characters/meadow-bodies-v3.webp"
+  },
+  "src/assets/characters/meadow-heads-v3.webp": {
+    "file": "assets/meadow-heads-v3-CEleRYH3.webp",
+    "src": "src/assets/characters/meadow-heads-v3.webp"
+  },
+  "src/assets/characters/mountain-bodies-v3.webp": {
+    "file": "assets/mountain-bodies-v3-BsAGQmFS.webp",
+    "src": "src/assets/characters/mountain-bodies-v3.webp"
+  },
+  "src/assets/characters/mountain-heads-v3.webp": {
+    "file": "assets/mountain-heads-v3-Vbs0tgjx.webp",
+    "src": "src/assets/characters/mountain-heads-v3.webp"
+  },
+  "src/assets/characters/river-bodies-v3.webp": {
+    "file": "assets/river-bodies-v3-BTUWF3dE.webp",
+    "src": "src/assets/characters/river-bodies-v3.webp"
+  },
+  "src/assets/characters/river-heads-v3.webp": {
+    "file": "assets/river-heads-v3-BHdmaaXd.webp",
+    "src": "src/assets/characters/river-heads-v3.webp"
+  },
+  "src/assets/characters/valley-bodies-v3.webp": {
+    "file": "assets/valley-bodies-v3-Xp6Dwb5D.webp",
+    "src": "src/assets/characters/valley-bodies-v3.webp"
+  },
+  "src/assets/characters/valley-heads-v3.webp": {
+    "file": "assets/valley-heads-v3-CHEQrkJl.webp",
+    "src": "src/assets/characters/valley-heads-v3.webp"
+  },
+  "src/assets/characters/woodland-bodies-v3.webp": {
+    "file": "assets/woodland-bodies-v3-DzOkOEGo.webp",
+    "src": "src/assets/characters/woodland-bodies-v3.webp"
+  },
+  "src/assets/characters/woodland-heads-v3.webp": {
+    "file": "assets/woodland-heads-v3-DVM6S4rn.webp",
+    "src": "src/assets/characters/woodland-heads-v3.webp"
+  },
+  "src/assets/islands/island-art.webp": {
+    "file": "assets/island-art-biu2C_Fg.webp",
+    "src": "src/assets/islands/island-art.webp"
+  },
+  "src/assets/islands/island-explore.webp": {
+    "file": "assets/island-explore-Dh8iFp0b.webp",
+    "src": "src/assets/islands/island-explore.webp"
+  },
+  "src/assets/islands/island-nature.webp": {
+    "file": "assets/island-nature-6IhD8rsB.webp",
+    "src": "src/assets/islands/island-nature.webp"
+  },
+  "src/assets/islands/island-numbers.webp": {
+    "file": "assets/island-numbers-DxftbB3f.webp",
+    "src": "src/assets/islands/island-numbers.webp"
+  },
+  "src/assets/islands/island-play.webp": {
+    "file": "assets/island-play-B0vjor2h.webp",
+    "src": "src/assets/islands/island-play.webp"
+  },
+  "src/assets/islands/island-robots.webp": {
+    "file": "assets/island-robots-DB-a5Hsf.webp",
+    "src": "src/assets/islands/island-robots.webp"
+  },
+  "src/assets/islands/island-school.webp": {
+    "file": "assets/island-school-DTbQw0u4.webp",
+    "src": "src/assets/islands/island-school.webp"
+  },
+  "src/assets/lira-narration/lira-narration-06220a0eac860a269dfffa2f263ea33a9bfd3cb88868b4cbf994c0e644c0f388.mp3": {
+    "file": "assets/lira-narration-06220a0eac860a269dfffa2f263ea33a9bfd3cb88868b4cbf994c0e644c0f388-CipmRiBO.mp3",
+    "src": "src/assets/lira-narration/lira-narration-06220a0eac860a269dfffa2f263ea33a9bfd3cb88868b4cbf994c0e644c0f388.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-086090331dbe76bbea95e5a2c48a0bbdbe077272d69bbc8042ac6e076145307c.mp3": {
+    "file": "assets/lira-narration-086090331dbe76bbea95e5a2c48a0bbdbe077272d69bbc8042ac6e076145307c-C9FX4GC_.mp3",
+    "src": "src/assets/lira-narration/lira-narration-086090331dbe76bbea95e5a2c48a0bbdbe077272d69bbc8042ac6e076145307c.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-0c2c375f9abfc14db74dad8ef10c879ccb753a07479eb750aa7a6fac81b2c8ba.mp3": {
+    "file": "assets/lira-narration-0c2c375f9abfc14db74dad8ef10c879ccb753a07479eb750aa7a6fac81b2c8ba-ArO9-_Kr.mp3",
+    "src": "src/assets/lira-narration/lira-narration-0c2c375f9abfc14db74dad8ef10c879ccb753a07479eb750aa7a6fac81b2c8ba.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-125f0e9e053f3167b25e1a1d1eb8ee5a5ad9b017b88ea2f2a1861fe659483653.mp3": {
+    "file": "assets/lira-narration-125f0e9e053f3167b25e1a1d1eb8ee5a5ad9b017b88ea2f2a1861fe659483653-D5XsTgra.mp3",
+    "src": "src/assets/lira-narration/lira-narration-125f0e9e053f3167b25e1a1d1eb8ee5a5ad9b017b88ea2f2a1861fe659483653.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-12dc3092e76e4a8b7fe184e636b4a1c89d70f8b6bff57e671027a932edd64300.mp3": {
+    "file": "assets/lira-narration-12dc3092e76e4a8b7fe184e636b4a1c89d70f8b6bff57e671027a932edd64300-IRPyOfO9.mp3",
+    "src": "src/assets/lira-narration/lira-narration-12dc3092e76e4a8b7fe184e636b4a1c89d70f8b6bff57e671027a932edd64300.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-1915a463a48ed7165c7b8b99b9120634d29e604acd710a7fc83108adc9d70600.mp3": {
+    "file": "assets/lira-narration-1915a463a48ed7165c7b8b99b9120634d29e604acd710a7fc83108adc9d70600-DK3CwSQh.mp3",
+    "src": "src/assets/lira-narration/lira-narration-1915a463a48ed7165c7b8b99b9120634d29e604acd710a7fc83108adc9d70600.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-24cc2e37dad7cd8e1290dfa89a0d09d028d538c20ab5ff26d64577e95814ad62.mp3": {
+    "file": "assets/lira-narration-24cc2e37dad7cd8e1290dfa89a0d09d028d538c20ab5ff26d64577e95814ad62-PMLh9AUp.mp3",
+    "src": "src/assets/lira-narration/lira-narration-24cc2e37dad7cd8e1290dfa89a0d09d028d538c20ab5ff26d64577e95814ad62.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-2f94a739ffdfa362e7377d0d1fc138b1249059687df608137e80b46245c71c9a.mp3": {
+    "file": "assets/lira-narration-2f94a739ffdfa362e7377d0d1fc138b1249059687df608137e80b46245c71c9a-bSq9dIkX.mp3",
+    "src": "src/assets/lira-narration/lira-narration-2f94a739ffdfa362e7377d0d1fc138b1249059687df608137e80b46245c71c9a.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-2ff9e94510afb075ae769fdb2182aa443b73becf150a702003643c378cc8a0b2.mp3": {
+    "file": "assets/lira-narration-2ff9e94510afb075ae769fdb2182aa443b73becf150a702003643c378cc8a0b2-CAoqwtNj.mp3",
+    "src": "src/assets/lira-narration/lira-narration-2ff9e94510afb075ae769fdb2182aa443b73becf150a702003643c378cc8a0b2.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-3727e6fbe2cdca43ef53fb97d344b19eab610b14ed6fef941c3b1f9809e374e7.mp3": {
+    "file": "assets/lira-narration-3727e6fbe2cdca43ef53fb97d344b19eab610b14ed6fef941c3b1f9809e374e7-CvpOwtMz.mp3",
+    "src": "src/assets/lira-narration/lira-narration-3727e6fbe2cdca43ef53fb97d344b19eab610b14ed6fef941c3b1f9809e374e7.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-3cf2a5627e59b3f4bce91f49cf0051850379ce8dda5fb04eb313b1ae551c4202.mp3": {
+    "file": "assets/lira-narration-3cf2a5627e59b3f4bce91f49cf0051850379ce8dda5fb04eb313b1ae551c4202-C75nt-wg.mp3",
+    "src": "src/assets/lira-narration/lira-narration-3cf2a5627e59b3f4bce91f49cf0051850379ce8dda5fb04eb313b1ae551c4202.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-3d0870147814a361ac65adc69d099b3158a8e1514494aa1996e763133ea33d45.mp3": {
+    "file": "assets/lira-narration-3d0870147814a361ac65adc69d099b3158a8e1514494aa1996e763133ea33d45-Bxuz3zXN.mp3",
+    "src": "src/assets/lira-narration/lira-narration-3d0870147814a361ac65adc69d099b3158a8e1514494aa1996e763133ea33d45.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-43c04e0330d72f444e0a997476845efdfdb2bb48001ca755271ffa42e62f2963.mp3": {
+    "file": "assets/lira-narration-43c04e0330d72f444e0a997476845efdfdb2bb48001ca755271ffa42e62f2963-D4IhCbSS.mp3",
+    "src": "src/assets/lira-narration/lira-narration-43c04e0330d72f444e0a997476845efdfdb2bb48001ca755271ffa42e62f2963.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-453fb11428d31dbfdfa77c39d16262393afc0adccccea082a24a59dad06049cc.mp3": {
+    "file": "assets/lira-narration-453fb11428d31dbfdfa77c39d16262393afc0adccccea082a24a59dad06049cc-Dk5Xt1cn.mp3",
+    "src": "src/assets/lira-narration/lira-narration-453fb11428d31dbfdfa77c39d16262393afc0adccccea082a24a59dad06049cc.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-45f1665853890ff5c686af797081fa5830cfcbac42e5d38746137087fbc6914d.mp3": {
+    "file": "assets/lira-narration-45f1665853890ff5c686af797081fa5830cfcbac42e5d38746137087fbc6914d-XcoOvEg6.mp3",
+    "src": "src/assets/lira-narration/lira-narration-45f1665853890ff5c686af797081fa5830cfcbac42e5d38746137087fbc6914d.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-4b8987d4c9e9f2b80e8a9c8b1a597f01dd6d0acf9f2c25debce247804002461c.mp3": {
+    "file": "assets/lira-narration-4b8987d4c9e9f2b80e8a9c8b1a597f01dd6d0acf9f2c25debce247804002461c-CyorcATt.mp3",
+    "src": "src/assets/lira-narration/lira-narration-4b8987d4c9e9f2b80e8a9c8b1a597f01dd6d0acf9f2c25debce247804002461c.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-5ad60b5b1593d2122d0dad3236be549d8aefc38dc4fe7c3b3eb5e073e3ad06a4.mp3": {
+    "file": "assets/lira-narration-5ad60b5b1593d2122d0dad3236be549d8aefc38dc4fe7c3b3eb5e073e3ad06a4-CwYVNe4w.mp3",
+    "src": "src/assets/lira-narration/lira-narration-5ad60b5b1593d2122d0dad3236be549d8aefc38dc4fe7c3b3eb5e073e3ad06a4.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-5c4007ad7337c6e97df6b91c4a0df883e70d477850e56c487596e9dd5b9e6b82.mp3": {
+    "file": "assets/lira-narration-5c4007ad7337c6e97df6b91c4a0df883e70d477850e56c487596e9dd5b9e6b82-Bmv6x79g.mp3",
+    "src": "src/assets/lira-narration/lira-narration-5c4007ad7337c6e97df6b91c4a0df883e70d477850e56c487596e9dd5b9e6b82.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-615943626fd29d00351b76c5ea007508f7f7142dcada1ad2bc1f5b4526a5eeb0.mp3": {
+    "file": "assets/lira-narration-615943626fd29d00351b76c5ea007508f7f7142dcada1ad2bc1f5b4526a5eeb0-imuX-K5l.mp3",
+    "src": "src/assets/lira-narration/lira-narration-615943626fd29d00351b76c5ea007508f7f7142dcada1ad2bc1f5b4526a5eeb0.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-6542195e3c2ea2569ec2cf912bc939e6a1437c098db7eb79c3d4ca39142e7fe1.mp3": {
+    "file": "assets/lira-narration-6542195e3c2ea2569ec2cf912bc939e6a1437c098db7eb79c3d4ca39142e7fe1-CIJfDOPt.mp3",
+    "src": "src/assets/lira-narration/lira-narration-6542195e3c2ea2569ec2cf912bc939e6a1437c098db7eb79c3d4ca39142e7fe1.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-68a048cc3b9fb13a9bef1090b3ef242db552e468f0806b7cc038a5b272f9c3d3.mp3": {
+    "file": "assets/lira-narration-68a048cc3b9fb13a9bef1090b3ef242db552e468f0806b7cc038a5b272f9c3d3-DZnF0gI1.mp3",
+    "src": "src/assets/lira-narration/lira-narration-68a048cc3b9fb13a9bef1090b3ef242db552e468f0806b7cc038a5b272f9c3d3.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-6ac64e975940279b3e29a43ff6e5ed71382c869f7156c733ebb303331111b498.mp3": {
+    "file": "assets/lira-narration-6ac64e975940279b3e29a43ff6e5ed71382c869f7156c733ebb303331111b498-BaiENUoP.mp3",
+    "src": "src/assets/lira-narration/lira-narration-6ac64e975940279b3e29a43ff6e5ed71382c869f7156c733ebb303331111b498.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-6b3e0a9667c121b63df60314f21a76f552c33d56ecf3566b2d7f4ceb3ced4ab8.mp3": {
+    "file": "assets/lira-narration-6b3e0a9667c121b63df60314f21a76f552c33d56ecf3566b2d7f4ceb3ced4ab8-CCTTp7RZ.mp3",
+    "src": "src/assets/lira-narration/lira-narration-6b3e0a9667c121b63df60314f21a76f552c33d56ecf3566b2d7f4ceb3ced4ab8.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-6da9cd418733a6ed6ed7b79439176b6fa7af50d505a9819034e8a3cf92068056.mp3": {
+    "file": "assets/lira-narration-6da9cd418733a6ed6ed7b79439176b6fa7af50d505a9819034e8a3cf92068056-BYxbvzm6.mp3",
+    "src": "src/assets/lira-narration/lira-narration-6da9cd418733a6ed6ed7b79439176b6fa7af50d505a9819034e8a3cf92068056.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-6f7e9d6349240676c2d1f2f4b971b93b8e818a9a401bf429d63420883c286eed.mp3": {
+    "file": "assets/lira-narration-6f7e9d6349240676c2d1f2f4b971b93b8e818a9a401bf429d63420883c286eed-BgB7-3p7.mp3",
+    "src": "src/assets/lira-narration/lira-narration-6f7e9d6349240676c2d1f2f4b971b93b8e818a9a401bf429d63420883c286eed.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-72b15b24584fc9a04bf1c03fbc4189a9d56fff16b68efc50929a23dc17ae456c.mp3": {
+    "file": "assets/lira-narration-72b15b24584fc9a04bf1c03fbc4189a9d56fff16b68efc50929a23dc17ae456c-CpVlqe-i.mp3",
+    "src": "src/assets/lira-narration/lira-narration-72b15b24584fc9a04bf1c03fbc4189a9d56fff16b68efc50929a23dc17ae456c.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-72fc0d5e04221b82a002cc6bd06c8c8ade21fe611de0855622b17ec340ef0a39.mp3": {
+    "file": "assets/lira-narration-72fc0d5e04221b82a002cc6bd06c8c8ade21fe611de0855622b17ec340ef0a39-BcIbECGa.mp3",
+    "src": "src/assets/lira-narration/lira-narration-72fc0d5e04221b82a002cc6bd06c8c8ade21fe611de0855622b17ec340ef0a39.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-76bc4217c7633c42eaeaf0da3d672513adf8ce90ffd9dc5bb95f794aec866f9f.mp3": {
+    "file": "assets/lira-narration-76bc4217c7633c42eaeaf0da3d672513adf8ce90ffd9dc5bb95f794aec866f9f-DwGAKZq3.mp3",
+    "src": "src/assets/lira-narration/lira-narration-76bc4217c7633c42eaeaf0da3d672513adf8ce90ffd9dc5bb95f794aec866f9f.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-7ccbf6b99a253e11534e0a0d9159031740fd03a8fcabc237259fcc1a41880f0c.mp3": {
+    "file": "assets/lira-narration-7ccbf6b99a253e11534e0a0d9159031740fd03a8fcabc237259fcc1a41880f0c-Cq0dvI-x.mp3",
+    "src": "src/assets/lira-narration/lira-narration-7ccbf6b99a253e11534e0a0d9159031740fd03a8fcabc237259fcc1a41880f0c.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-7cd73a2152bbc52dcf33a6f12f259bf2b01c1c78bb4645f421e32014e6f68684.mp3": {
+    "file": "assets/lira-narration-7cd73a2152bbc52dcf33a6f12f259bf2b01c1c78bb4645f421e32014e6f68684-BG3Q6cSm.mp3",
+    "src": "src/assets/lira-narration/lira-narration-7cd73a2152bbc52dcf33a6f12f259bf2b01c1c78bb4645f421e32014e6f68684.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-7cf177cb2c048c2a3498ba631f871f45112c24501c4ca21b3a97cf7e80a20f51.mp3": {
+    "file": "assets/lira-narration-7cf177cb2c048c2a3498ba631f871f45112c24501c4ca21b3a97cf7e80a20f51-CG2FYjd4.mp3",
+    "src": "src/assets/lira-narration/lira-narration-7cf177cb2c048c2a3498ba631f871f45112c24501c4ca21b3a97cf7e80a20f51.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99.mp3": {
+    "file": "assets/lira-narration-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99-D9pyjqFS.mp3",
+    "src": "src/assets/lira-narration/lira-narration-87dd5290f2933a88b186b994407aee0dee582ec7afe4afb1208cf69caf26ba99.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-8e0d543734c3079e2a2fabd4b85c7e4961f759411709d517c124ed111933537e.mp3": {
+    "file": "assets/lira-narration-8e0d543734c3079e2a2fabd4b85c7e4961f759411709d517c124ed111933537e-BJTh-R4W.mp3",
+    "src": "src/assets/lira-narration/lira-narration-8e0d543734c3079e2a2fabd4b85c7e4961f759411709d517c124ed111933537e.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-8f0b3105080cd534fd9c115f219a0afb65b23b36e174866a3fdbfd7273ef0d1d.mp3": {
+    "file": "assets/lira-narration-8f0b3105080cd534fd9c115f219a0afb65b23b36e174866a3fdbfd7273ef0d1d-Dn8oeHYV.mp3",
+    "src": "src/assets/lira-narration/lira-narration-8f0b3105080cd534fd9c115f219a0afb65b23b36e174866a3fdbfd7273ef0d1d.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-8f18a22ee72ee986639a140aa90222c4d2587d42ddde9eea5e1c94bf887a337f.mp3": {
+    "file": "assets/lira-narration-8f18a22ee72ee986639a140aa90222c4d2587d42ddde9eea5e1c94bf887a337f-DqkF434L.mp3",
+    "src": "src/assets/lira-narration/lira-narration-8f18a22ee72ee986639a140aa90222c4d2587d42ddde9eea5e1c94bf887a337f.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-909fef4169fa320730fa2307330e258599ba53a71df7c25c2cf9d69cd692c203.mp3": {
+    "file": "assets/lira-narration-909fef4169fa320730fa2307330e258599ba53a71df7c25c2cf9d69cd692c203-BXGCvXtU.mp3",
+    "src": "src/assets/lira-narration/lira-narration-909fef4169fa320730fa2307330e258599ba53a71df7c25c2cf9d69cd692c203.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-9940f1c8afcd7ffe649fec3b52b77d0bcbaf0876222639213d07755927f9f3d7.mp3": {
+    "file": "assets/lira-narration-9940f1c8afcd7ffe649fec3b52b77d0bcbaf0876222639213d07755927f9f3d7-CXxQossu.mp3",
+    "src": "src/assets/lira-narration/lira-narration-9940f1c8afcd7ffe649fec3b52b77d0bcbaf0876222639213d07755927f9f3d7.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-9af1610cdad0334178389f0b0aa44f4e1c293a63b4a1feeba2a5181a2ab3924a.mp3": {
+    "file": "assets/lira-narration-9af1610cdad0334178389f0b0aa44f4e1c293a63b4a1feeba2a5181a2ab3924a-t4IfaHJ7.mp3",
+    "src": "src/assets/lira-narration/lira-narration-9af1610cdad0334178389f0b0aa44f4e1c293a63b4a1feeba2a5181a2ab3924a.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-9bbd74016f4b1756305235624cf85fdd84eeaeeebdd981c1494f0752d57c7fdf.mp3": {
+    "file": "assets/lira-narration-9bbd74016f4b1756305235624cf85fdd84eeaeeebdd981c1494f0752d57c7fdf-DU08UcI5.mp3",
+    "src": "src/assets/lira-narration/lira-narration-9bbd74016f4b1756305235624cf85fdd84eeaeeebdd981c1494f0752d57c7fdf.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-9dea89890b7c33667e2a1be259c05e38d65092c8d9cdc096a86656e6580574b5.mp3": {
+    "file": "assets/lira-narration-9dea89890b7c33667e2a1be259c05e38d65092c8d9cdc096a86656e6580574b5-BcgDqmFF.mp3",
+    "src": "src/assets/lira-narration/lira-narration-9dea89890b7c33667e2a1be259c05e38d65092c8d9cdc096a86656e6580574b5.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-a1425e1767c8b66fb2b65a04a584fc4687fe45a1125965602ccc60eb9189111e.mp3": {
+    "file": "assets/lira-narration-a1425e1767c8b66fb2b65a04a584fc4687fe45a1125965602ccc60eb9189111e-B-F9OuKn.mp3",
+    "src": "src/assets/lira-narration/lira-narration-a1425e1767c8b66fb2b65a04a584fc4687fe45a1125965602ccc60eb9189111e.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-aadc0014cf17f0aca7ac49ddd17b0246fd7659093dfc006b397f707fa8f138ef.mp3": {
+    "file": "assets/lira-narration-aadc0014cf17f0aca7ac49ddd17b0246fd7659093dfc006b397f707fa8f138ef-CGblXX2y.mp3",
+    "src": "src/assets/lira-narration/lira-narration-aadc0014cf17f0aca7ac49ddd17b0246fd7659093dfc006b397f707fa8f138ef.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-b1e89d6e50f49c55013ff1611b590fbccb48e1789374d00dbf8a70eba46c1627.mp3": {
+    "file": "assets/lira-narration-b1e89d6e50f49c55013ff1611b590fbccb48e1789374d00dbf8a70eba46c1627-Df6b8j4i.mp3",
+    "src": "src/assets/lira-narration/lira-narration-b1e89d6e50f49c55013ff1611b590fbccb48e1789374d00dbf8a70eba46c1627.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-b204ca550c218176c951e585ba6acbc33a63ae5cf4cb3284b4e751dfb88c842b.mp3": {
+    "file": "assets/lira-narration-b204ca550c218176c951e585ba6acbc33a63ae5cf4cb3284b4e751dfb88c842b-D73_LHQ5.mp3",
+    "src": "src/assets/lira-narration/lira-narration-b204ca550c218176c951e585ba6acbc33a63ae5cf4cb3284b4e751dfb88c842b.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-b46aa03fb739524159e445260b651971d487f517ce871ad609589428e9ea457c.mp3": {
+    "file": "assets/lira-narration-b46aa03fb739524159e445260b651971d487f517ce871ad609589428e9ea457c-B7A3lBBL.mp3",
+    "src": "src/assets/lira-narration/lira-narration-b46aa03fb739524159e445260b651971d487f517ce871ad609589428e9ea457c.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-b601689fe6b6deb37f4280ddfb28d01bb579ca2d6086f9b090eced8a242a705a.mp3": {
+    "file": "assets/lira-narration-b601689fe6b6deb37f4280ddfb28d01bb579ca2d6086f9b090eced8a242a705a-N_5vuv6z.mp3",
+    "src": "src/assets/lira-narration/lira-narration-b601689fe6b6deb37f4280ddfb28d01bb579ca2d6086f9b090eced8a242a705a.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-b64bfe6866d690d7527e651393fb77bca174508bdc59f33bfb3838592e1870f0.mp3": {
+    "file": "assets/lira-narration-b64bfe6866d690d7527e651393fb77bca174508bdc59f33bfb3838592e1870f0-CMR_lON8.mp3",
+    "src": "src/assets/lira-narration/lira-narration-b64bfe6866d690d7527e651393fb77bca174508bdc59f33bfb3838592e1870f0.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-c178ef9a2021c2b07daeda6815c57b90a33653fd6c768f8a9b9578750bab681a.mp3": {
+    "file": "assets/lira-narration-c178ef9a2021c2b07daeda6815c57b90a33653fd6c768f8a9b9578750bab681a-iNZMPC3b.mp3",
+    "src": "src/assets/lira-narration/lira-narration-c178ef9a2021c2b07daeda6815c57b90a33653fd6c768f8a9b9578750bab681a.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-c62ff53baa84e09aa7da47ea86cf7770d0edfefed4ffb0922efa39c08858e3a0.mp3": {
+    "file": "assets/lira-narration-c62ff53baa84e09aa7da47ea86cf7770d0edfefed4ffb0922efa39c08858e3a0-BYYtX_cZ.mp3",
+    "src": "src/assets/lira-narration/lira-narration-c62ff53baa84e09aa7da47ea86cf7770d0edfefed4ffb0922efa39c08858e3a0.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-d270d8304a19106b601499817045db273a537701c9f86c45eea0c1ba640929a3.mp3": {
+    "file": "assets/lira-narration-d270d8304a19106b601499817045db273a537701c9f86c45eea0c1ba640929a3-CXr1zHUI.mp3",
+    "src": "src/assets/lira-narration/lira-narration-d270d8304a19106b601499817045db273a537701c9f86c45eea0c1ba640929a3.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-d45217a40701dec3265162cfbac54d8610a265711728897f5f4f13c581a14eb7.mp3": {
+    "file": "assets/lira-narration-d45217a40701dec3265162cfbac54d8610a265711728897f5f4f13c581a14eb7--2_yH8z9.mp3",
+    "src": "src/assets/lira-narration/lira-narration-d45217a40701dec3265162cfbac54d8610a265711728897f5f4f13c581a14eb7.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-d8e0d355d2a788c4aadfd171950b90509b195e4c11534dbd50cb0fa50341ad45.mp3": {
+    "file": "assets/lira-narration-d8e0d355d2a788c4aadfd171950b90509b195e4c11534dbd50cb0fa50341ad45-DopoGvJP.mp3",
+    "src": "src/assets/lira-narration/lira-narration-d8e0d355d2a788c4aadfd171950b90509b195e4c11534dbd50cb0fa50341ad45.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-da19a9f66971764cc1ef807a49392c34d48d55493210869c2fe529a966aaa836.mp3": {
+    "file": "assets/lira-narration-da19a9f66971764cc1ef807a49392c34d48d55493210869c2fe529a966aaa836-D3vv-jUX.mp3",
+    "src": "src/assets/lira-narration/lira-narration-da19a9f66971764cc1ef807a49392c34d48d55493210869c2fe529a966aaa836.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-e0ff29f65f0fb06461d20f730b1b2418430ddbbdb228330f126e32660ba60918.mp3": {
+    "file": "assets/lira-narration-e0ff29f65f0fb06461d20f730b1b2418430ddbbdb228330f126e32660ba60918-rcZm14jv.mp3",
+    "src": "src/assets/lira-narration/lira-narration-e0ff29f65f0fb06461d20f730b1b2418430ddbbdb228330f126e32660ba60918.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-e67abc86a0aa121934bba970f90e482e77a7b53b1194832817c6c81658a38985.mp3": {
+    "file": "assets/lira-narration-e67abc86a0aa121934bba970f90e482e77a7b53b1194832817c6c81658a38985-B0DdasDK.mp3",
+    "src": "src/assets/lira-narration/lira-narration-e67abc86a0aa121934bba970f90e482e77a7b53b1194832817c6c81658a38985.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-ec8f22d8358777a2508f1d145df27f0bf5a9b813526fca77e3ef3934b8829738.mp3": {
+    "file": "assets/lira-narration-ec8f22d8358777a2508f1d145df27f0bf5a9b813526fca77e3ef3934b8829738-DaFRSZMD.mp3",
+    "src": "src/assets/lira-narration/lira-narration-ec8f22d8358777a2508f1d145df27f0bf5a9b813526fca77e3ef3934b8829738.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-eda3acf227afbb60e8a52d6657ac66c9f56e7412e9450546d3b8bbae4c2f21c6.mp3": {
+    "file": "assets/lira-narration-eda3acf227afbb60e8a52d6657ac66c9f56e7412e9450546d3b8bbae4c2f21c6-DEsK7xhT.mp3",
+    "src": "src/assets/lira-narration/lira-narration-eda3acf227afbb60e8a52d6657ac66c9f56e7412e9450546d3b8bbae4c2f21c6.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-edac19050590702c79bee4e6d1cb17ceba8f854714bf6179ca697921a9022337.mp3": {
+    "file": "assets/lira-narration-edac19050590702c79bee4e6d1cb17ceba8f854714bf6179ca697921a9022337-DhN6EYcn.mp3",
+    "src": "src/assets/lira-narration/lira-narration-edac19050590702c79bee4e6d1cb17ceba8f854714bf6179ca697921a9022337.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-ee6303d4786186dfe7a4a9fbd581eb13cb60dbe830e526e12c37c888172e7615.mp3": {
+    "file": "assets/lira-narration-ee6303d4786186dfe7a4a9fbd581eb13cb60dbe830e526e12c37c888172e7615-ChMZwcos.mp3",
+    "src": "src/assets/lira-narration/lira-narration-ee6303d4786186dfe7a4a9fbd581eb13cb60dbe830e526e12c37c888172e7615.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-f017f3d7b48787df646b4af18e1a3cfd658410f512449dd6d96ba8279255610f.mp3": {
+    "file": "assets/lira-narration-f017f3d7b48787df646b4af18e1a3cfd658410f512449dd6d96ba8279255610f-DjrEPfLz.mp3",
+    "src": "src/assets/lira-narration/lira-narration-f017f3d7b48787df646b4af18e1a3cfd658410f512449dd6d96ba8279255610f.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-f20255f8fd19d52cb9ea9f6443664ce31e2437a4d156677f48f56353cbfdb5d5.mp3": {
+    "file": "assets/lira-narration-f20255f8fd19d52cb9ea9f6443664ce31e2437a4d156677f48f56353cbfdb5d5-t0SXABfo.mp3",
+    "src": "src/assets/lira-narration/lira-narration-f20255f8fd19d52cb9ea9f6443664ce31e2437a4d156677f48f56353cbfdb5d5.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-f5c7e39a74868140747ef11fceeb48ca835ae8cce783ee5fa303cf510d8f3a64.mp3": {
+    "file": "assets/lira-narration-f5c7e39a74868140747ef11fceeb48ca835ae8cce783ee5fa303cf510d8f3a64-BdgTChfu.mp3",
+    "src": "src/assets/lira-narration/lira-narration-f5c7e39a74868140747ef11fceeb48ca835ae8cce783ee5fa303cf510d8f3a64.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-f64fb0b06492dac20253eb19d2d581953085407ef853fa6d742b85135740b448.mp3": {
+    "file": "assets/lira-narration-f64fb0b06492dac20253eb19d2d581953085407ef853fa6d742b85135740b448-VlXDOjoI.mp3",
+    "src": "src/assets/lira-narration/lira-narration-f64fb0b06492dac20253eb19d2d581953085407ef853fa6d742b85135740b448.mp3"
+  },
+  "src/assets/lira-narration/lira-narration-fc107d2e8f879a83c16948d274a97ab12c2bdfbc56e91ccf8873df7054f594dc.mp3": {
+    "file": "assets/lira-narration-fc107d2e8f879a83c16948d274a97ab12c2bdfbc56e91ccf8873df7054f594dc-DVVOGYi7.mp3",
+    "src": "src/assets/lira-narration/lira-narration-fc107d2e8f879a83c16948d274a97ab12c2bdfbc56e91ccf8873df7054f594dc.mp3"
+  },
+  "src/assets/stories/learning-meadow.webp": {
+    "file": "assets/learning-meadow-BT1CfqSI.webp",
+    "src": "src/assets/stories/learning-meadow.webp"
+  },
+  "src/assets/stories/story-forest.webp": {
+    "file": "assets/story-forest-B38a4pCn.webp",
+    "src": "src/assets/stories/story-forest.webp"
+  },
+  "src/assets/stories/story-lake.webp": {
+    "file": "assets/story-lake-C-o6cCTQ.webp",
+    "src": "src/assets/stories/story-lake.webp"
+  },
+  "src/assets/stories/story-room.webp": {
+    "file": "assets/story-room-DKR1ZCiw.webp",
+    "src": "src/assets/stories/story-room.webp"
+  },
+  "src/assets/stories/story-village.webp": {
+    "file": "assets/story-village-DpWlgryw.webp",
+    "src": "src/assets/stories/story-village.webp"
+  },
+  "src/brand/abc-a-block.svg": {
+    "file": "assets/abc-a-block-EBGhCKXa.svg",
+    "src": "src/brand/abc-a-block.svg"
+  },
+  "src/brand/abc-intro-poster.webp": {
+    "file": "assets/abc-intro-poster-Cc7LYOkH.webp",
+    "src": "src/brand/abc-intro-poster.webp"
+  },
+  "src/brand/abc-intro.mp4": {
+    "file": "assets/abc-intro-hW-vdz-2.mp4",
+    "src": "src/brand/abc-intro.mp4"
+  },
+  "src/brand/abc-logo-horizontal.svg": {
+    "file": "assets/abc-logo-horizontal-BQqchq0-.svg",
+    "src": "src/brand/abc-logo-horizontal.svg"
+  },
+  "src/brand/abc-logo-pyramid.svg": {
+    "file": "assets/abc-logo-pyramid-BULJcdAp.svg",
+    "src": "src/brand/abc-logo-pyramid.svg"
+  },
+  "src/brand/abc-logo-vertical.svg": {
+    "file": "assets/abc-logo-vertical-CA4tO1Jc.svg",
+    "src": "src/brand/abc-logo-vertical.svg"
+  },
+  "src/brand/abc-welcome-poster.webp": {
+    "file": "assets/abc-welcome-poster-nAFTybpW.webp",
+    "src": "src/brand/abc-welcome-poster.webp"
+  },
+  "src/brand/abc-welcome.mp4": {
+    "file": "assets/abc-welcome-CjNynMKR.mp4",
+    "src": "src/brand/abc-welcome.mp4"
+  },
+  "src/data/books.ts": {
+    "file": "assets/books-C-Uo9Kig.js",
+    "name": "books",
+    "src": "src/data/books.ts",
+    "isDynamicEntry": true
+  },
+  "src/data/curriculum.ts": {
+    "file": "assets/curriculum-CTgFNPb5.js",
+    "name": "curriculum",
+    "src": "src/data/curriculum.ts",
+    "isDynamicEntry": true
+  },
+  "src/director/SchoolPortal.tsx": {
+    "file": "assets/SchoolPortal-Dunb0wdg.js",
+    "name": "SchoolPortal",
+    "src": "src/director/SchoolPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-C6nwFnIU.js",
+      "_teacher-Db_T2BnD.js",
+      "_io-CyRCAKaK.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "dynamicImports": [
+      "src/director/demoApi.ts"
+    ],
+    "css": [
+      "assets/SchoolPortal-D3NluVkv.css"
+    ]
+  },
+  "src/director/demoApi.ts": {
+    "file": "assets/demoApi-CazkjCM3.js",
+    "name": "demoApi",
+    "src": "src/director/demoApi.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_content-C6nwFnIU.js",
+      "_demoApi-Bu2Y4oqd.js",
+      "_teacher-Db_T2BnD.js",
+      "_motion-Dy1Z1l7G.js",
+      "_assignTarget-D0x883I7.js",
+      "_classChallenge-B2dB5LRF.js",
+      "index.html",
+      "_io-CyRCAKaK.js"
+    ]
+  },
+  "src/landing/shots/desk-director.webp": {
+    "file": "assets/desk-director-Dg_PpBAv.webp",
+    "src": "src/landing/shots/desk-director.webp"
+  },
+  "src/landing/shots/desk-teacher.webp": {
+    "file": "assets/desk-teacher-DcQ5yY-7.webp",
+    "src": "src/landing/shots/desk-teacher.webp"
+  },
+  "src/landing/shots/phone-abc.webp": {
+    "file": "assets/phone-abc-BgA-pxBJ.webp",
+    "src": "src/landing/shots/phone-abc.webp"
+  },
+  "src/landing/shots/phone-director.webp": {
+    "file": "assets/phone-director-CAdtdOB1.webp",
+    "src": "src/landing/shots/phone-director.webp"
+  },
+  "src/landing/shots/phone-finish.webp": {
+    "file": "assets/phone-finish-DCsfGiVY.webp",
+    "src": "src/landing/shots/phone-finish.webp"
+  },
+  "src/landing/shots/phone-islands.webp": {
+    "file": "assets/phone-islands-D5BHFqmy.webp",
+    "src": "src/landing/shots/phone-islands.webp"
+  },
+  "src/landing/shots/phone-kampi.webp": {
+    "file": "assets/phone-kampi-CfxLWhQk.webp",
+    "src": "src/landing/shots/phone-kampi.webp"
+  },
+  "src/landing/shots/phone-path.webp": {
+    "file": "assets/phone-path-Dqz9GUvq.webp",
+    "src": "src/landing/shots/phone-path.webp"
+  },
+  "src/landing/shots/phone-stars.webp": {
+    "file": "assets/phone-stars-685d2Rs8.webp",
+    "src": "src/landing/shots/phone-stars.webp"
+  },
+  "src/landing/shots/phone-teacher.webp": {
+    "file": "assets/phone-teacher-DZ8oySnm.webp",
+    "src": "src/landing/shots/phone-teacher.webp"
+  },
+  "src/landing/shots/tablet-learn.webp": {
+    "file": "assets/tablet-learn-DwuRN4p3.webp",
+    "src": "src/landing/shots/tablet-learn.webp"
+  },
+  "src/landing/shots/tablet-together.webp": {
+    "file": "assets/tablet-together-VxRnd4zf.webp",
+    "src": "src/landing/shots/tablet-together.webp"
+  },
+  "src/pages/AccountPages.tsx": {
+    "file": "assets/AccountPages-CIjD-8Kz.js",
+    "name": "AccountPages",
+    "src": "src/pages/AccountPages.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-C6nwFnIU.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "css": [
+      "assets/AccountPages-Lp8yno2w.css"
+    ]
+  },
+  "src/pages/AudioCreditsPage.tsx": {
+    "file": "assets/AudioCreditsPage-Cr8Oszw1.js",
+    "name": "AudioCreditsPage",
+    "src": "src/pages/AudioCreditsPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_animal-sound-wolf-CZI8te8R.js",
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_content-C6nwFnIU.js",
+      "_motion-Dy1Z1l7G.js"
+    ]
+  },
+  "src/pages/DeleteAccountPage.tsx": {
+    "file": "assets/DeleteAccountPage-BJkQn8LW.js",
+    "name": "DeleteAccountPage",
+    "src": "src/pages/DeleteAccountPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_motion-Dy1Z1l7G.js",
+      "_content-C6nwFnIU.js"
+    ]
+  },
+  "src/pages/LegalPages.tsx": {
+    "file": "assets/LegalPages-BiGusZuB.js",
+    "name": "LegalPages",
+    "src": "src/pages/LegalPages.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_legal-BxBvIzGD.js",
+      "_motion-Dy1Z1l7G.js",
+      "_content-C6nwFnIU.js"
+    ]
+  },
+  "src/pages/SupportPage.tsx": {
+    "file": "assets/SupportPage-Ci9jbo-5.js",
+    "name": "SupportPage",
+    "src": "src/pages/SupportPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "src/pages/AccountPages.tsx",
+      "_legal-BxBvIzGD.js",
+      "_motion-Dy1Z1l7G.js",
+      "_content-C6nwFnIU.js"
+    ]
+  },
+  "src/teacher/ReviewPanel.tsx": {
+    "file": "assets/ReviewPanel-C1Amgk6h.js",
+    "name": "ReviewPanel",
+    "src": "src/teacher/ReviewPanel.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-C6nwFnIU.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "css": [
+      "assets/ReviewPanel-D_2YPW1x.css"
+    ]
+  },
+  "src/teacher/TeacherPortal.tsx": {
+    "file": "assets/TeacherPortal-CVjh0Xax.js",
+    "name": "TeacherPortal",
+    "src": "src/teacher/TeacherPortal.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_content-C6nwFnIU.js",
+      "_teacher-Db_T2BnD.js",
+      "_io-CyRCAKaK.js",
+      "_school-S3R_pRN7.js",
+      "_classChallenge-B2dB5LRF.js",
+      "_motion-Dy1Z1l7G.js"
+    ],
+    "dynamicImports": [
+      "src/data/curriculum.ts",
+      "src/data/books.ts",
+      "src/teacher/ReviewPanel.tsx",
+      "_demoApi-Bu2Y4oqd.js"
+    ]
+  }
+}
