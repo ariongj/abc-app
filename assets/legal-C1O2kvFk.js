@@ -1,0 +1,1 @@
+const e={version:"2026-10-18-family-pilot",date:"18 tetor 2026",creator:"ITD (IT Department)",company:"IT Department Group L.L.C.",registration:"812438738",address:"Anton Cuni Nr. 5, Prishtinë, Kosovë",email:"info@itdks.tech"},o={version:"2026-11-16-lira-online-openai",provider:"OpenAI"},n=o.version;export{o as A,e as L,n as a};
